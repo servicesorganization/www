@@ -1,4 +1,4 @@
-remote-theme: brummens/workspace-docs
+remote_theme: brummens/workspace-docs
 
 topnav_title: Workspace Services
 # this appears on the top navigation bar next to the home button
