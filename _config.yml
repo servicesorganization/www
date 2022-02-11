@@ -1,6 +1,8 @@
-plugins:
-    - jekyll-remote-theme
+theme: minima
+
+#plugins:
+ #   - jekyll-remote-theme
     
 # remote_theme: brummens/workspace-docs
 
-remote_theme: brummens/jekyll-doc-theme 
+# remote_theme: brummens/jekyll-doc-theme 
