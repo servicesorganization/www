@@ -3,4 +3,4 @@ plugins:
     
 # remote_theme: brummens/workspace-docs
 
-remote_theme: brummens/nekyll-doc-theme
+remote_theme: brummens/jekyll-doc-theme
