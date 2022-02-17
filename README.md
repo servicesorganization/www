@@ -1,3 +1,3 @@
 # sales-docs
 
-https://brummens.github.io/sales-docs
+https://brummens.github.io/remote-theme
