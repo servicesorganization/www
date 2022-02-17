@@ -1,4 +1,5 @@
-plugins: jekyll-data
+plugins: 
+  - jekyll-data
 
 remote_theme: brummens/test
 
