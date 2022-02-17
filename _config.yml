@@ -2,6 +2,7 @@ plugins:
     - jekyll-remote-theme
     - jekyll-data
 
+
 remote_theme: brummens/documentation-theme
 
 output: web
