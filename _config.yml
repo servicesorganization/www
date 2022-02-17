@@ -18,7 +18,7 @@ company_name: Orange Business Services
 github_editme_path: brummens/sales-docs/blob/gh-pages/
 # if you're using Github, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.
 
-google_analytics: UA-66296557-1
+# google_analytics: UA-66296557-1
 # if you have google-analytics ID, put it in. if not, edit this value to blank.
 
 # host: 127.0.0.1
@@ -38,7 +38,7 @@ feedback_subject_line: Workspace Services
 feedback_email: info@loginconsultants.nl
 # used as a contact email for the Feedback link in the top navigation bar
 
-feedback_disable: false
+feedback_disable: true
 # if you uncomment the previous line, the Feedback link gets removed
 
 # feedback_text: "Need help?"
