@@ -1,7 +1,3 @@
-plugin: 
-  - jekyll-remote-theme
-  - jekyll-data
-  
 remote_theme: brummens/test
 
 output: web
