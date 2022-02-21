@@ -2,7 +2,7 @@
 title: Example Overview
 sidebar: example_overview
 keywords: news, blog, updates, release notes, announcements
-permalink: example_overview.html
+permalink: index.html
 toc: false
 folder: 
 ---
