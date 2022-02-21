@@ -1,6 +1,6 @@
 ---
 title: Example Overview
-sidebar: example_overview
+sidebar: example_sidebar
 keywords: news, blog, updates, release notes, announcements
 permalink: index.html
 toc: false
