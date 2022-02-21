@@ -1,3 +1,11 @@
+---
+title: Example Introduction
+sidebar: example_sidebar
+keywords: news, blog, updates, release notes, announcements
+permalink: example_introduction.html
+toc: true
+folder: 
+---
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/brummens/sales-docs/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
