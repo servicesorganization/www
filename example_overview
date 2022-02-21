@@ -1,10 +1,10 @@
 ---
-title: About Orange Workspace Services
-sidebar: about_sidebar
+title: Example Overview
+sidebar: example_overview
 keywords: news, blog, updates, release notes, announcements
-permalink: about.html
+permalink: example_overview.html
 toc: false
-folder: about
+folder: 
 ---
 <div class="home">
 
