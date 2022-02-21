@@ -6,27 +6,40 @@ permalink: index.html
 toc: false
 folder: 
 ---
-<div class="home">
+## Welcome to GitHub Pages
 
-    <div class="post-list">
-        {% for post in site.posts limit:10 %}
+You can use the [editor on GitHub](https://github.com/brummens/sales-docs/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-    <h2><a class="post-link" href="{{ post.url | remove: "/" }}">{{ post.title }}</a></h2>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }} /
-            {% for tag in post.tags %}
+### Markdown
 
-                <a href="{{ "tag_" | append: tag | append: ".html"}}">{{tag}}</a>{% unless forloop.last %}, {% endunless%}
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-                {% endfor %}</span>
-        <p>{% if page.summary %} {{ page.summary | strip_html | strip_newlines | truncate: 160 }} {% else %} {{ post.content | truncatewords: 50 | strip_html }} {% endif %}</p>
+```markdown
+Syntax highlighted code block
 
-        {% endfor %}
+# Header 1
+## Header 2
+### Header 3
 
-        <p><a href="assets/feed.xml" class="btn btn-primary navbar-btn cursorNorm" role="button">RSS Subscribe{{tag}}</a></p>
+- Bulleted
+- List
 
-<hr />
-        <p>See more posts from the <a href="news_archive.html">News Archive</a>. </p>
+1. Numbered
+2. List
 
-    </div>
-</div>
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/brummens/sales-docs/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
