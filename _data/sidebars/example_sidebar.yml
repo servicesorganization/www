@@ -1,0 +1,27 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: 
+  levels: one
+  folders:
+
+  - title: Example
+    output: web
+    folderitems:
+    - title: Example overview
+      url: /example_overview.html
+      output: web
+    - title: Example instructions
+      url: /example_introduction.html
+      output: web
+    - title: Example 1
+      url: /landing_page1.html
+      output: web
+    - title: Example 2
+      url: /landing_page2.html
+      output: web
+    - title: Example 3
+      url: /landing_page3.html
+      output: web
+
+# Copyright 2021 Google LLC
