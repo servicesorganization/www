@@ -11,7 +11,7 @@ entries:
     - title: Example overview
       url: /index.html
       output: web
-    - title: Example instructions
+    - title: Example introduction
       url: /example_introduction.html
       output: web
     - title: Example 1
