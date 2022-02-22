@@ -4,6 +4,9 @@
 topnav:
     - title: Topnav
       items:
+        - title: Support
+          external_url: https://support.orangeworkspaeservices.com
+          
         - title: Contact
           url: /contact.html
       
@@ -35,23 +38,6 @@ topnav_dropdowns:
         - title: Employee Support Desk
           url: /esd_overview.html
 
-    - title: Resources
-      folderitems:
-        - title: Shared Services Overview
-          url: /shared_services_overview.html  
-        - title: Managed Cloud Foundation Services
-          url: /mcfs_overview.html
-        - title: Managed Identity and Access
-          url: /iam_overview.html
-        - title: Digital Employee Experience Monitoring
-          url: /deem_overview.html
-        - title: Managed Application Delivery Services
-          url: /mads_overview.html
-        - title: Employee Adoption Service
-          url: /eas_overview.html
-        - title: Cloud Managed Printing
-          url: /cmp_overview.html
-
     - title: Insights
       folderitems:
         - title: News
@@ -66,7 +52,7 @@ topnav_dropdowns:
     - title: About us
       folderitems:
         - title: About Orange Business Services
-          url: https://www.orange-business.com
+          external_url: https://www.orange-business.com
         - title: Market Recognition
           url: /mem_overview.html
         - title: Vendors & Partners
