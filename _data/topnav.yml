@@ -17,31 +17,43 @@ topnav_dropdowns:
 
     - title: Services
       folderitems:
-        - title: Workspace Services Overview
-          url: /workspace_service_overview.html
-        - title: Managed Office 365
-          url: /m365_overview.html
-        - title: Managed Workspace Portal
-          url: /mwp_overview.html
+        - title: Managed Cloud Foundation Services
+          url: /managed_cloud_foundation_services
+        - title: Managed Identity and Access
+          url: /managed_identity_and_access
         - title: Cloud Managed Device
-          url: /cmd_overview.html
+          url: /cloud_managed_device
+        - title: Managed Office 365
+          url: /managed_office_365
         - title: Managed Cloud Hosted Desktop & Apps
-          url: /mchda_overview.html
+          url: /managed_cloud_hosted_desktop_and_apps
+        - title: Managed Cloud Hosted Desktop & Apps (Hybrid)
+          url: /managed_cloud_hosted_desktop_and_apps_hybrid
         - title: Managed Local & Office Lan/WiFi
-          url: /mlo_overview.html
-        - title: Managed Detection & Response
-          url: /mdr_overview.html
+          url: /managed_local_and_office_lan_wifi
         - title: Device as a Service
-          url: /daas_overview.html
+          url: /device_as_a_service
         - title: Teams Operator Connect
-          url: /toc_overview.html
+          url: /teams_operator_connect
+        - title: Managed Application Delivery Services
+          url: /managed_application_delivery_services
+        - title: Managed Workspace Portal
+          url: /managed_workspace_portal
+        - title: Digital Employee Experience Monitoring
+          url: /digital_employee_experience_monitoring
+        - title: Managed Detection and Response
+          url: /managed_detection_and_response
+        - title: Cloud Managed Printing
+          url: /cloud_managed_printing
+        - title: Employee Adoption Service
+          url: /employee_adoption_service
         - title: Employee Support Desk
-          url: /esd_overview.html
+          url: /employee_support_desk
 
     - title: Insights
       folderitems:
         - title: News
-          url: /ows_architecture.html
+          url: /news
         - title: Case Studies
           url: /p1_landing_page.htm
         - title: Blogs
@@ -54,9 +66,9 @@ topnav_dropdowns:
         - title: About Orange Business Services
           external_url: https://www.orange-business.com
         - title: Market Recognition
-          url: /mem_overview.html
+          url: /market_recognition.html
         - title: Vendors & Partners
-          url: /avd_overview.html
+          url: /vendors_and_partners.html
           
           
 # Copyright 2021 Google LLC
