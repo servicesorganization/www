@@ -9,7 +9,7 @@ entries:
     output: web
     folderitems:
     - title: Example overview
-      url: /example_overview.html
+      url: /index.html
       output: web
     - title: Example instructions
       url: /example_introduction.html
