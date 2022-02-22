@@ -55,11 +55,11 @@ topnav_dropdowns:
         - title: News
           url: /news
         - title: Case Studies
-          url: /p1_landing_page.htm
+          url: /case_studies.html
         - title: Blogs
-          url: /p1_landing_page.html
+          url: /blogs.html
         - title: Reports & Whitepapers
-          url: /mydoc_introduction.html
+          url: /reports_and_whitepapers.html
         
     - title: About us
       folderitems:
