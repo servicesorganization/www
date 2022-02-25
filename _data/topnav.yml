@@ -4,9 +4,8 @@
 topnav:
     - title: Topnav
       items:
-        - title: Documentation
-          external_url: https://docs.orangeworkspaceservices.com
-          
+        - title: Support
+          url: support.html
         - title: Contact
           url: /contact.html
       
