@@ -1,2 +1,2 @@
-# www
-https://www.orangeworkspaceservices.com
+# web
+https://web.orangeworkspaceservices.com
