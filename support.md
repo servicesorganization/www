@@ -33,9 +33,17 @@ permalink: support.html
         height: 300px;
     }
     .col-sm-45 {
+        position: relative;
+        min-height: 1px;
+        padding-right: 15px;
+        padding-left: 15px;
         width: 45%
     }
     .col-sm-10 {
+        position: relative;
+        min-height: 1px;
+        padding-right: 15px;
+        padding-left: 15px;
         width: 10%
     }
 </style>
