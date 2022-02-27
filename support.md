@@ -26,7 +26,7 @@ permalink: support.html
         height: 300px;
     }
     .div-row {
-        padding: 10 px;
+        padding: 10px;
         height: 500px;
         border-radius: 25px;
     }
