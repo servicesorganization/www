@@ -28,7 +28,7 @@ permalink: contact.html
     <div class="row-nopadding">
         <div class="col-md-6">
             <h7 class="header-light regular-pad">We take the time for you, we want to move forward together</h7>
-                <p class="lead">Are you interested to know more about Orange Workspace Services. Send us a message via the form or mail to [info@loginconsultants.nl](mailto:info@loginconsultants.nl). Of course you can also call us with a question:</p>
+                <p class="lead">Are you interested to know more about Orange Workspace Services. Send us a message via the form or mail to <a href="mailto:info@loginconsultants.nl">info@loginconsultants.nl</a>. Of course you can also call us with a question:</p>
                 <p class="lead"><i class="fa fa-phone"></i> 088 594 9000</p>
         </div>
         <div class="col-md-6">
