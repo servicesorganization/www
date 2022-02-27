@@ -11,27 +11,23 @@ permalink: support.html
 	    background-repeat: no-repeat
     }
     .bgarticles {
-        border-radius: 15px;
         background-image: url('../images/support-bg.jpg');
         background-position:center;
 	    background-size: 100%;
-	    background-repeat: no-repeat;
-        height: 500px;
-        text-align: center
+	    background-repeat: no-repeat
     }
     .bgdocuments {
-        border-radius: 15px;
         background-image: url('../images/support-bg.jpg');
         background-position:center;
 	    background-size: 100%;
-	    background-repeat: no-repeat;
-        height: 500px;
-        text-align: center
+	    background-repeat: no-repeat
     }
     .jumbotron-height {
         height: 300px;
     }
-
+    .rounded-corners {
+        border-radius: 15px;
+    }
 </style>
 
 <div class="jumbotron jumbotron-height bgimg">
@@ -52,10 +48,10 @@ permalink: support.html
 
 <div class="container">
     <div class="row-nopadding">
-        <div class="col-md-6 bgarticles">
+        <div class="col-md-6 rounded-corners bgarticles">
             <p><a class="btn btn-jumbotron btn-lg" href="{{ "https://docs.orangeworkspaceservices.com" | relative_url }}" target="_blank" role="button">Help & Support Articals</a></p>
         </div>
-        <div class="col-md-6 bgdocuments">
+        <div class="col-md-6 rounded-corners bgdocuments">
         <p><a class="btn btn-jumbotron btn-lg" href="{{ "https://docs.orangeworkspaceservices.com" | relative_url }}" target="_blank" role="button">Orange Workspace Services Documentation</a></p>
         </div>
     </div>
