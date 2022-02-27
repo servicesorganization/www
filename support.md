@@ -25,8 +25,8 @@ permalink: support.html
 
 <div class="container">
     <div class="row-nopadding">
-        <div class="col-sm-12">
-            <h7 class="text-center">Find your Orange Workspace Services support here</h7>
+        <div class="col-sm-12 text-center">
+            <h7>Find your Orange Workspace Services support here</h7>
         </div>
     </div>
 </div>
