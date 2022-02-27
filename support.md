@@ -11,18 +11,14 @@ permalink: support.html
 	    background-repeat: no-repeat
     }
     .bgarticles {
-        text-align: center;
         border-radius: 15px;
-        height: 500px;
         background-image: url('../images/support-bg.jpg');
         background-position:center;
 	    background-size: 100%;
 	    background-repeat: no-repeat
     }
     .bgdocuments {
-        text-align: center;
         border-radius: 15px;
-        height: 500px;
         background-image: url('../images/support-bg.jpg');
         background-position:center;
 	    background-size: 100%;
@@ -30,6 +26,9 @@ permalink: support.html
     }
     .jumbotron-height {
         height: 300px;
+    }
+    .article-block {
+        border-radius: 15px;
     }
 </style>
 
