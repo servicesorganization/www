@@ -68,7 +68,7 @@ permalink: support.html
     </div>
 </div>
 
-<div>
+<div class="container">
     <div>
         <div class="col-md-5 bgarticles">
             <p>Text</p>
