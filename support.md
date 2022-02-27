@@ -32,6 +32,20 @@ permalink: support.html
     .jumbotron-height {
         height: 300px;
     }
+    .article-container {
+      display: flex;
+      flex-wrap: wrap;
+    }
+    
+    .article {
+      flex-grow: 1;
+      flex-basis: 50%;
+    }
+    
+    .article:after {
+      content: "";
+      flex: auto;
+    }
 
 
 </style>
@@ -53,12 +67,13 @@ permalink: support.html
 </div>
 
 <div class="container">
-    <div class="row-nopadding">
-        <div class="bgarticles">
+    <div class="row-nopadding article-container">
+        <div class="article bgarticles">
+            <p><a class="btn btn-jumbotron btn-lg" href="{{ "https://docs.orangeworkspaceservices.com" | relative_url }}" target="_blank" role="button">Help & Support Articals</a></p>
+        </div>
+        <div class="article bgarticles">
             <p><a class="btn btn-jumbotron btn-lg" href="{{ "https://docs.orangeworkspaceservices.com" | relative_url }}" target="_blank" role="button">Help & Support Articals</a></p>
         </div>
     </div>
 </div>
-
-
 
