@@ -52,20 +52,12 @@ permalink: support.html
 
 <div class="container">
     <div class="row-nopadding">
-        <table>
-            <tr>
-                <td>
-                    <div class="col-sm-6 text-center bgarticles">
-                        <p><a class="btn btn-jumbotron btn-lg" href="{{ "https://docs.orangeworkspaceservices.com" | relative_url }}" target="_blank" role="button">Help & Support Articals</a></p>
-                    </div>
-                </td>
-                <td>
-                    <div class="col-sm-6 text-center bgarticles">
-                        <p><a class="btn btn-jumbotron btn-lg" href="{{ "https://docs.orangeworkspaceservices.com" | relative_url }}" target="_blank" role="button">Help & Support Articals</a></p>
-                    </div>
-                </td>
-            </tr>
-        </table>
+        <div class="col-sm-6 text-center bgarticles">
+            <p><a class="btn btn-jumbotron btn-lg" href="{{ "https://docs.orangeworkspaceservices.com" | relative_url }}" target="_blank" role="button">Help & Support Articals</a></p>
+    </div>
+        <div class="col-sm-6 text-center bgarticles">
+            <p><a class="btn btn-jumbotron btn-lg" href="{{ "https://docs.orangeworkspaceservices.com" | relative_url }}" target="_blank" role="button">Help & Support Articals</a></p>
+        </div>
     </div>
 </div>
 
