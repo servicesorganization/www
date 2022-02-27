@@ -53,8 +53,8 @@ permalink: support.html
     </div>
 </div>
 
-<div class="container container-height">
-    <div class="row-nopadding">
+<div class="container">
+    <div class="container-fluid">
         <div class="col-md-6 bgarticles">
             <p><a class="btn btn-jumbotron btn-lg" href="{{ "https://docs.orangeworkspaceservices.com" | relative_url }}" target="_blank" role="button">Help & Support Articals</a></p>
         </div>
