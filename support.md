@@ -13,7 +13,7 @@ permalink: support.html
     }
     .bgarticles {
         text-align: center;
-        border-radius: 6px;
+        border-radius: 15px;
         background-image: url('../images/support-bg.jpg');
         background-position:center;
 	    background-size: 100%;
@@ -22,7 +22,7 @@ permalink: support.html
     }
     .bgdocuments {
         text-align: center;
-        border-radius: 6px;
+        border-radius: 15px;
         background-image: url('https://web.orangeworkspaceservices.com/images/support-bg.jpg');
         background-position:center;
 	    background-size: 100%;
@@ -32,22 +32,6 @@ permalink: support.html
     .jumbotron-height {
         height: 300px;
     }
-    .article-container {
-      display: flex;
-      flex-wrap: wrap;
-    }
-    
-    .article {
-      flex-grow: 1;
-      flex-basis: 50%;
-    }
-    
-    .article:after {
-      content: "";
-      flex: auto;
-    }
-
-
 </style>
 
 <div class="jumbotron jumbotron-height bgimg">
@@ -66,12 +50,22 @@ permalink: support.html
     </div>
 </div>
 
-<div class="article-container">
-    <div class="article bgarticles">
-        <p><a class="btn btn-jumbotron btn-lg" href="{{ "https://docs.orangeworkspaceservices.com" | relative_url }}" target="_blank" role="button">Help & Support Articals</a></p>
-    </div>
-    <div class="article bgarticles">
-        <p><a class="btn btn-jumbotron btn-lg" href="{{ "https://docs.orangeworkspaceservices.com" | relative_url }}" target="_blank" role="button">Help & Support Articals</a></p>
+<div class="container">
+    <div class="row-nopadding">
+        <table>
+            <tr>
+                <td>
+                    <div class="col-sm-6 text-center bgarticles">
+                        <p><a class="btn btn-jumbotron btn-lg" href="{{ "https://docs.orangeworkspaceservices.com" | relative_url }}" target="_blank" role="button">Help & Support Articals</a></p>
+                    </div>
+                <td>
+                <td>
+                    <div class="col-sm-6 text-center bgarticles">
+                        <p><a class="btn btn-jumbotron btn-lg" href="{{ "https://docs.orangeworkspaceservices.com" | relative_url }}" target="_blank" role="button">Help & Support Articals</a></p>
+                    </div>
+                </td>
+            </tr>
+        </table>
     </div>
 </div>
 
