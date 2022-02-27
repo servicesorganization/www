@@ -13,7 +13,7 @@ permalink: support.html
     }
     .bgarticles {
         text-align: center;
-        border-radius: 15px;
+        border-radius: 6px;
         background-image: url('../images/support-bg.jpg');
         background-position:center;
 	    background-size: 100%;
@@ -22,7 +22,7 @@ permalink: support.html
     }
     .bgdocuments {
         text-align: center;
-        border-radius: 15px;
+        border-radius: 6px;
         background-image: url('https://web.orangeworkspaceservices.com/images/support-bg.jpg');
         background-position:center;
 	    background-size: 100%;
@@ -33,6 +33,7 @@ permalink: support.html
         height: 300px;
     }
     .article-container {
+width: 750px;
       display: flex;
       flex-wrap: wrap;
     }
