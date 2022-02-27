@@ -1,5 +1,7 @@
 ---
 layout: firstpage
+title: Support
+permalink: support.html
 ---
 <style type="text/css">
     .bgimg {
@@ -9,7 +11,7 @@ layout: firstpage
 	    background-repeat: no-repeat
     }
     .jumbotron-height {
-        height: 300px;
+        height: 350px;
     }
 </style>
 
