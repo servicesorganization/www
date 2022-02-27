@@ -68,8 +68,8 @@ permalink: support.html
     </div>
 </div>
 
-<div class="container">
-    <div>
+<div>
+    <div class="container">
         <div class="col-md-5 bgarticles">
             <p>Text</p>
             <p><a class="btn btn-jumbotron btn-lg" href="{{ "https://docs.orangeworkspaceservices.com" | relative_url }}" target="_blank" role="button">Help & Support Articals</a></p>
