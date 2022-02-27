@@ -13,7 +13,7 @@ permalink: index.html
 <div class="jumbotron jumbotron-height">
     <div class="container">
         <h1>Orange Workspace Services</h1>
-        <p>Orange Workspace Services is a unique workplace solution. The solution is based on existing workplace services and extended with the leading services of Orange delivered as one.</p>
+        <p>Orange Workspace Services is a unique workplace solution. The solution is based on existing workplace services and enriched with Orange's leading services delivered as a whole.</p>
         <p><a class="btn btn-jumbotron btn-lg" href="{{ "/solutions_overview.html" | relative_url }}" role="button">Learn more</a></p>
     </div>
 </div>
