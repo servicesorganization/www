@@ -6,7 +6,7 @@ permalink: index.html
 
 <style type="text/css">
     .jumbotron-height {
-        height: 350px;
+        height: 300px;
     }
 </style>
 

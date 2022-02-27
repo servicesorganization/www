@@ -6,12 +6,12 @@ permalink: support.html
 <style type="text/css">
     .bgimg {
         background-image: url('../images/support-bg.jpg');
-        background-position:center;
+        background-position:center bottom 20%;
 	    background-size: 100%;
 	    background-repeat: no-repeat
     }
     .jumbotron-height {
-        height: 350px;
+        height: 300px;
     }
 </style>
 

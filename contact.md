@@ -12,7 +12,7 @@ permalink: contact.html
 	    background-repeat: no-repeat
     }
     .jumbotron-height {
-        height: 350px;
+        height: 300px;
     }
 </style>
 
