@@ -12,25 +12,23 @@ permalink: support.html
 	    background-repeat: no-repeat
     }
     .bgarticles {
-        padding: 250px 0px;
-        border-width: 10px;
-        border-color: black;
         text-align: center;
         border-radius: 15px;
         background-image: url('../images/support-bgarticles.jpg');
         background-position:center;
 	    background-size: 100%;
 	    background-repeat: no-repeat;
+        width:600px;
         height: 300px
     }
     .bgdocuments {
-        padding: 250px 0px;
         text-align: center;
         border-radius: 15px;
         background-image: url('../images/support-bgdocuments.jpg');
         background-position:center;
 	    background-size: 100%;
 	    background-repeat: no-repeat;
+        width: 600px;
         height: 300px
     }
     .jumbotron-height {
