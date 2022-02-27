@@ -68,7 +68,7 @@ permalink: support.html
     </div>
 </div>
 
-<div>
+<div class="jumbotron">
     <div class="container">
         <div class="col-md-5 bgarticles">
             <p>Text</p>
