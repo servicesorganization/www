@@ -12,6 +12,7 @@ permalink: support.html
 	    background-repeat: no-repeat
     }
     .bgarticles {
+        margin: 15px;
         text-align: center;
         border-radius: 15px;
         background-image: url('../images/support-bgarticles.jpg');
@@ -21,6 +22,7 @@ permalink: support.html
         height: 300px
     }
     .bgdocuments {
+        margin: 15px;
         text-align: center;
         border-radius: 15px;
         background-image: url('../images/support-bgdocuments.jpg');
@@ -55,7 +57,7 @@ permalink: support.html
         <div class="col-sm-6 text-center bgarticles">
             <p><a class="btn btn-jumbotron btn-lg" href="{{ "https://docs.orangeworkspaceservices.com" | relative_url }}" target="_blank" role="button">Help & Support Articals</a></p>
     </div>
-        <div class="col-sm-6 text-center bgarticles">
+        <div class="col-sm-6 text-center bgdocuments">
             <p><a class="btn btn-jumbotron btn-lg" href="{{ "https://docs.orangeworkspaceservices.com" | relative_url }}" target="_blank" role="button">Help & Support Articals</a></p>
         </div>
     </div>
