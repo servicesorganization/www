@@ -26,7 +26,7 @@ permalink: support.html
 <div class="container">
     <div class="row-nopadding">
         <div class="col-sm-12">
-            <h7 class="text-center header-light regular-pad">Find your Orange Workspace Services Support here</h7>
+            <h7 class="text-center">Find your Orange Workspace Services support here</h7>
         </div>
     </div>
 </div>
@@ -34,11 +34,10 @@ permalink: support.html
 <div class="container">
     <div class="row-nopadding">
         <div class="col-md-6">
-            <h7 class="header-light regular-pad">What is Orange Workspace Services?</h7>
-                        <p><a class="btn btn-jumbotron btn-lg" href="{{ "https://docs.orangeworkspaceservices.com" | relative_url }}" role="button">Help & Support Articals</a></p>
+            <p><a class="btn btn-jumbotron btn-lg" href="{{ "https://docs.orangeworkspaceservices.com" | relative_url }}" target="_blank" role="button">Help & Support Articals</a></p>
         </div>
         <div class="col-md-6">
-        <p><a class="btn btn-jumbotron btn-lg" href="{{ "https://docs.orangeworkspaceservices.com" | relative_url }}" role="button">Orange Workspace Services Documentation</a></p>
+        <p><a class="btn btn-jumbotron btn-lg" href="{{ "https://docs.orangeworkspaceservices.com" | relative_url }}" target="_blank" role="button">Orange Workspace Services Documentation</a></p>
         </div>
     </div>
 </div>
