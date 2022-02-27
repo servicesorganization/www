@@ -23,7 +23,7 @@ permalink: support.html
     .bgdocuments {
         text-align: center;
         border-radius: 15px;
-        background-image: url('https://web.orangeworkspaceservices.com/images/support-bgdocuments.jpg');
+        background-image: url('../images/support-bgdocuments.jpg');
         background-position:center;
 	    background-size: 100%;
 	    background-repeat: no-repeat;
