@@ -29,8 +29,9 @@ permalink: support.html
     .jumbotron-height {
         height: 300px;
     }
-    .article-block {
-        border-radius: 15px;
+    .row-config {
+        padding: 10px;
+        height: 500px;
     }
 </style>
 
@@ -51,7 +52,7 @@ permalink: support.html
 </div>
 
 <div class="container">
-    <div class="row-nopadding">
+    <div class="row-config">
         <div class="col-md-6 bgarticles">
             <p><a class="btn btn-jumbotron btn-lg" href="{{ "https://docs.orangeworkspaceservices.com" | relative_url }}" target="_blank" role="button">Help & Support Articals</a></p>
         </div>
