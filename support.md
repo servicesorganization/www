@@ -14,7 +14,7 @@ permalink: support.html
     .bgarticles {
         text-align: center;
         border-radius: 15px;
-        background-image: url('../images/support-bg.jpg');
+        background-image: url('../images/support-bgarticles.jpg');
         background-position:center;
 	    background-size: 100%;
 	    background-repeat: no-repeat;
@@ -23,7 +23,7 @@ permalink: support.html
     .bgdocuments {
         text-align: center;
         border-radius: 15px;
-        background-image: url('https://web.orangeworkspaceservices.com/images/support-bg.jpg');
+        background-image: url('https://web.orangeworkspaceservices.com/images/support-bgdocuments.jpg');
         background-position:center;
 	    background-size: 100%;
 	    background-repeat: no-repeat;
@@ -58,7 +58,7 @@ permalink: support.html
                     <div class="col-sm-6 text-center bgarticles">
                         <p><a class="btn btn-jumbotron btn-lg" href="{{ "https://docs.orangeworkspaceservices.com" | relative_url }}" target="_blank" role="button">Help & Support Articals</a></p>
                     </div>
-                <td>
+                </td>
                 <td>
                     <div class="col-sm-6 text-center bgarticles">
                         <p><a class="btn btn-jumbotron btn-lg" href="{{ "https://docs.orangeworkspaceservices.com" | relative_url }}" target="_blank" role="button">Help & Support Articals</a></p>
