@@ -26,7 +26,6 @@ permalink: support.html
         height: 300px;
     }
     .support-areas {
-        margin: 10px;
         height: 500px;
         border-radius: 25px;
     }
