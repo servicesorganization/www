@@ -18,7 +18,7 @@ permalink: support.html
         background-position:center;
 	    background-size: 100%;
 	    background-repeat: no-repeat;
-        height: 500px
+        height: 300px
     }
     .bgdocuments {
         text-align: center;
@@ -27,7 +27,7 @@ permalink: support.html
         background-position:center;
 	    background-size: 100%;
 	    background-repeat: no-repeat;
-        height: 500px
+        height: 300px
     }
     .jumbotron-height {
         height: 300px;
