@@ -25,8 +25,8 @@ permalink: support.html
     .jumbotron-height {
         height: 300px;
     }
-    .div-row {
-        padding: 10px;
+    .support-areas {
+        margin: 10px;
         height: 500px;
         border-radius: 25px;
     }
@@ -50,10 +50,10 @@ permalink: support.html
 
 <div class="container">
     <div class="row-nopadding">
-        <div class="col-md-6 div-row bgarticles text-center">
+        <div class="col-md-6 support-areas bgarticles text-center">
             <p><a class="btn btn-jumbotron btn-lg" href="{{ "https://docs.orangeworkspaceservices.com" | relative_url }}" target="_blank" role="button">Help & Support Articals</a></p>
         </div>
-        <div class="col-md-6 div-row bgdocuments text-center">
+        <div class="col-md-6 support-areas bgdocuments text-center">
         <p><a class="btn btn-jumbotron btn-lg" href="{{ "https://docs.orangeworkspaceservices.com" | relative_url }}" target="_blank" role="button">Orange Workspace Services Documentation</a></p>
         </div>
     </div>
