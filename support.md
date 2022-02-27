@@ -11,7 +11,6 @@ permalink: support.html
 	    background-repeat: no-repeat
     }
     .bgarticles {
-        height: 500px;
         text-align: center;
         border-radius: 15px;
         background-image: url('../images/support-bg.jpg');
@@ -20,7 +19,6 @@ permalink: support.html
 	    background-repeat: no-repeat
     }
     .bgdocuments {
-        height: 500px;
         text-align: center;
         border-radius: 15px;
         background-image: url('../images/support-bg.jpg');
@@ -31,6 +29,11 @@ permalink: support.html
     .jumbotron-height {
         height: 300px;
     }
+
+    .container-height {
+        height: 500px;
+    }
+
 
 </style>
 
@@ -50,7 +53,7 @@ permalink: support.html
     </div>
 </div>
 
-<div class="container">
+<div class="container container-height">
     <div class="row-nopadding">
         <div class="col-md-6 bgarticles">
             <p><a class="btn btn-jumbotron btn-lg" href="{{ "https://docs.orangeworkspaceservices.com" | relative_url }}" target="_blank" role="button">Help & Support Articals</a></p>
