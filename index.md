@@ -1,5 +1,7 @@
 ---
 layout: firstpage
+title: Home
+permalink: index.html
 ---
 
 <div class="jumbotron">
