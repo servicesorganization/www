@@ -33,7 +33,6 @@ permalink: support.html
         height: 300px;
     }
     .article-container {
-width: 750px;
       display: flex;
       flex-wrap: wrap;
     }
