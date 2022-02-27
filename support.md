@@ -52,13 +52,13 @@ permalink: support.html
 
 <div class="container">
     <div>
-        <div class="col-sm-6 text-center bgarticles">
+        <div class="col-sm-5 text-center bgarticles">
             <p><a class="btn btn-jumbotron btn-lg" href="{{ "https://docs.orangeworkspaceservices.com" | relative_url }}" target="_blank" role="button">Help & Support Articals</a></p>
         </div>
-        <div style="height: 10px">
+        <div class="col-sm-1">
             <p></p>
         </div>
-        <div class="col-sm-6 text-center bgdocuments">
+        <div class="col-sm-5 text-center bgdocuments">
             <p><a class="btn btn-jumbotron btn-lg" href="{{ "https://docs.orangeworkspaceservices.com" | relative_url }}" target="_blank" role="button">Help & Support Articals</a></p>
         </div>
     </div>
