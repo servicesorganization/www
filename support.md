@@ -32,6 +32,12 @@ permalink: support.html
     .jumbotron-height {
         height: 300px;
     }
+    .col-sm-45 {
+        width: 45%
+    }
+    .col-sm-10 {
+        width: 10%
+    }
 </style>
 
 <div class="jumbotron jumbotron-height bgimg">
@@ -52,13 +58,13 @@ permalink: support.html
 
 <div class="container">
     <div>
-        <div class="col-sm-5 text-center bgarticles">
+        <div class="col-sm-45 text-center bgarticles">
             <p><a class="btn btn-jumbotron btn-lg" href="{{ "https://docs.orangeworkspaceservices.com" | relative_url }}" target="_blank" role="button">Help & Support Articals</a></p>
         </div>
-        <div style="height: 10px">
+        <div class="col-sm-10">
             <p></p>
         </div>
-        <div class="col-sm-5 text-center bgdocuments">
+        <div class="col-sm-45 text-center bgdocuments">
             <p><a class="btn btn-jumbotron btn-lg" href="{{ "https://docs.orangeworkspaceservices.com" | relative_url }}" target="_blank" role="button">Help & Support Articals</a></p>
         </div>
     </div>
