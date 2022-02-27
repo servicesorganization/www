@@ -12,7 +12,9 @@ permalink: support.html
 	    background-repeat: no-repeat
     }
     .bgarticles {
-        padding: 15px;
+        padding: 250px 0px;
+        border-width: 10px;
+        border-color: black;
         text-align: center;
         border-radius: 15px;
         background-image: url('../images/support-bgarticles.jpg');
@@ -22,7 +24,7 @@ permalink: support.html
         height: 300px
     }
     .bgdocuments {
-        padding: 15px;
+        padding: 250px 0px;
         text-align: center;
         border-radius: 15px;
         background-image: url('../images/support-bgdocuments.jpg');
