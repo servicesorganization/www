@@ -11,6 +11,7 @@ permalink: support.html
 	    background-repeat: no-repeat
     }
     .bgarticles {
+        text-align: center;
         border-radius: 15px;
         background-image: url('../images/support-bg.jpg');
         background-position:center;
@@ -18,6 +19,7 @@ permalink: support.html
 	    background-repeat: no-repeat
     }
     .bgdocuments {
+        text-align: center;
         border-radius: 15px;
         background-image: url('../images/support-bg.jpg');
         background-position:center;
