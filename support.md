@@ -25,7 +25,9 @@ permalink: support.html
     .jumbotron-height {
         height: 300px;
     }
-    .rounded-corners {
+    .div-row {
+        padding: 10 px;
+        height: 500px;
         border-radius: 25px;
     }
 </style>
@@ -48,10 +50,10 @@ permalink: support.html
 
 <div class="container">
     <div class="row-nopadding">
-        <div class="col-md-6 rounded-corners bgarticles">
+        <div class="col-md-6 div-row bgarticles">
             <p><a class="btn btn-jumbotron btn-lg" href="{{ "https://docs.orangeworkspaceservices.com" | relative_url }}" target="_blank" role="button">Help & Support Articals</a></p>
         </div>
-        <div class="col-md-6 rounded-corners bgdocuments">
+        <div class="col-md-6 div-row bgdocuments">
         <p><a class="btn btn-jumbotron btn-lg" href="{{ "https://docs.orangeworkspaceservices.com" | relative_url }}" target="_blank" role="button">Orange Workspace Services Documentation</a></p>
         </div>
     </div>
