@@ -4,35 +4,35 @@
         font-size: 16px;
         padding-bottom: 5px;
     }
-    .textboxid
+    .textbox
     {
-        width:200px;
+        width: 450px;
     }
-    .messageboxid
+    .messagebox
     {
-        width:200px;
+        width: 450px;
         height: 200px;
     }
 </style>
 <form action="#" method="POST">
 
-    <label class="form-label" for="first-name">First Name*</label><br>
-    <input type="text" id="textboxid" name="firstname" required><br>
+    <label class="form-label" for="firstname">First Name*</label><br>
+    <input class="textbox" type="text" id="firstname" name="firstname" required><br>
 
-    <label class="form-label" for="last-name">Last Name*</label><br>
-    <input type="text" id="textboxid" name="last-name" required><br>
+    <label class="form-label" for="lastname">Last Name*</label><br>
+    <input class="textbox" type="text" id="lastname" name="lastname" required><br>
 
     <label class="form-label" for="organization">Organization</label><br>
-    <input type="text" id="textboxid" name="organization"><br>
+    <input class="textbox" type="text" id="organization" name="organization"><br>
 
     <label class="form-label" for="email">Email Address*</label><br>    
-    <input type="email" id="textboxid" name="email" required><br>
+    <input class="textbox" type="email" id="email" name="email" required><br>
 
     <label class="form-label" for="Phone">Phone</label><br>
-    <input type="text" id="textboxid" name="phone"><br>
+    <input class="textbox" type="tel" id="phone" name="phone"><br>
     <br>
     <label class="form-label" for="Message">Message*</label><br>
-    <input type="text" id="messageboxid" name="message" required><br>
+    <input class="messagebox" type="text" id="message" name="message" required><br>
     <br>
     <button class="btn btn-jumbotron btn-lg" type="submit">Submit</button>
     
