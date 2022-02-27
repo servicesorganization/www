@@ -3,6 +3,7 @@ layout: firstpage
 title: Support
 permalink: support.html
 ---
+
 <style type="text/css">
     .bgimg {
         background-image: url('../images/support-bg.jpg');
@@ -16,22 +17,20 @@ permalink: support.html
         background-image: url('../images/support-bg.jpg');
         background-position:center;
 	    background-size: 100%;
-	    background-repeat: no-repeat
+	    background-repeat: no-repeat;
+        height: 500px
     }
     .bgdocuments {
         text-align: center;
         border-radius: 15px;
-        background-image: url('../images/support-bg.jpg');
+        background-image: url('https://web.orangeworkspaceservices.com/images/support-bg.jpg');
         background-position:center;
 	    background-size: 100%;
-	    background-repeat: no-repeat
+	    background-repeat: no-repeat;
+        height: 500px
     }
     .jumbotron-height {
         height: 300px;
-    }
-
-    .container-height {
-        height: 500px;
     }
 
 
@@ -54,7 +53,7 @@ permalink: support.html
 </div>
 
 <div class="container">
-    <div class="container-fluid">
+    <div class="row-nopadding">
         <div class="col-md-6 bgarticles">
             <p><a class="btn btn-jumbotron btn-lg" href="{{ "https://docs.orangeworkspaceservices.com" | relative_url }}" target="_blank" role="button">Help & Support Articals</a></p>
         </div>
@@ -63,3 +62,4 @@ permalink: support.html
         </div>
     </div>
 </div>
+
