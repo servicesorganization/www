@@ -54,10 +54,10 @@ permalink: support.html
 
 <div class="container">
     <div class="row-nopadding">
-        <div class="col-sm-6 text-center bgarticles">
+        <div class="col-sm-5 text-center bgarticles">
             <p><a class="btn btn-jumbotron btn-lg" href="{{ "https://docs.orangeworkspaceservices.com" | relative_url }}" target="_blank" role="button">Help & Support Articals</a></p>
     </div>
-        <div class="col-sm-6 text-center bgdocuments">
+        <div class="col-sm-5 text-center bgdocuments">
             <p><a class="btn btn-jumbotron btn-lg" href="{{ "https://docs.orangeworkspaceservices.com" | relative_url }}" target="_blank" role="button">Help & Support Articals</a></p>
         </div>
     </div>
