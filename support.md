@@ -18,7 +18,6 @@ permalink: support.html
         background-position:center;
 	    background-size: 100%;
 	    background-repeat: no-repeat;
-        width: 500px;
         height: 300px
     }
     .bgdocuments {
@@ -28,7 +27,6 @@ permalink: support.html
         background-position:center;
 	    background-size: 100%;
 	    background-repeat: no-repeat;
-        width: 500px;
         height: 300px
     }
     .jumbotron-height {
@@ -56,6 +54,9 @@ permalink: support.html
     <div>
         <div class="col-sm-6 text-center bgarticles">
             <p><a class="btn btn-jumbotron btn-lg" href="{{ "https://docs.orangeworkspaceservices.com" | relative_url }}" target="_blank" role="button">Help & Support Articals</a></p>
+        </div>
+        <div style="width: 10px">
+            <p></p>
         </div>
         <div class="col-sm-6 text-center bgdocuments">
             <p><a class="btn btn-jumbotron btn-lg" href="{{ "https://docs.orangeworkspaceservices.com" | relative_url }}" target="_blank" role="button">Help & Support Articals</a></p>
