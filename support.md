@@ -114,6 +114,7 @@ permalink: support.html
         <br>
     </div>
     <div>
+        <h2>Core Services</h2>
         <table>
           <thead>
             <tr>
@@ -125,13 +126,52 @@ permalink: support.html
           <tbody>
             <tr>
               <td>Managed Cloud Foundation Services</td>
-              <td> </td>
-              <td> </td>
+              <td>1.0.0</td>
+              <td><a href="{{ "https://docs.orangeworkspaceservices.com" | relative_url }}" target="_blank" role="button">Link</a></
             </tr>
             <tr>
               <td>Managed Identity and Access</td>
-              <td> </td>
-              <td> </td>
+              <td>1.0.0</td>
+              <td><a href="{{ "https://docs.orangeworkspaceservices.com" | relative_url }}" target="_blank" role="button">Link</a></
+            </tr>
+            <tr>
+              <td>Cloud Managed Device</td>
+              <td>1.0.0</td>
+              <td><a href="{{ "https://docs.orangeworkspaceservices.com" | relative_url }}" target="_blank" role="button">Link</a></td>
+            </tr>
+            <tr>
+              <td>Managed Office 365</td>
+              <td>1.0.0</td>
+              <td><a href="{{ "https://docs.orangeworkspaceservices.com" | relative_url }}" target="_blank" role="button">Link</a></td>
+            </tr>
+            <tr>
+              <td>Managed Cloud Hosted Desktop and Apps</td>
+              <td>1.0.0</td>
+              <td><a href="{{ "https://docs.orangeworkspaceservices.com" | relative_url }}" target="_blank" role="button">Link</a></td>
+            </tr>
+          </tbody>
+        </table>
+    </div>
+    <div>
+        <h2>Addtional Services</h2>
+        <table>
+          <thead>
+            <tr>
+              <th>Repository</th>
+              <th>Version</th>
+              <th>Link</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>Managed Cloud Hosted Desktop and Apps (Hybrid)</td>
+              <td>1.0.0</td>
+              <td><a href="{{ "https://docs.orangeworkspaceservices.com" | relative_url }}" target="_blank" role="button">Link</a></
+            </tr>
+            <tr>
+              <td>Managed Identity and Access</td>
+              <td>1.0.0</td>
+              <td><a href="{{ "https://docs.orangeworkspaceservices.com" | relative_url }}" target="_blank" role="button">Link</a></
             </tr>
             <tr>
               <td>Cloud Managed Device</td>
