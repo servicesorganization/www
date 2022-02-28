@@ -56,6 +56,8 @@ permalink: support.html
 
     table {
         width: 750px;
+        margin-left:auto; 
+        margin-right:auto;
     }
 
 </style>
@@ -105,7 +107,10 @@ permalink: support.html
     <div class="container text-center">
         <h8>Code repositories</h8>
         <p>You can clone the latest services repositories here. Please note that you will need a valid Github account with the appropriate rights.</p>
-        <table align="center">
+        <br>
+    </div>
+    <div>
+        <table>
           <thead>
             <tr>
               <th>Repository</th>
