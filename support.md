@@ -122,10 +122,8 @@ permalink: support.html
         <p>You can find the latest services repositories here. Please note that you will need a valid Github account with the appropriate rights.</p>
         <br>
     </div>
-    <div class="container text-left">
-        <h2>Core Services</h2>
-    </div>
     <div class="container">
+        <h2>Core Services</h2>
         <table>
           <thead>
             <tr>
@@ -163,10 +161,8 @@ permalink: support.html
           </tbody>
         </table>
     </div>
-    <div class="container text-left">
-        <h2>Additional Services</h2>
-    </div>
     <div class="container">
+        <h2>Additional Services</h2>
         <table>
           <thead>
             <tr>
