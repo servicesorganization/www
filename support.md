@@ -49,9 +49,13 @@ permalink: support.html
     }
 
     p {
-      line-height: normal;
-      display: inline-block;
-      vertical-align: bottom;
+        line-height: normal;
+        display: inline-block;
+        vertical-align: bottom;
+    }
+
+    table {
+        width: 750px;
     }
 
 </style>
@@ -99,9 +103,9 @@ permalink: support.html
 
 <div class="jumbotron">
     <div class="container text-center">
-        <h2>Code repositories</h2>
+        <h8>Code repositories</h8>
         <p>You can clone the latest services repositories here. Please note that you will need a valid Github account with the appropriate rights.</p>
-        <table>
+        <table align="center">
           <thead>
             <tr>
               <th>Repository</th>
@@ -122,24 +126,10 @@ permalink: support.html
             </tr>
             <tr>
               <td>Cloud Managed Device</td>
-              <td> </td>
+              <td>1.0.0</td>
               <td><a href="{{ "https://docs.orangeworkspaceservices.com" | relative_url }}" target="_blank" role="button">Link</a></td>
             </tr>
           </tbody>
         </table>
-<br>
-|Column1  |Column2  |Column3  |
-|---------|---------|---------|
-|Row1     |         |         |
-|Row2     |         |         |
-|Row3     |         |         |
     </div>
 </div>
-
-
-|Column1  |Column2  |Column3  |
-|---------|---------|---------|
-|Row1     |         |         |
-|Row2     |         |         |
-|Row3     |         |         |
-
