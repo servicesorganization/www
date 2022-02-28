@@ -16,7 +16,7 @@ permalink: support.html
         height: 300px;
     }
 
-    .wrapper {
+    .supportwrapper {
         padding-top: 10px;
         padding-bottom: 10px;
         overflow: hidden; /* add this to contain floated children */
@@ -64,7 +64,7 @@ permalink: support.html
 </div>
 
 <div class="container">
-    <div class="wrapper">
+    <div class="supportwrapper">
         <div class="first">
             <p><a class="btn btn-jumbotron btn-lg" href="{{ "https://docs.orangeworkspaceservices.com" | relative_url }}" target="_blank" role="button">Help & Support Articals</a></p>
         </div>
