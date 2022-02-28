@@ -60,6 +60,9 @@ permalink: support.html
         margin-right:auto;
         color: #000000;
     }
+    th {
+        color: #FFFFFF;
+    }
 
 </style>
 
