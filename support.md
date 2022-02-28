@@ -58,11 +58,20 @@ permalink: support.html
         width: 750px;
         margin-left:auto; 
         margin-right:auto;
+    }
+    table > thead > tr > th {
+        color: #FFFFFF;
+
+    }
+    table > tbody > tr:nth-of-type(odd) {
         color: #000000;
     }
-    th {
+
+    }
+    table > tbody > tr:nth-of-type(even) {
         color: #FFFFFF;
     }
+
 
 </style>
 
