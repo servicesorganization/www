@@ -8,16 +8,16 @@ permalink: support.html
     .bgimg {
         background-image: url('../images/support-bg.jpg');
         background-position:center bottom 20%;
-	    background-size: 100%;
-	    background-repeat: no-repeat
+        background-size: 100%;
+        background-repeat: no-repeat
     }
     .bgarticles {
         text-align: center;
         border-radius: 15px;
         background-image: url('../images/support-bgarticles.jpg');
         background-position:center;
-	    background-size: 100%;
-	    background-repeat: no-repeat;
+        background-size: 100%;
+        background-repeat: no-repeat;
         height: 300px
     }
     .bgdocuments {
@@ -25,29 +25,30 @@ permalink: support.html
         border-radius: 15px;
         background-image: url('../images/support-bgdocuments.jpg');
         background-position:center;
-	    background-size: 95%;
-	    background-repeat: no-repeat;
+        background-size: 100%;
+        background-repeat: no-repeat;
         height: 300px
     }
     .jumbotron-height {
         height: 300px;
     }
 
+    .wrapper {
+    border: 1px solid black;
+    overflow: hidden; /* add this to contain floated children */
+    }
+
     .first{
             text-align: center;
-            border-radius: 48px;
-            width: 50%;
+            border-radius: 15px;
+            float: right; /* add this */
+            width: 48%;
             border: 1px solid red;
     }
     .second{
             text-align: center;
             border-radius: 15px;
-            width: 4%;
-            border: 1px solid blue;
-    }
-    .third{
-            text-align: center;
-            border-radius: 15px;
+            float: right; /* add this */
             width: 48%;
             border: 1px solid green;
     }
@@ -70,14 +71,11 @@ permalink: support.html
 </div>
 
 <div class="container">
-    <div>
+    <div class="wrapper">
         <div class="first bgarticles">
             <p><a class="btn btn-jumbotron btn-lg" href="{{ "https://docs.orangeworkspaceservices.com" | relative_url }}" target="_blank" role="button">Help & Support Articals</a></p>
         </div>
-        <div class="second">
-            <p></p>
-        </div>
-        <div class="third bgdocuments">
+        <div class="second bgdocuments">
             <p><a class="btn btn-jumbotron btn-lg" href="{{ "https://docs.orangeworkspaceservices.com" | relative_url }}" target="_blank" role="button">Help & Support Articals</a></p>
         </div>
     </div>
