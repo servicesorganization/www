@@ -33,29 +33,24 @@ permalink: support.html
         height: 300px;
     }
 
-.wrapper{
-          display: flex;
-          flex-direction: row;
-          border: 1px solid black;
-}
-.first{
-        text-align: center;
-        border-radius: 48px;
-        width: 50%;
-        border: 1px solid red;
-}
-.second{
-        text-align: center;
-        border-radius: 15px;
-        width: 4%;
-        border: 1px solid blue;
-}
-.third{
-        text-align: center;
-        border-radius: 15px;
-        width: 48%;
-        border: 1px solid green;
-}
+    #first{
+            text-align: center;
+            border-radius: 48px;
+            width: 50%;
+            border: 1px solid red;
+    }
+    #second{
+            text-align: center;
+            border-radius: 15px;
+            width: 4%;
+            border: 1px solid blue;
+    }
+    #third{
+            text-align: center;
+            border-radius: 15px;
+            width: 48%;
+            border: 1px solid green;
+    }
 </style>
 
 <div class="jumbotron jumbotron-height bgimg">
