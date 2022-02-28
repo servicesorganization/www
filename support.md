@@ -25,13 +25,37 @@ permalink: support.html
         border-radius: 15px;
         background-image: url('../images/support-bgdocuments.jpg');
         background-position:center;
-	    background-size: 100%;
+	    background-size: 95%;
 	    background-repeat: no-repeat;
         height: 300px
     }
     .jumbotron-height {
         height: 300px;
     }
+
+.wrapper{
+          display: flex;
+          flex-direction: row;
+          border: 1px solid black;
+}
+.first{
+        text-align: center;
+        border-radius: 48px;
+        width: 50%;
+        border: 1px solid red;
+}
+.second{
+        text-align: center;
+        border-radius: 15px;
+        width: 4%;
+        border: 1px solid blue;
+}
+.third{
+        text-align: center;
+        border-radius: 15px;
+        width: 48%;
+        border: 1px solid green;
+}
 </style>
 
 <div class="jumbotron jumbotron-height bgimg">
@@ -51,13 +75,14 @@ permalink: support.html
 </div>
 
 <div class="container">
-    <div>
-        <div class="col-sm-5 text-center bgarticles">
+    <div class="wrapper">
+        <div class="first">
             <p><a class="btn btn-jumbotron btn-lg" href="{{ "https://docs.orangeworkspaceservices.com" | relative_url }}" target="_blank" role="button">Help & Support Articals</a></p>
         </div>
-        <div class="col-sm-1">
+        <div class="second">
+            <p></p>
         </div>
-        <div class="col-sm-5 text-center bgdocuments">
+        <div class="third">
             <p><a class="btn btn-jumbotron btn-lg" href="{{ "https://docs.orangeworkspaceservices.com" | relative_url }}" target="_blank" role="button">Help & Support Articals</a></p>
         </div>
     </div>
