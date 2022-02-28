@@ -68,7 +68,7 @@ topnav_dropdowns:
     - title: About us
       folderitems:
         - title: About Orange Business Services
-          external_url: https://www.orange-business.com
+          url: /about-us.html
         - title: Market Recognition
           url: /market_recognition.html
         - title: Vendors & Partners
