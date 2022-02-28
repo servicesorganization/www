@@ -126,3 +126,11 @@ permalink: support.html
         </table>
     </div>
 </div>
+
+
+|Column1  |Column2  |Column3  |
+|---------|---------|---------|
+|Row1     |         |         |
+|Row2     |         |         |
+|Row3     |         |         |
+
