@@ -122,8 +122,10 @@ permalink: support.html
         <p>You can clone the latest services repositories here. Please note that you will need a valid Github account with the appropriate rights.</p>
         <br>
     </div>
-    <div>
+    <div class="container text-center">
         <h2>Core Services</h2>
+    </div>
+    <div>
         <table>
           <thead>
             <tr>
@@ -161,8 +163,10 @@ permalink: support.html
           </tbody>
         </table>
     </div>
+    <div class="container text-center">
+        <h2>Additional Services</h2>
+    </div>
     <div>
-        <h2>Addtional Services</h2>
         <table>
           <thead>
             <tr>
