@@ -74,16 +74,17 @@ permalink: support.html
     </div>
 </div>
 
-<div class="wrapper">
-    <div class="first">
-        <p><a class="btn btn-jumbotron btn-lg" href="{{ "https://docs.orangeworkspaceservices.com" | relative_url }}" target="_blank" role="button">Help & Support Articals</a></p>
-    </div>
-    <div class="second">
-        <p></p>
-    </div>
-    <div class="third">
-        <p><a class="btn btn-jumbotron btn-lg" href="{{ "https://docs.orangeworkspaceservices.com" | relative_url }}" target="_blank" role="button">Help & Support Articals</a></p>
+<div class="container">
+    <div>
+        <div class="col-sm-5 text-center bgarticles">
+            <p><a class="btn btn-jumbotron btn-lg" href="{{ "https://docs.orangeworkspaceservices.com" | relative_url }}" target="_blank" role="button">Help & Support Articals</a></p>
+        </div>
+        <div style="height:20px">
+            <p></p>
+        </div>
+        <div class="col-sm-5 text-center bgdocuments">
+            <p><a class="btn btn-jumbotron btn-lg" href="{{ "https://docs.orangeworkspaceservices.com" | relative_url }}" target="_blank" role="button">Help & Support Articals</a></p>
+        </div>
     </div>
 </div>
-
 
