@@ -192,10 +192,8 @@ permalink: support.html
     </div>
 </div>
 
-<div class="container">
-    <div class="row-nopadding">
-        <div class="col-sm-12 text-center">
-            <h10>Request access to the repository</h10>
-        </div>
+<div class="jumbotron">
+    <div class="container text-center">
+        <h10>Request access to the repository</h10>
     </div>
 </div>
