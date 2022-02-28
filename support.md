@@ -91,14 +91,15 @@ permalink: support.html
             <p><a class="btn btn-jumbotron btn-lg" href="{{ "https://docs.orangeworkspaceservices.com" | relative_url }}" target="_blank" role="button">See all documentation</a></p>
             <br>
             <br>
+            <br>
         </div>
     </div>
 </div>
 
 <div class="jumbotron">
     <div class="container text-center">
-        <h3>Code repositories</h3>
-        <p>You can clone the latest services repositories here. Please note that you will need a valid Github access account.</p>
+        <h2>Code repositories</h2>
+        <p>You can clone the latest services repositories here. Please note that you will need a valid Github account with the appropriate rights.</p>
         <table>
           <thead>
             <tr>
@@ -109,19 +110,19 @@ permalink: support.html
           </thead>
           <tbody>
             <tr>
-              <td>Row1</td>
+              <td>Managed Cloud Foundation Services</td>
               <td> </td>
               <td> </td>
             </tr>
             <tr>
-              <td>Row2</td>
+              <td>Managed Identity and Access</td>
               <td> </td>
               <td> </td>
             </tr>
             <tr>
-              <td>Row3</td>
+              <td>Cloud Managed Device</td>
               <td> </td>
-              <td>sf</td>
+              <td><a href="{{ "https://docs.orangeworkspaceservices.com" | relative_url }}" target="_blank" role="button">Link</a></td>
             </tr>
           </tbody>
         </table>
