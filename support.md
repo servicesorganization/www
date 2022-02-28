@@ -192,7 +192,7 @@ permalink: support.html
     </div>
 </div>
 
-<div class="jumbotron">
+<div class="container">
     <div class="container text-center">
         <h10>Request access to the repository</h10>
     </div>
