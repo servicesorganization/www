@@ -97,13 +97,32 @@ permalink: support.html
     <div class="container text-center">
         <h3>Code repositories</h3>
         <p>You can clone the latest services repositories here. Please note that you will need a valid Github access account.</p>
-        <p><a class="btn btn-jumbotron btn-lg" href="{{ "/solutions_overview.html" | relative_url }}" role="button">Learn more</a></p>
+        <p></p>
+        <table>
+          <thead>
+            <tr>
+              <th>Repository</th>
+              <th>Version</th>
+              <th>Link</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>Row1</td>
+              <td> </td>
+              <td> </td>
+            </tr>
+            <tr>
+              <td>Row2</td>
+              <td> </td>
+              <td> </td>
+            </tr>
+            <tr>
+              <td>Row3</td>
+              <td> </td>
+              <td>sf</td>
+            </tr>
+          </tbody>
+        </table>
     </div>
 </div>
-
-
-| Repository | Version | Link |
-|------------|---------|------|
-| Row1       |         |      |
-| Row2       |         |      |
-| Row3       |         | sf   |
