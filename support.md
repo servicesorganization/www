@@ -89,15 +89,16 @@ permalink: support.html
             <br>
             <br>
             <p><a class="btn btn-jumbotron btn-lg" href="{{ "https://docs.orangeworkspaceservices.com" | relative_url }}" target="_blank" role="button">See all documentation</a></p>
+            <br>
+            <br>
         </div>
     </div>
 </div>
 
-<div class="jumbotron jumbotron-height">
+<div class="jumbotron">
     <div class="container text-center">
         <h3>Code repositories</h3>
         <p>You can clone the latest services repositories here. Please note that you will need a valid Github access account.</p>
-        <p></p>
         <table>
           <thead>
             <tr>
