@@ -11,46 +11,38 @@ permalink: support.html
         background-size: 100%;
         background-repeat: no-repeat
     }
-    .bgarticles {
+
+    .jumbotron-height {
+        height: 300px;
+    }
+
+    .wrapper {
+        padding-bottom: 10px;
+        overflow: hidden; /* add this to contain floated children */
+    }
+
+    .first{
         text-align: center;
         border-radius: 15px;
         background-image: url('../images/support-bgarticles.jpg');
         background-position:center;
         background-size: 100%;
         background-repeat: no-repeat;
-        height: 300px
+        height: 300px;
+        float: left; /* add this */
+        width: 48%;
     }
-    .bgdocuments {
+
+    .second{
         text-align: center;
         border-radius: 15px;
         background-image: url('../images/support-bgdocuments.jpg');
         background-position:center;
         background-size: 100%;
         background-repeat: no-repeat;
-        height: 300px
-    }
-    .jumbotron-height {
         height: 300px;
-    }
-
-    .wrapper {
-    border: 1px solid black;
-    overflow: hidden; /* add this to contain floated children */
-    }
-
-    .first{
-            text-align: center;
-            border-radius: 15px;
-            float: right; /* add this */
-            width: 48%;
-            border: 1px solid red;
-    }
-    .second{
-            text-align: center;
-            border-radius: 15px;
-            float: right; /* add this */
-            width: 48%;
-            border: 1px solid green;
+        float: right; /* add this */
+        width: 48%;
     }
 </style>
 
@@ -72,10 +64,10 @@ permalink: support.html
 
 <div class="container">
     <div class="wrapper">
-        <div class="first bgarticles">
+        <div class="first">
             <p><a class="btn btn-jumbotron btn-lg" href="{{ "https://docs.orangeworkspaceservices.com" | relative_url }}" target="_blank" role="button">Help & Support Articals</a></p>
         </div>
-        <div class="second bgdocuments">
+        <div class="second">
             <p><a class="btn btn-jumbotron btn-lg" href="{{ "https://docs.orangeworkspaceservices.com" | relative_url }}" target="_blank" role="button">Help & Support Articals</a></p>
         </div>
     </div>
