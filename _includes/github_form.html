@@ -1,0 +1,40 @@
+<style type="text/css">
+    .form-label {
+        font-family: inherit;
+        font-size: 16px;
+        padding-bottom: 5px;
+    }
+    .textbox
+    {
+        width: 450px;
+    }
+    .messagebox
+    {
+        width: 450px;
+        height: 200px;
+        resize: none;
+    }
+</style>
+<form action="#" method="POST">
+
+    <label class="form-label" for="firstname">First Name*</label><br>
+    <input class="textbox" type="text" id="firstname" name="firstname" required><br>
+
+    <label class="form-label" for="lastname">Last Name*</label><br>
+    <input class="textbox" type="text" id="lastname" name="lastname" required><br>
+
+    <label class="form-label" for="organization">Organization</label><br>
+    <input class="textbox" type="text" id="organization" name="organization"><br>
+
+    <label class="form-label" for="email">Email Address*</label><br>    
+    <input class="textbox" type="email" id="email" name="email" required><br>
+
+    <label class="form-label" for="Github Account">Phone</label><br>
+    <input class="textbox" type="text" id="github" name="github"><br>
+    <br>
+    <label class="form-label" for="Message">Message*</label><br>
+    <textarea class="messagebox" id="message" name="message" required></textarea><br>
+    <br>
+    <button class="btn btn-jumbotron btn-lg" type="submit">Submit</button>
+    
+</form>
