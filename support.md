@@ -119,7 +119,7 @@ permalink: support.html
 <div class="jumbotron">
     <div class="container text-center">
         <h9>Code repositories</h9>
-        <p>You can clone the latest services repositories here. Please note that you will need a valid Github account with the appropriate rights.</p>
+        <p>You can find the latest services repositories here. Please note that you will need a valid Github account with the appropriate rights.</p>
         <br>
     </div>
     <div class="container text-left">
@@ -138,12 +138,12 @@ permalink: support.html
             <tr>
               <td>Managed Cloud Foundation Services</td>
               <td>1.0.0</td>
-              <td><a href="{{ "https://docs.orangeworkspaceservices.com" | relative_url }}" target="_blank" role="button">Link</a></
+              <td><a href="{{ "https://docs.orangeworkspaceservices.com" | relative_url }}" target="_blank" role="button">Link</a></td>
             </tr>
             <tr>
               <td>Managed Identity and Access</td>
               <td>1.0.0</td>
-              <td><a href="{{ "https://docs.orangeworkspaceservices.com" | relative_url }}" target="_blank" role="button">Link</a></
+              <td><a href="{{ "https://docs.orangeworkspaceservices.com" | relative_url }}" target="_blank" role="button">Link</a></td>
             </tr>
             <tr>
               <td>Cloud Managed Device</td>
@@ -179,12 +179,12 @@ permalink: support.html
             <tr>
               <td>Managed Cloud Hosted Desktop and Apps (Hybrid)</td>
               <td>1.0.0</td>
-              <td><a href="{{ "https://docs.orangeworkspaceservices.com" | relative_url }}" target="_blank" role="button">Link</a></
+              <td><a href="{{ "https://docs.orangeworkspaceservices.com" | relative_url }}" target="_blank" role="button">Link</a></td>
             </tr>
             <tr>
               <td>Managed Identity and Access</td>
               <td>1.0.0</td>
-              <td><a href="{{ "https://docs.orangeworkspaceservices.com" | relative_url }}" target="_blank" role="button">Link</a></
+              <td><a href="{{ "https://docs.orangeworkspaceservices.com" | relative_url }}" target="_blank" role="button">Link</a></td>
             </tr>
             <tr>
               <td>Cloud Managed Device</td>
@@ -193,5 +193,13 @@ permalink: support.html
             </tr>
           </tbody>
         </table>
+    </div>
+</div>
+
+<div class="container">
+    <div class="row-nopadding">
+        <div class="col-sm-12 text-center">
+            <h10>Request access to the repository</h10>
+        </div>
     </div>
 </div>
