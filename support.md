@@ -90,8 +90,6 @@ permalink: support.html
             <br>
             <p><a class="btn btn-jumbotron btn-lg" href="{{ "https://docs.orangeworkspaceservices.com" | relative_url }}" target="_blank" role="button">See all documentation</a></p>
             <br>
-            <br>
-            <br>
         </div>
     </div>
 </div>
