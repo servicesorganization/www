@@ -195,5 +195,7 @@ permalink: support.html
 <div class="container">
     <div class="container text-center">
         <h10>Request access to the repository</h10>
+        <p>Fill in the application form to access the repository. Once we have received your request, we will validate it and grant you access. <i>(Note: Only customer and partner can requests access)</i></P>
+        {% include form.html %}
     </div>
 </div>
