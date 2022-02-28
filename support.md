@@ -29,6 +29,7 @@ permalink: support.html
         background-position:center;
         background-size: 100%;
         background-repeat: no-repeat;
+        line-height: 300px;
         height: 300px;
         float: left; /* add this */
         width: 48%;
@@ -41,10 +42,18 @@ permalink: support.html
         background-position:center;
         background-size: 100%;
         background-repeat: no-repeat;
+        line-height: 300px;
         height: 300px;
         float: right; /* add this */
         width: 48%;
     }
+
+    p {
+      line-height: normal;
+      display: inline-block;
+      vertical-align: bottom;
+    }
+
 </style>
 
 <div class="jumbotron jumbotron-height bgimg">
