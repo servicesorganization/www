@@ -33,19 +33,19 @@ permalink: support.html
         height: 300px;
     }
 
-    #first{
+    .first{
             text-align: center;
             border-radius: 48px;
             width: 50%;
             border: 1px solid red;
     }
-    #second{
+    .second{
             text-align: center;
             border-radius: 15px;
             width: 4%;
             border: 1px solid blue;
     }
-    #third{
+    .third{
             text-align: center;
             border-radius: 15px;
             width: 48%;
@@ -71,13 +71,13 @@ permalink: support.html
 
 <div class="container">
     <div>
-        <div class="col-sm-5 text-center bgarticles">
+        <div class="fist bgarticles">
             <p><a class="btn btn-jumbotron btn-lg" href="{{ "https://docs.orangeworkspaceservices.com" | relative_url }}" target="_blank" role="button">Help & Support Articals</a></p>
         </div>
-        <div style="height:20px">
+        <div class="second">
             <p></p>
         </div>
-        <div class="col-sm-5 text-center bgdocuments">
+        <div class="third bgdocuments">
             <p><a class="btn btn-jumbotron btn-lg" href="{{ "https://docs.orangeworkspaceservices.com" | relative_url }}" target="_blank" role="button">Help & Support Articals</a></p>
         </div>
     </div>
