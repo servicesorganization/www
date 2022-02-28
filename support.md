@@ -17,6 +17,7 @@ permalink: support.html
     }
 
     .wrapper {
+        padding-top: 10px;
         padding-bottom: 10px;
         overflow: hidden; /* add this to contain floated children */
     }
