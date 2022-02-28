@@ -58,6 +58,7 @@ permalink: support.html
         width: 750px;
         margin-left:auto; 
         margin-right:auto;
+        color: #000000;
     }
 
 </style>
@@ -105,7 +106,7 @@ permalink: support.html
 
 <div class="jumbotron">
     <div class="container text-center">
-        <h8>Code repositories</h8>
+        <h9>Code repositories</h9>
         <p>You can clone the latest services repositories here. Please note that you will need a valid Github account with the appropriate rights.</p>
         <br>
     </div>
