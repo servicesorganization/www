@@ -29,7 +29,7 @@ permalink: vendors-and-partners.html
         background-position:center;
         background-size: cover;
         background-repeat: no-repeat;
-        height: 300px;
+        height: 280;
     }
 
     .bg2 {
@@ -38,7 +38,7 @@ permalink: vendors-and-partners.html
         background-position:center;
         background-size: cover;
         background-repeat: no-repeat;
-        height: 300px;
+        height: 280;
     }
 
     .bg3 {
@@ -47,7 +47,7 @@ permalink: vendors-and-partners.html
         background-position:center;
         background-size: cover;
         background-repeat: no-repeat;
-        height: 300px;
+        height: 280;
     }
 
     .bg4 {
@@ -56,7 +56,7 @@ permalink: vendors-and-partners.html
         background-position:center;
         background-size: cover;
         background-repeat: no-repeat;
-        height: 300px;
+        height: 280;
     }
 
     .bg5 {
@@ -65,7 +65,7 @@ permalink: vendors-and-partners.html
         background-position:center;
         background-size: cover;
         background-repeat: no-repeat;
-        height: 300px;
+        height: 280;
     }
 
 </style>
