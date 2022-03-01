@@ -14,7 +14,7 @@ permalink: about-us.html
 
     .jumbotron-color {
         color: #000000;
-        background-color: #ffffff;
+        background-color: #dddddd;
     }
 
     .jumbotron-height-300 {
