@@ -79,7 +79,7 @@ permalink: about-us.html
     </div>
 </div>
 
-<div class="jumbotron jumbotron-height-700">
+<div class="jumbotron jumbotron-height-600">
     <div class="container">
         <div class="col-md-6">
             <h7 class="header-light regular-pad">About Orange Workspace Services?</h7>
