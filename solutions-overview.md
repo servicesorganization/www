@@ -14,7 +14,8 @@ permalink: solutions-overview.html
         background-image: url('../images/managed-cloud-hosted-desktops-and-apps-bg.png');
         background-position: center;
         background-size: cover;
-        background-repeat: no-repeat
+        background-repeat: no-repeat;
+        height: 300px;
     }
 </style>
 
