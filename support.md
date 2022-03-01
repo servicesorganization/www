@@ -23,12 +23,14 @@ permalink: support.html
     }
 
     .spacer{
-    	 border: 1px solid orange;
-        height: 300px;
-        width: 4%;
+        position: relative;
+        border: 1px solid orange;
+        min-height: 1px;
+        width 4%;
     }
     
     .support1 {
+        position: relative;
         text-align: center;
         border-radius: 15px;
         background-image: url('../images/support-bgarticles.jpg');
@@ -37,9 +39,11 @@ permalink: support.html
         background-repeat: no-repeat;
         line-height: 300px;
         height: 300px;
+        width 48%;
     }
 
     .support2 {
+        position: relative;
         text-align: center;
         border-radius: 15px;
         background-image: url('../images/support-bgdocuments.jpg');
@@ -48,6 +52,7 @@ permalink: support.html
         background-repeat: no-repeat;
         line-height: 300px;
         height: 300px;
+        width 48%;
     }
 
     p {
@@ -94,7 +99,7 @@ permalink: support.html
 </div>
 
 <div class="container">
-    <div class="supportwrapper">
+    <div class="row-nopadding">
         <div class="support1">
             <p><a class="btn btn-jumbotron btn-lg" href="{{ "https://docs.orangeworkspaceservices.com" | relative_url }}" target="_blank" role="button">Help & Support Articals</a></p>
         </div>
