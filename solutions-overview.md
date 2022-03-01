@@ -13,9 +13,8 @@ permalink: solutions-overview.html
     .bgimg1 {
         background-image: url('../images/managed-cloud-hosted-desktops-and-apps-bg.png');
         background-position: center;
-        background-size: cover;
+        background-size: 100%;
         background-repeat: no-repeat;
-        height: 300px;
     }
 </style>
 
@@ -41,9 +40,9 @@ permalink: solutions-overview.html
 
 <!-- Managed Cloud Hosted Desktops and Apps -->
 
-<div class="jumbotron jumbotron-height">
+<div class="jumbotron jumbotron-height bgimg1">
     <div class="container">
-        <div class="col-md-6 bgimg1">
+        <div class="col-md-6">
         </div>
         <div class="col-md-6 text-right">
             <h7 class="header-light regular-pad">Managed Cloud Hosted Desktops and Apps</h7>
