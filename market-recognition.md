@@ -39,7 +39,7 @@ permalink: market-recognition.html
     </div>
 </div>
 
-<div class="jumbotron jumbotron-height-600">
+<div class="jumbotron jumbotron-height-900">
     <div class="container">
         <div class="col-md-6">
             <h7 class="header-light regular-pad">What is Orange Workspace Services?</h7>
