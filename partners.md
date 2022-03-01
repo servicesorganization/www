@@ -27,6 +27,7 @@ permalink: vendors-and-partners.html
         background-position:center;
         background-size: cover;
         background-repeat: no-repeat;
+        height: 300px;
     }
 
     .bg2 {
@@ -35,6 +36,7 @@ permalink: vendors-and-partners.html
         background-position:center;
         background-size: cover;
         background-repeat: no-repeat;
+        height: 300px;
     }
 
     .bg3 {
@@ -43,6 +45,7 @@ permalink: vendors-and-partners.html
         background-position:center;
         background-size: cover;
         background-repeat: no-repeat;
+        height: 300px;
     }
 
     .bg4 {
@@ -81,14 +84,13 @@ permalink: vendors-and-partners.html
     </div>
 </div>
 <div class="container">
-    <div class="row-margins">
+    <div>
         <div class="col-sm-4 bg1"></div>
         <div class="col-sm-4 bg2"></div>
         <div class="col-sm-4 bg3"></div>
         </div>
-        <div class="row-margins">
+    <div class="row-margins">
         <div class="col-sm-4 bg4"></div>
         <div class="col-sm-4 bg5"></div>
-        </div>
     </div>
 </div>
