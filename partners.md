@@ -27,7 +27,6 @@ permalink: vendors-and-partners.html
         background-position:center;
         background-size: cover;
         background-repeat: no-repeat;
-        height: 300px;
     }
 
     .bg2 {
@@ -36,7 +35,6 @@ permalink: vendors-and-partners.html
         background-position:center;
         background-size: cover;
         background-repeat: no-repeat;
-        height: 300px;
     }
 
     .bg3 {
@@ -45,7 +43,6 @@ permalink: vendors-and-partners.html
         background-position:center;
         background-size: cover;
         background-repeat: no-repeat;
-        height: 300px;
     }
 
     .bg4 {
