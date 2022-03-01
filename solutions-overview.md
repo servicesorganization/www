@@ -5,8 +5,16 @@ permalink: solutions-overview.html
 ---
 
 <style type="text/css">
-    .jumbotron-height {
+    
+.jumbotron-height {
         height: 300px;
+    }
+
+    .bgimg1 {
+        background-image: url('../images/managed-cloud-hosted-desktops-and-apps-bg.png');
+        background-position: center bottom;
+        background-size: cover;
+        background-repeat: no-repeat
     }
 </style>
 
@@ -32,7 +40,7 @@ permalink: solutions-overview.html
 
 <!-- Managed Cloud Hosted Desktops and Apps -->
 
-<div class="jumbotron jumbotron-height">
+<div class="jumbotron jumbotron-height bgimg1">
     <div class="container">
         <div class="col-md-6">
         </div>
