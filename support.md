@@ -75,6 +75,7 @@ permalink: support.html
     }
 
     table {
+        text-align: left;
         width: 80%;
         margin-left:auto; 
         margin-right:auto;
@@ -86,11 +87,13 @@ permalink: support.html
 
     table > tbody > tr:nth-of-type(odd) {
         color: #000000;
+        background-color: #f9f9f9
     }
 
     }
     table > tbody > tr:nth-of-type(even) {
-        color: #FFFFFF;
+        color: #000000;
+        background-color: #f9f9f9
     }
 
 
