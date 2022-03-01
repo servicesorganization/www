@@ -16,69 +16,24 @@ permalink: market-recognition.html
         height: 300px;
     }
 
-    .supportwrapper {
-        padding-top: 10px;
-        padding-bottom: 10px;
-        overflow: hidden; /* add this to contain floated children */
-    }
-
-    .first{
-        text-align: center;
-        border-radius: 15px;
-        background-image: url('../images/support-bgarticles.jpg');
-        background-position:center;
-        background-size: 100%;
-        background-repeat: no-repeat;
-        line-height: 300px;
-        height: 300px;
-        float: left; /* add this */
-        width: 48%;
-    }
-
-    .second{
-        text-align: center;
-        border-radius: 15px;
-        background-image: url('../images/aboutus-bg.jpg');
-        background-position:center;
-        background-size: 100%;
-        background-repeat: no-repeat;
-        line-height: 300px;
-        height: 300px;
-        float: right; /* add this */
-        width: 48%;
-    }
-
-    p {
-        line-height: normal;
-        display: inline-block;
-        vertical-align: bottom;
-    }
-
-    table {
-        width: 750px;
-        margin-left:auto; 
-        margin-right:auto;
-    }
-    table > thead > tr > th {
-        color: #FFFFFF;
-
-    }
-    table > tbody > tr:nth-of-type(odd) {
-        color: #000000;
-    }
-
-    }
-    table > tbody > tr:nth-of-type(even) {
-        color: #FFFFFF;
-    }
-
-
 </style>
 
 <div class="jumbotron jumbotron-height bgimg">
     <div class="container">
         <h1>Market Recognition</h1>
         <p></p>
-        <p></p>
+        <p>We're aiming for the highest standards of excellence in our mission. But don't just take our word for it. A quick look at our external recognition!</p>
+    </div>
+</div>
+
+<div class="jumbotron">
+    <div class="container">
+        <div class="col-md-6">
+            <h7 class="header-light regular-pad">What is Orange Workspace Services?</h7>
+                <p class="lead">Regularly checking one’s outside reputation is an important factor in continuous self-improvement. As we pursue our mission to build a safer digital society we observe closely how the tech-world perceives us. Being a leader just by numbers is not good enough for us (or our customers). We strive for more.</p> 
+                <p class="lead">In this section, you find some examples of our outside reputation by analysts and research organizations such as Gartner, Forrester and Global Data.</p>
+        </div>
+        <div class="col-md-6">
+        </div>
     </div>
 </div>
