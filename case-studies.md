@@ -6,9 +6,9 @@ permalink: case-studies.html
 
 <style type="text/css">
     .bgimg {
-        background-image: url('../images/aboutus-bg.jpg');
+        background-image: url('../images/casestudies-bg.jpg');
         background-position:center;
-        background-size: 100%;
+        background-size: cover;
         background-repeat: no-repeat
     }
 

@@ -8,7 +8,7 @@ permalink: about-us.html
     .bgimg {
         background-image: url('../images/aboutus-bg.jpg');
         background-position:center;
-        background-size: 100%;
+        background-size: cover;
         background-repeat: no-repeat
     }
 
