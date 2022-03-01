@@ -1,7 +1,7 @@
 ---
 layout: firstpage
 title: Reports and Whitepapers
-permalink: reports-and-whitepapers.html
+permalink: reportsandwhitepapers.html
 ---
 
 <style type="text/css">
