@@ -88,7 +88,7 @@ permalink: vendors-and-partners.html
         <div class="col-sm-4 bg1"></div>
         <div class="col-sm-4 bg2"></div>
         <div class="col-sm-4 bg3"></div>
-        </div>
+    </div>
     <div class="row-margins">
         <div class="col-sm-4 bg4"></div>
         <div class="col-sm-4 bg5"></div>
