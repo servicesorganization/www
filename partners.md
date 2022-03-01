@@ -29,7 +29,7 @@ permalink: vendors-and-partners.html
         background-position:center;
         background-size: cover;
         background-repeat: no-repeat;
-        height: 280px;
+        height: 250px;
     }
 
     .bg2 {
@@ -38,7 +38,7 @@ permalink: vendors-and-partners.html
         background-position:center;
         background-size: cover;
         background-repeat: no-repeat;
-        height: 280px;
+        height: 250px;
     }
 
     .bg3 {
@@ -47,7 +47,7 @@ permalink: vendors-and-partners.html
         background-position:center;
         background-size: cover;
         background-repeat: no-repeat;
-        height: 280px;
+        height: 250px;
     }
 
     .bg4 {
@@ -56,7 +56,7 @@ permalink: vendors-and-partners.html
         background-position:center;
         background-size: cover;
         background-repeat: no-repeat;
-        height: 280px;
+        height: 250px;
     }
 
     .bg5 {
@@ -65,7 +65,7 @@ permalink: vendors-and-partners.html
         background-position:center;
         background-size: cover;
         background-repeat: no-repeat;
-        height: 280px;
+        height: 250px;
     }
 
 </style>
@@ -88,11 +88,11 @@ permalink: vendors-and-partners.html
 <div class="container">
     <div class="row">
         <div class="col-sm-3 column-margins bg1"><a href="{{ "https://www.microsoft.com" | relative_url }}" target="_blank" style="display:block; height:100%; width:100%;"></a></div>
-        <div class="col-sm-3 column-margins bg2"></div>
-        <div class="col-sm-3 column-margins bg3"></div>
-        <div class="col-sm-3 column-margins bg4"></div>
+        <div class="col-sm-3 column-margins bg2"><a href="{{ "https://www.liquit.com" | relative_url }}" target="_blank" style="display:block; height:100%; width:100%;"></a></div>
+        <div class="col-sm-3 column-margins bg3"><a href="{{ "https://www.workspace365.net" | relative_url }}" target="_blank" style="display:block; height:100%; width:100%;"></a></div>
+        <div class="col-sm-3 column-margins bg4"><a href="{{ "https://www.citrix.com" | relative_url }}" target="_blank" style="display:block; height:100%; width:100%;"></a></div>
     </div>
     <div class="row">
-        <div class="col-sm-3 column-margins bg5"></div>
+        <div class="col-sm-3 column-margins bg5"><a href="{{ "https://www.vmware.com" | relative_url }}" target="_blank" style="display:block; height:100%; width:100%;"></a></div>
     </div>
 </div>
