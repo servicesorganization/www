@@ -7,7 +7,7 @@ permalink: market-recognition.html
 <style type="text/css">
     .bgimg {
         background-image: url('../images/marketrecognition-bg.jpg');
-        background-position:center;
+        background-position: center top 20%;;
         background-size: cover;
         background-repeat: no-repeat
     }

@@ -1,7 +1,7 @@
 ---
 layout: firstpage
-title: Test
-permalink: test.html
+title: Vendors and Partners
+permalink: vendors-and-partners.html
 ---
 
 <style type="text/css">
