@@ -80,7 +80,7 @@ permalink: vendors-and-partners.html
 </div>
 <div class="container">
     <div class="row">
-        <div class="col-sm-4 bg1"></div>
+        <div class="col-sm-4 offset-md-1 bg1"></div>
         <div class="col-sm-4 bg2"></div>
         <div class="col-sm-4 bg3"></div>
         </div>
