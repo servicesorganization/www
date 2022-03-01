@@ -77,7 +77,7 @@ permalink: case-studies.html
 
 <div class="jumbotron jumbotron-height bgimg">
     <div class="container">
-        <h1>About Us</h1>
+        <h1>Case Studies</h1>
         <p></p>
         <p></p>
     </div>
