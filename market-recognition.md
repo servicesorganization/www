@@ -27,11 +27,29 @@ permalink: market-recognition.html
 </div>
 
 <div class="jumbotron">
-    <div class="container">
+    <div class="row-nopadding">
         <div class="col-md-6">
             <h7 class="header-light regular-pad">What is Orange Workspace Services?</h7>
                 <p class="lead">Regularly checking one’s outside reputation is an important factor in continuous self-improvement. As we pursue our mission to build a safer digital society we observe closely how the tech-world perceives us. Being a leader just by numbers is not good enough for us (or our customers). We strive for more.</p> 
                 <p class="lead">In this section, you find some examples of our outside reputation by analysts and research organizations such as Gartner, Forrester and Global Data.</p>
+        </div>
+        <div class="col-md-6">
+        </div>
+    </div>
+</div>
+
+<div class="jumbotron">
+    <div class="row-nopadding">
+        <div class="col-md-6">
+        </div>
+        <div class="col-md-6">
+        </div>
+    </div>
+</div>
+
+<div class="jumbotron">
+    <div class="row-nopadding">
+        <div class="col-md-6">
         </div>
         <div class="col-md-6">
         </div>
