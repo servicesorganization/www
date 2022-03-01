@@ -5,12 +5,12 @@ permalink: index.html
 ---
 
 <style type="text/css">
-    .jumbotron-height {
-        height: 300px;
+    .jumbotron-auto {
+        height: auto;
     }
 </style>
 
-<div class="jumbotron jumbotron-height">
+<div class="jumbotron jumbotron-auto">
     <div class="container">
         <h1>Orange Workspace Services</h1>
         <p>Orange Workspace Services is a unique workplace solution. The solution is based on existing workplace services and enriched with Orange's leading services delivered as a whole.</p>
