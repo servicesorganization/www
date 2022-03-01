@@ -8,7 +8,7 @@ permalink: contact.html
     .bgimg {
         background-image: url('../images/contact-bg.jpg');
         background-position:center;
-	    background-size: 100%;
+	    background-size: auto;
 	    background-repeat: no-repeat
     }
     .jumbotron-height {
