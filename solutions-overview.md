@@ -39,30 +39,3 @@ permalink: solutions-overview.html
         </div>
     </div>
 </div>
-<div class="container">
-    <div class="row-nopadding">
-        <div class="col-sm-12">
-            <hr>
-        </div>
-    </div>
-</div>
-<div class="container">
-    <div class="row-nopadding">
-        <div class="col-sm-4">
-            <h1 class="text-center"><i class="fa fa-cogs" aria-hidden="true"></i></h1>
-            <h3 class="text-center">Standard Services and Modules</h3>
-            <p>Our Workspace Services are based on standard service components which have been developed based on our extensive knowledge and experience, all components are designed to meet the customer demands in a secure way.</p>
-        </div>
-        <div class="col-sm-4">
-            <h1 class="text-center"><i class="fa fa-pencil" aria-hidden="true"></i></h1>
-            <h3 class="text-center">Easy to Configure and Implement</h3>
-            <p>All services consist of predefined modules and this modular approach allows us to quickly configure and deploy the services.</p>
-        </div>
-        <div class="col-sm-4">
-            <h1 class="text-center"><i class="fa fa-code-fork" aria-hidden="true"></i></h1>
-            <h3 class="text-center">Automation and Source Control</h3>
-            <p>Take advantage of Devops' configuration and deployment methods: maintain your environment along with the source code, keep your environment in a desired state configuration, continuously adapt and deploy.</p>
-        </div>
-    </div>
-</div>
-

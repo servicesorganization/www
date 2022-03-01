@@ -16,36 +16,49 @@ permalink: vendors-and-partners.html
         height: 300px;
     }
 
-    .supportwrapper {
-        padding-top: 10px;
-        padding-bottom: 10px;
-        overflow: hidden; /* add this to contain floated children */
+  .bg1 {
+        border: 2px solid #DDDDDD;
+        background-image: url('../images/microsoft-logo.png');
+        background-position:center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        height: 200px;
     }
 
-    .first{
-        text-align: center;
-        border-radius: 15px;
-        background-image: url('../images/support-bgarticles.jpg');
+    .bg2 {
+        border: 2px solid #DDDDDD;
+        background-image: url('../images/liquit-logo.png');
         background-position:center;
-        background-size: 100%;
+        background-size: cover;
         background-repeat: no-repeat;
-        line-height: 300px;
-        height: 300px;
-        float: left; /* add this */
-        width: 48%;
+        height: 200px;
     }
 
-    .second{
-        text-align: center;
-        border-radius: 15px;
-        background-image: url('../images/support-bgdocuments.jpg');
+    .bg3 {
+        border: 2px solid #DDDDDD;
+        background-image: url('../images/workspace365-logo.png');
         background-position:center;
-        background-size: 100%;
+        background-size: cover;
         background-repeat: no-repeat;
-        line-height: 300px;
-        height: 300px;
-        float: right; /* add this */
-        width: 48%;
+        height: 200px;
+    }
+
+    .bg4 {
+        border: 2px solid #DDDDDD;
+        background-image: url('../images/citrix-logo.png');
+        background-position:center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        height: 200px;
+    }
+
+    .bg5 {
+        border: 2px solid #DDDDDD;
+        background-image: url('../images/vmware-logo.png');
+        background-position:center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        height: 200px;
     }
 
 </style>
@@ -63,5 +76,14 @@ permalink: vendors-and-partners.html
         <div class="col-sm-12">
             <p class="lead">Orange partners with technology providers and specialized niche vendors to provide a complete Orange Workspace Services solution for the best security and user experience.</p>
         </div>
+    </div>
+</div>
+<div class="container">
+    <div class="row-nopadding">
+        <div class="col-sm-4 bg1"></div>
+        <div class="col-sm-4 bg2"></div>
+        <div class="col-sm-4 bg3"></div>
+        <div class="col-sm-4 bg4"></div>
+        <div class="col-sm-4 bg5"></div>
     </div>
 </div>
