@@ -30,8 +30,6 @@ permalink: support.html
     }
     
     .support1 {
-        position: relative;
-        text-align: center;
         border-radius: 15px;
         background-image: url('../images/support-bgarticles.jpg');
         background-position:center;
@@ -39,12 +37,9 @@ permalink: support.html
         background-repeat: no-repeat;
         line-height: 300px;
         height: 300px;
-        width 48%;
     }
 
     .support2 {
-        position: relative;
-        text-align: center;
         border-radius: 15px;
         background-image: url('../images/support-bgdocuments.jpg');
         background-position:center;
@@ -100,10 +95,10 @@ permalink: support.html
 
 <div class="container">
     <div class="row-nopadding">
-        <div class="col-sm-6">
+        <div class="col-sm-6 support1">
             <p><a class="btn btn-jumbotron btn-lg" href="{{ "https://docs.orangeworkspaceservices.com" | relative_url }}" target="_blank" role="button">Help & Support Articals</a></p>
         </div>
-        <div class="col-sm-6">
+        <div class="col-sm-6 support2">
             <p><a class="btn btn-jumbotron btn-lg" href="{{ "https://docs.orangeworkspaceservices.com" | relative_url }}" target="_blank" role="button">Orange Workspace Services Documentation</a></p>
         </div>
     </div>
