@@ -85,13 +85,13 @@ permalink: vendors-and-partners.html
         </div>
     </div>
 </div>
-<div class="container text-center">
+<div class="container">
     <div class="row text-center">
-        <div class="col-sm-3 column-margins bg1"><a href="{{ "https://www.microsoft.com" | relative_url }}" target="_blank" style="display:block; height:100%; width:100%;"></a></div>
-        <div class="col-sm-3 column-margins bg2"><a href="{{ "https://www.liquit.com" | relative_url }}" target="_blank" style="display:block; height:100%; width:100%;"></a></div>
-        <div class="col-sm-3 column-margins bg3"><a href="{{ "https://www.workspace365.net" | relative_url }}" target="_blank" style="display:block; height:100%; width:100%;"></a></div>
+        <div class="col-sm-4 column-margins bg1"><a href="{{ "https://www.microsoft.com" | relative_url }}" target="_blank" style="display:block; height:100%; width:100%;"></a></div>
+        <div class="col-sm-4 column-margins bg2"><a href="{{ "https://www.liquit.com" | relative_url }}" target="_blank" style="display:block; height:100%; width:100%;"></a></div>
+        <div class="col-sm-4 column-margins bg3"><a href="{{ "https://www.workspace365.net" | relative_url }}" target="_blank" style="display:block; height:100%; width:100%;"></a></div>
     </div>
-    <div class="row text-center"">
+    <div class="row text-center">
         <div class="col-sm-3 column-margins bg4"><a href="{{ "https://www.citrix.com" | relative_url }}" target="_blank" style="display:block; height:100%; width:100%;"></a></div>
         <div class="col-sm-3 column-margins bg5"><a href="{{ "https://www.vmware.com" | relative_url }}" target="_blank" style="display:block; height:100%; width:100%;"></a></div>
     </div>
