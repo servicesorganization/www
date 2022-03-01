@@ -20,11 +20,11 @@ permalink: support.html
         text-align: center;
         border-radius: 15px;
         border: 10px solid white;
-        background-image: url('../images/support-bgarticles.jpg');
+        background-image: url('../images/support-bgarchitecture.jpg');
         background-position:center;
         background-size: cover;
         background-repeat: no-repeat;
-        line-height: 290px;
+        line-height: 280px;
         height: 300px;
     }
 
@@ -36,7 +36,7 @@ permalink: support.html
         background-position:center;
         background-size: cover;
         background-repeat: no-repeat;
-        line-height: 290px;
+        line-height: 280px;
         height: 300px;
     }
 
@@ -48,7 +48,7 @@ permalink: support.html
         background-position:center;
         background-size: cover;
         background-repeat: no-repeat;
-        line-height: 290px;
+        line-height: 280px;
         height: 300px;
     }
 
