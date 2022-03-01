@@ -8,7 +8,7 @@ permalink: support.html
     .bgimg {
         background-image: url('../images/support-bg.jpg');
         background-position:center bottom 20%;
-        background-size: 100%;
+        background-size: cover;
         background-repeat: no-repeat
     }
 
@@ -55,7 +55,7 @@ permalink: support.html
     }
 
     table {
-        width: 750px;
+        width: 80%;
         margin-left:auto; 
         margin-right:auto;
     }
