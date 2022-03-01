@@ -16,19 +16,7 @@ permalink: support.html
         height: 300px;
     }
 
-    .supportwrapper {
-        padding-top: 10px;
-        padding-bottom: 10px;
-        overflow: hidden; /* add this to contain floated children */
-    }
-
-    .col-sm-6{
-        left: 2%;
-        right: 2%;
-        width: 46%;
-    }
-    
-    .support1 {
+    .bg1 {
         text-align: center;
         border-radius: 15px;
         background-image: url('../images/support-bgarticles.jpg');
@@ -39,7 +27,7 @@ permalink: support.html
         height: 300px;
     }
 
-    .support2 {
+    .bg2 {
         text-align: center;
         border-radius: 15px;
         background-image: url('../images/support-bgdocuments.jpg');
@@ -50,7 +38,13 @@ permalink: support.html
         height: 300px;
     }
 
-    p {
+    .bg1 > p {
+        line-height: normal;
+        display: inline-block;
+        vertical-align: bottom;
+    }
+
+    .bg2 > p {
         line-height: normal;
         display: inline-block;
         vertical-align: bottom;
@@ -61,10 +55,11 @@ permalink: support.html
         margin-left:auto; 
         margin-right:auto;
     }
+
     table > thead > tr > th {
         color: #FFFFFF;
-
     }
+
     table > tbody > tr:nth-of-type(odd) {
         color: #000000;
     }
@@ -95,10 +90,10 @@ permalink: support.html
 
 <div class="container">
     <div class="row-nopadding">
-        <div class="col-sm-6 support1">
+        <div class="col-sm-6 .col-sm-pull-1 bg1">
             <p><a class="btn btn-jumbotron btn-lg" href="{{ "https://docs.orangeworkspaceservices.com" | relative_url }}" target="_blank" role="button">Help & Support Articles</a></p>
         </div>
-        <div class="col-sm-6 support2">
+        <div class="col-sm-6 bg2">
             <p><a class="btn btn-jumbotron btn-lg" href="{{ "https://docs.orangeworkspaceservices.com" | relative_url }}" target="_blank" role="button">Documentation</a></p>
         </div>
     </div>
