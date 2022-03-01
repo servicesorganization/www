@@ -94,14 +94,14 @@ permalink: about-us.html
     </div>
 </div>
 
-<div class="container jumbotron-height-300">
+<div class="container">
     <div class="row-nopadding">
         <div class="col-sm-12">
             <p class="lead">The following labels are part of the Orange Business Services:</p>
         </div>
     </div>
 </div>
-<div class="container">
+<div class="container jumbotron-height-300">
     <div class="row text-center">
         <div class="col-sm-3 column-margins bg1"><a href="{{"https://www.orange-business.com" | relative_url }}" target="_blank" style="display:block; height:100%; width:100%;"></a></div>
         <div class="col-sm-3 column-margins bg2"><a href="{{ "https://www.basefarm.com" | relative_url }}" target="_blank" style="display:block; height:100%; width:100%;"></a></div>
