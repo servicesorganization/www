@@ -29,13 +29,11 @@ permalink: about-us.html
 <div class="jumbotron jumbotron-height-300 bgimg">
     <div class="container">
         <h1>About Us</h1>
-        <p></p>
-        <p></p>
     </div>
 </div>
 
 <div class="jumbotron jumbotron-height-900">
-    <div class="row-nopadding">
+    <div class="container">
         <div class="col-md-6">
             <h7 class="header-light regular-pad">What is Orange Workspace Services?</h7>
                 <p class="lead">Orange Workspace Services is workspace solution developed by Orange Business services.</p>
