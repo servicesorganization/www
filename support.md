@@ -90,7 +90,7 @@ permalink: support.html
 
 <div class="container">
     <div class="row-nopadding">
-        <div class="col-sm-6 .col-sm-pull-1 bg1">
+        <div class="col-sm-6 col-sm-pull-1 bg1">
             <p><a class="btn btn-jumbotron btn-lg" href="{{ "https://docs.orangeworkspaceservices.com" | relative_url }}" target="_blank" role="button">Help & Support Articles</a></p>
         </div>
         <div class="col-sm-6 bg2">
