@@ -14,6 +14,7 @@ permalink: market-recognition.html
 
     .jumbotron-height {
         height: 300px;
+        background-color: #000000;
     }
 
 </style>
