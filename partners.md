@@ -79,11 +79,9 @@ permalink: vendors-and-partners.html
     </div>
 </div>
 <div class="container">
-    <div class="row-nopadding">
-        <div class="col-sm-3 bg1"></div>
-        <div class="col-md-auto"></div>
+    <div class="row">
+        <div class="col-sm-4 bg1"></div>
         <div class="col-sm-4 bg2"></div>
-        <div class="col-md-auto">
         <div class="col-sm-4 bg3"></div>
         </div>
         <div class="row">
