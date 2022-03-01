@@ -100,11 +100,10 @@ permalink: support.html
 
 <div class="container">
     <div class="row-nopadding">
-        <div class="support1">
+        <div class="col-sm-6">
             <p><a class="btn btn-jumbotron btn-lg" href="{{ "https://docs.orangeworkspaceservices.com" | relative_url }}" target="_blank" role="button">Help & Support Articals</a></p>
         </div>
-        
-        <div class="support2">
+        <div class="col-sm-6">
             <p><a class="btn btn-jumbotron btn-lg" href="{{ "https://docs.orangeworkspaceservices.com" | relative_url }}" target="_blank" role="button">Orange Workspace Services Documentation</a></p>
         </div>
     </div>
