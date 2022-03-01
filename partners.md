@@ -19,6 +19,8 @@ permalink: vendors-and-partners.html
     .column-margins {
         margin-right: 10px;
         margin-left: 10px;
+        margin-top: 10px;
+        margin-bottom: 10px;
     }
 
   .bg1 {
@@ -88,9 +90,9 @@ permalink: vendors-and-partners.html
         <div class="col-sm-3 column-margins bg1"></div>
         <div class="col-sm-3 column-margins bg2"></div>
         <div class="col-sm-3 column-margins bg3"></div>
+        <div class="col-sm-3 column-margins bg4"></div>
     </div>
     <div class="row">
-        <div class="col-sm-4 bg4"></div>
-        <div class="col-sm-4 bg5"></div>
+        <div class="col-sm-3 column-margins bg5"></div>
     </div>
 </div>
