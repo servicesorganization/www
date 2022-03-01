@@ -19,24 +19,36 @@ permalink: support.html
     .bg1 {
         text-align: center;
         border-radius: 15px;
-        border: 5px solid white;
+        border: 10px solid white;
         background-image: url('../images/support-bgarticles.jpg');
         background-position:center;
         background-size: cover;
         background-repeat: no-repeat;
-        line-height: 300px;
+        line-height: 290px;
         height: 300px;
     }
 
     .bg2 {
         text-align: center;
         border-radius: 15px;
-        border: 5px solid white;
+        border: 10px solid white;
         background-image: url('../images/support-bgdocuments.jpg');
         background-position:center;
         background-size: cover;
         background-repeat: no-repeat;
-        line-height: 300px;
+        line-height: 290px;
+        height: 300px;
+    }
+
+    .bg3 {
+        text-align: center;
+        border-radius: 15px;
+        border: 10px solid white;
+        background-image: url('../images/support-bgdocuments.jpg');
+        background-position:center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        line-height: 290px;
         height: 300px;
     }
 
@@ -47,6 +59,12 @@ permalink: support.html
     }
 
     .bg2 > p {
+        line-height: normal;
+        display: inline-block;
+        vertical-align: bottom;
+    }
+
+    .bg3 > p {
         line-height: normal;
         display: inline-block;
         vertical-align: bottom;
@@ -93,10 +111,13 @@ permalink: support.html
 <div class="container">
     <div class="row-nopadding">
         <div class="col-sm-6 bg1">
-            <p><a class="btn btn-jumbotron btn-lg" href="{{ "https://docs.orangeworkspaceservices.com" | relative_url }}" target="_blank" role="button">Help & Support Articles</a></p>
+            <p><a class="btn btn-jumbotron btn-lg" href="{{ "https://docs.orangeworkspaceservices.com" | relative_url }}" target="_blank" role="button">Architecture</a></p>
         </div>
         <div class="col-sm-6 bg2">
             <p><a class="btn btn-jumbotron btn-lg" href="{{ "https://docs.orangeworkspaceservices.com" | relative_url }}" target="_blank" role="button">Documentation</a></p>
+        </div>
+        <div class="col-sm-6 bg3">
+            <p><a class="btn btn-jumbotron btn-lg" href="{{ "https://docs.orangeworkspaceservices.com" | relative_url }}" target="_blank" role="button">Help & Support Articles</a></p>
         </div>
     </div>
 </div>
