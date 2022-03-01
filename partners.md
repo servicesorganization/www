@@ -16,7 +16,7 @@ permalink: vendors-and-partners.html
         height: 300px;
     }
 
-    .row-padding {
+    .row-margins {
         margin-right: 10px;
         margin-left: 10px;
     }
@@ -84,10 +84,10 @@ permalink: vendors-and-partners.html
     </div>
 </div>
 <div class="container">
-    <div class="row-padding">
-        <div class="col-sm-3 bg1"></div>
-        <div class="col-sm-3 bg2"></div>
-        <div class="col-sm-3 bg3"></div>
+    <div class="row-margins">
+        <div class="col-sm-4 bg1"></div>
+        <div class="col-sm-4 bg2"></div>
+        <div class="col-sm-4 bg3"></div>
         </div>
         <div class="row">
         <div class="col-sm-4 bg4"></div>
