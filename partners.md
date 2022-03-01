@@ -22,7 +22,7 @@ permalink: vendors-and-partners.html
         background-position:center;
         background-size: cover;
         background-repeat: no-repeat;
-        height: 200px;
+        height: 300px;
     }
 
     .bg2 {
@@ -31,7 +31,7 @@ permalink: vendors-and-partners.html
         background-position:center;
         background-size: cover;
         background-repeat: no-repeat;
-        height: 200px;
+        height: 300px;
     }
 
     .bg3 {
@@ -40,7 +40,7 @@ permalink: vendors-and-partners.html
         background-position:center;
         background-size: cover;
         background-repeat: no-repeat;
-        height: 200px;
+        height: 300px;
     }
 
     .bg4 {
@@ -49,7 +49,7 @@ permalink: vendors-and-partners.html
         background-position:center;
         background-size: cover;
         background-repeat: no-repeat;
-        height: 200px;
+        height: 300px;
     }
 
     .bg5 {
@@ -58,7 +58,7 @@ permalink: vendors-and-partners.html
         background-position:center;
         background-size: cover;
         background-repeat: no-repeat;
-        height: 200px;
+        height: 300px;
     }
 
 </style>
@@ -80,10 +80,15 @@ permalink: vendors-and-partners.html
 </div>
 <div class="container">
     <div class="row-nopadding">
-        <div class="col-sm-4 bg1"></div>
+        <div class="col-sm-3 bg1"></div>
+        <div class="col-md-auto"></div>
         <div class="col-sm-4 bg2"></div>
+        <div class="col-md-auto">
         <div class="col-sm-4 bg3"></div>
+        </div>
+        <div class="row">
         <div class="col-sm-4 bg4"></div>
         <div class="col-sm-4 bg5"></div>
+        </div>
     </div>
 </div>
