@@ -6,7 +6,7 @@ permalink: vendors-and-partners.html
 
 <style type="text/css">
     .bgimg {
-        background-image: url('../images/aboutus-bg.jpg');
+        background-image: url('../images/vendorsandpartners-bg.jpg');
         background-position:center;
         background-size: 100%;
         background-repeat: no-repeat
@@ -48,30 +48,6 @@ permalink: vendors-and-partners.html
         width: 48%;
     }
 
-    p {
-        line-height: normal;
-        display: inline-block;
-        vertical-align: bottom;
-    }
-
-    table {
-        width: 750px;
-        margin-left:auto; 
-        margin-right:auto;
-    }
-    table > thead > tr > th {
-        color: #FFFFFF;
-
-    }
-    table > tbody > tr:nth-of-type(odd) {
-        color: #000000;
-    }
-
-    }
-    table > tbody > tr:nth-of-type(even) {
-        color: #FFFFFF;
-    }
-
 
 </style>
 
@@ -80,5 +56,13 @@ permalink: vendors-and-partners.html
         <h1>About Us</h1>
         <p></p>
         <p></p>
+    </div>
+</div>
+
+<div class="container">
+    <div class="row-nopadding">
+        <div class="col-sm-12">
+            <p>Orange partners with technology providers and specialized niche vendors to provide a complete Orange Workspace Services solution for the best security and user experience.</p>
+        </div>
     </div>
 </div>
