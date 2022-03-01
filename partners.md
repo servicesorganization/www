@@ -61,7 +61,7 @@ permalink: vendors-and-partners.html
 <div class="container">
     <div class="row-nopadding">
         <div class="col-sm-12">
-            <p>Orange partners with technology providers and specialized niche vendors to provide a complete Orange Workspace Services solution for the best security and user experience.</p>
+            <p class="lead">Orange partners with technology providers and specialized niche vendors to provide a complete Orange Workspace Services solution for the best security and user experience.</p>
         </div>
     </div>
 </div>
