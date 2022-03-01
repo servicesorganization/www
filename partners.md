@@ -80,9 +80,11 @@ permalink: vendors-and-partners.html
 </div>
 <div class="container">
     <div class="row">
-        <div class="col-4 bg1"></div>
-        <div class="col-4 bg2"></div>
-        <div class="col-4 bg3"></div>
+        <div class="col bg1"></div>
+        <div class="col"></div>
+        <div class="col bg2"></div>
+        <div class="col"></div>
+        <div class="col bg3"></div>
         </div>
         <div class="row">
         <div class="col-sm-4 bg4"></div>
