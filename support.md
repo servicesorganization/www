@@ -22,11 +22,10 @@ permalink: support.html
         overflow: hidden; /* add this to contain floated children */
     }
 
-    .spacer{
-        position: relative;
-        border: 1px solid orange;
-        min-height: 1px;
-        width 4%;
+    .col-sm-6{
+        left: 2%;
+        right: 2%;
+        width: 48%;
     }
     
     .support1 {
@@ -49,7 +48,6 @@ permalink: support.html
         background-repeat: no-repeat;
         line-height: 300px;
         height: 300px;
-        width 48%;
     }
 
     p {
@@ -98,10 +96,10 @@ permalink: support.html
 <div class="container">
     <div class="row-nopadding">
         <div class="col-sm-6 support1">
-            <p><a class="btn btn-jumbotron btn-lg" href="{{ "https://docs.orangeworkspaceservices.com" | relative_url }}" target="_blank" role="button">Help & Support Articals</a></p>
+            <p><a class="btn btn-jumbotron btn-lg" href="{{ "https://docs.orangeworkspaceservices.com" | relative_url }}" target="_blank" role="button">Help & Support Articles</a></p>
         </div>
         <div class="col-sm-6 support2">
-            <p><a class="btn btn-jumbotron btn-lg" href="{{ "https://docs.orangeworkspaceservices.com" | relative_url }}" target="_blank" role="button">Orange Workspace Services Documentation</a></p>
+            <p><a class="btn btn-jumbotron btn-lg" href="{{ "https://docs.orangeworkspaceservices.com" | relative_url }}" target="_blank" role="button">Documentation</a></p>
         </div>
     </div>
 </div>
