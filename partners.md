@@ -81,8 +81,8 @@ permalink: vendors-and-partners.html
 <div class="container">
     <div class="row">
         <div class="col-sm-4 bg1"></div>
-        <div class="col-sm-4 offset-md-1 bg2"></div>
-        <div class="col-sm-4 offset-md-1 bg3"></div>
+        <div class="col-sm-3 offset-md-1 bg2"></div>
+        <div class="col-sm-3 offset-md-1 bg3"></div>
         </div>
         <div class="row">
         <div class="col-sm-4 bg4"></div>
