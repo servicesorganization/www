@@ -14,8 +14,12 @@ permalink: about-us.html
 
     .jumbotron-color {
         color: #000000;
-        background-color: #dddddd;
+        background-color: #ffffff;
     }
+
+    .jumbotron-height-auto {
+        height: auto;
+   }
 
     .jumbotron-height-300 {
         height: 300px;
@@ -81,7 +85,7 @@ permalink: about-us.html
     </div>
 </div>
 
-<div class="jumbotron jumbotron-height-600">
+<div class="jumbotron jumbotron-height-auto">
     <div class="container">
         <div class="col-md-6">
             <h7 class="header-light regular-pad">About Orange Workspace Services?</h7>
@@ -101,7 +105,7 @@ permalink: about-us.html
         </div>
     </div>
 </div>
-<div class="container jumbotron-height-300">
+<div class="container jumbotron-height-auto">
     <div class="row text-center">
         <div class="col-sm-3 column-margins bg1"><a href="{{"https://www.orange-business.com" | relative_url }}" target="_blank" style="display:block; height:100%; width:100%;"></a></div>
         <div class="col-sm-3 column-margins bg2"><a href="{{ "https://www.basefarm.com" | relative_url }}" target="_blank" style="display:block; height:100%; width:100%;"></a></div>
