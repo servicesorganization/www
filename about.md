@@ -37,9 +37,16 @@ permalink: about-us.html
         height: 900px;
    }
 
+    .column-margins {
+        margin-right: 10px;
+        margin-left: 10px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+
   .bg1 {
         border: 2px solid #DDDDDD;
-        background-image: url('../images/microsoft-logo.png');
+        background-image: url('../images/orange-business-services-logo.png');
         background-position:center;
         background-size: cover;
         background-repeat: no-repeat;
@@ -48,7 +55,7 @@ permalink: about-us.html
 
     .bg2 {
         border: 2px solid #DDDDDD;
-        background-image: url('../images/liquit-logo.png');
+        background-image: url('../images/basefarm-logo.png');
         background-position:center;
         background-size: cover;
         background-repeat: no-repeat;
@@ -57,7 +64,7 @@ permalink: about-us.html
 
     .bg3 {
         border: 2px solid #DDDDDD;
-        background-image: url('../images/workspace365-logo.png');
+        background-image: url('../images/loginconsultants-logo.png');
         background-position:center;
         background-size: cover;
         background-repeat: no-repeat;
@@ -94,7 +101,7 @@ permalink: about-us.html
 </div>
 <div class="container">
     <div class="row text-center">
-        <div class="col-sm-3 column-margins bg1"><a href="https://www.orange-business.com" target="_blank" style="display:block; height:100%; width:100%;"></a></div>
+        <div class="col-sm-3 column-margins bg1"><a href="{{"https://www.orange-business.com" | relative_url }}" target="_blank" style="display:block; height:100%; width:100%;"></a></div>
         <div class="col-sm-3 column-margins bg2"><a href="{{ "https://www.basefarm.com" | relative_url }}" target="_blank" style="display:block; height:100%; width:100%;"></a></div>
         <div class="col-sm-3 column-margins bg3"><a href="{{ "https://www.loginconsultants.com" | relative_url }}" target="_blank" style="display:block; height:100%; width:100%;"></a></div>
     </div>
@@ -104,7 +111,7 @@ permalink: about-us.html
 <div class="jumbotron jumbotron-color">
     <div class="container">
         <div class="col-md-12">
-            <h1 class="lead">A global presence for local services</h1>
+            <h2 class="lead">A global presence for local services</h2>
             <p class="lead">Our teams are located in over 100 countries, ready to deploy and supervise your networks and digital solutions on a daily basis.</p>
         </div>
     </div>
