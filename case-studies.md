@@ -7,7 +7,7 @@ permalink: case-studies.html
 <style type="text/css">
     .bgimg {
         background-image: url('../images/casestudies-bg.jpg');
-        background-position:center top 5%;
+        background-position:center ;
         background-size: cover;
         background-repeat: no-repeat
     }

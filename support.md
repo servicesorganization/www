@@ -7,7 +7,7 @@ permalink: support.html
 <style type="text/css">
     .bgimg {
         background-image: url('../images/support-bg.jpg');
-        background-position: center bottom 20%;
+        background-position: center bottom;
         background-size: cover;
         background-repeat: no-repeat
     }
