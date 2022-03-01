@@ -40,9 +40,9 @@ permalink: solutions-overview.html
 
 <!-- Managed Cloud Hosted Desktops and Apps -->
 
-<div class="jumbotron jumbotron-height bgimg1">
+<div class="jumbotron jumbotron-height">
     <div class="container">
-        <div class="col-md-6">
+        <div class="col-md-6 bgimg1">
         </div>
         <div class="col-md-6 text-right">
             <h7 class="header-light regular-pad">Managed Cloud Hosted Desktops and Apps</h7>
