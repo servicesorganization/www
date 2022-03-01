@@ -47,15 +47,15 @@ permalink: about-us.html
 </div>
 
 
-<div class="jumbotron jumbotron-height-600">
+<div class="jumbotron">
     <div class="container">
         <div class="col-md-8 col-sm-12" style="height: auto;">
-            <h2 class="lead">A global presence for local services</h2>
+            <h8 class="lead">A global presence for local services</h8>
             <p class="lead">Our teams are located in over 100 countries, ready to deploy and supervise your networks and digital solutions on a daily basis.</p>
         </div>
     </div>
 </div>
-<div class="jumbotron jumbotron-height-600">
+<div class="jumbotron">
     <div class="container">
         <div class="col-md-4 col-sm-12" style="height: auto;">
             <p><img alt="" src="../images/yellow-point.png" style="padding-right:10px; float:left" class="small-image" width="20" height="20"><span style="font-size:1.8rem;"><strong><span style="color:#ff7900;">11 CyberSOC facilities </span></strong></span><br><strong>providing top-tier expertise in threat analysis</strong></p>
