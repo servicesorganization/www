@@ -12,7 +12,7 @@ permalink: solutions-overview.html
 
     .bgimg1 {
         background-image: url('../images/managed-cloud-hosted-desktops-and-apps-bg.png');
-        background-position: center bottom;
+        background-position: center;
         background-size: cover;
         background-repeat: no-repeat
     }
