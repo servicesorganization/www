@@ -60,7 +60,7 @@ permalink: solutions-overview.html
     <div class="container">
         <div class="col-md-6">
         </div>
-        <div class="col-md-6">
+        <div class="col-md-6 text-right">
             <h7 class="header-light regular-pad">Managed Workspace Portal</h7>
         </div>
     </div>
