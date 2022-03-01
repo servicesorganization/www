@@ -16,6 +16,11 @@ permalink: vendors-and-partners.html
         height: 300px;
     }
 
+    .row-padding {
+        margin-right: 10px;
+        margin-left: 10px;
+    }
+
   .bg1 {
         border: 2px solid #DDDDDD;
         background-image: url('../images/microsoft-logo.png');
@@ -79,11 +84,9 @@ permalink: vendors-and-partners.html
     </div>
 </div>
 <div class="container">
-    <div class="row">
+    <div class="row-padding">
         <div class="col-sm-3 bg1"></div>
-        <div class="col-sm-1"></div>
-        <div class="col-sm3 bg2"></div>
-        <div class="col-sm-1"></div>
+        <div class="col-sm-3 bg2"></div>
         <div class="col-sm-3 bg3"></div>
         </div>
         <div class="row">
