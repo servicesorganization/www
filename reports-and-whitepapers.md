@@ -6,9 +6,9 @@ permalink: reports-and-whitepapers.html
 
 <style type="text/css">
     .bgimg {
-        background-image: url('../images/aboutus-bg.jpg');
+        background-image: url('../images/reportsandwhitepapers-bg.png');
         background-position:center;
-        background-size: 100%;
+        background-size: cover;
         background-repeat: no-repeat
     }
 
@@ -47,37 +47,11 @@ permalink: reports-and-whitepapers.html
         float: right; /* add this */
         width: 48%;
     }
-
-    p {
-        line-height: normal;
-        display: inline-block;
-        vertical-align: bottom;
-    }
-
-    table {
-        width: 750px;
-        margin-left:auto; 
-        margin-right:auto;
-    }
-    table > thead > tr > th {
-        color: #FFFFFF;
-
-    }
-    table > tbody > tr:nth-of-type(odd) {
-        color: #000000;
-    }
-
-    }
-    table > tbody > tr:nth-of-type(even) {
-        color: #FFFFFF;
-    }
-
-
 </style>
 
 <div class="jumbotron jumbotron-height bgimg">
     <div class="container">
-        <h1>About Us</h1>
+        <h1>Reports & Whitepapers</h1>
         <p></p>
         <p></p>
     </div>

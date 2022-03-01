@@ -8,7 +8,7 @@ permalink: vendors-and-partners.html
     .bgimg {
         background-image: url('../images/vendorsandpartners-bg.jpg');
         background-position:center;
-        background-size: 100%;
+        background-size: cover;
         background-repeat: no-repeat
     }
 
