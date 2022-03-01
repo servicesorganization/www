@@ -16,6 +16,10 @@ permalink: support.html
         height: 300px;
     }
 
+    .jumbotron-background-color {
+        background-color: #DDDDDD
+    }
+
     .bg1 {
         text-align: center;
         border-radius: 15px;
@@ -44,7 +48,7 @@ permalink: support.html
         text-align: center;
         border-radius: 15px;
         border: 10px solid white;
-        background-image: url('../images/support-bgdocuments.jpg');
+        background-image: url('../images/support-bgarticles.jpg');
         background-position:center;
         background-size: cover;
         background-repeat: no-repeat;
@@ -136,7 +140,7 @@ permalink: support.html
     </div>
 </div>
 
-<div class="jumbotron">
+<div class="jumbotron jumbotron-background-color">
     <div class="container text-center">
         <h9>Code repositories</h9>
         <p>You can find the latest services repositories here. Please note that you will need a valid Github account with the appropriate rights.</p>
