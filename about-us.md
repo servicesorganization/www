@@ -27,7 +27,7 @@ permalink: about-us.html
         border-radius: 15px;
         background-image: url('../images/support-bgarticles.jpg');
         background-position:center;
-        background-size: 100%;
+        background-size: cover;
         background-repeat: no-repeat;
         line-height: 300px;
         height: 300px;
