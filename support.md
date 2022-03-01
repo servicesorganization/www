@@ -16,7 +16,8 @@ permalink: support.html
         height: 300px;
     }
 
-    .jumbotron-background-color {
+    .jumbotron-color {
+        color: #000000
         background-color: #DDDDDD
     }
 
@@ -87,7 +88,7 @@ permalink: support.html
 
     table > tbody > tr:nth-of-type(odd) {
         color: #000000;
-        background-color: #f9f9f9
+        background-color: #ffffff
     }
 
     }
@@ -143,7 +144,7 @@ permalink: support.html
     </div>
 </div>
 
-<div class="jumbotron jumbotron-background-color">
+<div class="jumbotron jumbotron-color">
     <div class="container text-center">
         <h9>Code repositories</h9>
         <p>You can find the latest services repositories here. Please note that you will need a valid Github account with the appropriate rights.</p>
