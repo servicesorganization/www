@@ -94,7 +94,7 @@ permalink: about-us.html
     </div>
 </div>
 
-<div class="container">
+<div class="container jumbotron-height-300">
     <div class="row-nopadding">
         <div class="col-sm-12">
             <p class="lead">The following labels are part of the Orange Business Services:</p>
