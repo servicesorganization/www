@@ -7,7 +7,7 @@ permalink: vendors-and-partners.html
 <style type="text/css">
     .bgimg {
         background-image: url('../images/vendorsandpartners-bg.jpg');
-        background-position:center top 5%;
+        background-position:center ;
         background-size: cover;
         background-repeat: no-repeat
     }
@@ -47,31 +47,6 @@ permalink: vendors-and-partners.html
         float: right; /* add this */
         width: 48%;
     }
-
-    p {
-        line-height: normal;
-        display: inline-block;
-        vertical-align: bottom;
-    }
-
-    table {
-        width: 80%;
-        margin-left:auto; 
-        margin-right:auto;
-    }
-    table > thead > tr > th {
-        color: #FFFFFF;
-
-    }
-    table > tbody > tr:nth-of-type(odd) {
-        color: #000000;
-    }
-
-    }
-    table > tbody > tr:nth-of-type(even) {
-        color: #FFFFFF;
-    }
-
 
 </style>
 
