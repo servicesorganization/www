@@ -25,7 +25,7 @@ permalink: support.html
     .col-sm-6{
         left: 2%;
         right: 2%;
-        width: 48%;
+        width: 46%;
     }
     
     .support1 {
