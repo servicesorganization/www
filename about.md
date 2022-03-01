@@ -85,7 +85,7 @@ permalink: about-us.html
     <div class="container">
         <div class="col-md-6">
             <h7 class="header-light regular-pad">About Orange Workspace Services?</h7>
-                <p class="lead">Orange Workspace Services is a workspace solution developed by Orange Business services.</p>
+                <p class="lead">Orange Workspace Services is a workspace solution developed by Orange Business services unit.</p>
                 <p class="lead">Orange Business Services is a business unit of the Orange Group and provides digital services to organizations around the world. We design and manage end-to-end digital solutions for our customers and we strive for a safer digital society where the user experience is the most optimal.</p>
                 <p class="lead">Orange Business Services has been pursuing an ambitious acquisition policy for years, in line with its strategy as a global player in digital transformation. Within the workplace area, Orange Business Services has managed to acquire a number of well-known labels in this field. Together these labels have developed our unique Orange Workspace Services solution.</p>
         </div>
