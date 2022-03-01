@@ -22,6 +22,7 @@ permalink: market-recognition.html
     <div class="container">
         <h1>Market Recognition</h1>
         <p></p>
+        <p></p>
         <p>We're aiming for the highest standards of excellence in our mission. But don't just take our word for it. A quick look at our external recognition!</p>
     </div>
 </div>
