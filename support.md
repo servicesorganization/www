@@ -17,8 +17,8 @@ permalink: support.html
     }
 
     .jumbotron-color {
-        color: #000000
-        background-color: #DDDDDD
+        color: #000000;
+        background-color: #DDDDDD;
     }
 
     .bg1 {
@@ -88,13 +88,13 @@ permalink: support.html
 
     table > tbody > tr:nth-of-type(odd) {
         color: #000000;
-        background-color: #ffffff
+        background-color: #ffffff;
     }
 
     }
     table > tbody > tr:nth-of-type(even) {
         color: #000000;
-        background-color: #f9f9f9
+        background-color: #f9f9f9;
     }
 
 

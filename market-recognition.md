@@ -1,13 +1,13 @@
 ---
 layout: firstpage
-title: Market Rrecognition.html
+title: Market Recognition.html
 permalink: market-recognition.html
 ---
 
 <style type="text/css">
     .bgimg {
         background-image: url('../images/marketrecognition-bg.jpg');
-        background-position: center top;
+        background-position: center top 20%;
         background-size: cover;
         background-repeat: no-repeat
     }
@@ -77,7 +77,7 @@ permalink: market-recognition.html
 
 <div class="jumbotron jumbotron-height bgimg">
     <div class="container">
-        <h1>About Us</h1>
+        <h1>Market Recognition</h1>
         <p></p>
         <p></p>
     </div>
