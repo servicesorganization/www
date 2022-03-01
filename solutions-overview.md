@@ -39,3 +39,64 @@ permalink: solutions-overview.html
         </div>
     </div>
 </div>
+
+<!-- Cloud Managed Device -->
+
+<div class="jumbotron jumbotron-height">
+    <div class="container">
+        <div class="col-md-6">
+            <h7 class="header-light regular-pad">Cloud Managed Device</h7>
+        </div>
+        <div class="col-md-6">
+        </div>
+    </div>
+</div>
+
+<!-- Managed Cloud Hosted Desktops and Apps -->
+
+<div class="jumbotron jumbotron-height">
+    <div class="container">
+        <div class="col-md-6">
+        </div>
+        <div class="col-md-6 text-right">
+            <h7 class="header-light regular-pad">Managed Cloud Hosted Desktops and Apps</h7>
+        </div>
+    </div>
+</div>
+
+<!-- Managed Office 365  -->
+
+<div class="jumbotron jumbotron-height">
+    <div class="container">
+        <div class="col-md-6">
+            <h7 class="header-light regular-pad">Managed Office 365</h7>
+        </div>
+        <div class="col-md-6">
+        </div>
+    </div>
+</div>
+
+<!-- Managed Workspace Portal -->
+
+<div class="jumbotron jumbotron-height">
+    <div class="container">
+        <div class="col-md-6">
+            <h7 class="header-light regular-pad">Managed Workspace Portal</h7>
+        </div>
+        <div class="col-md-6">
+        </div>
+    </div>
+</div>
+
+
+<!-- Managed Application Delivery Service  -->
+
+<div class="jumbotron jumbotron-height">
+    <div class="container">
+        <div class="col-md-6">
+            <h7 class="header-light regular-pad">Managed Application Delivery Service</h7>
+        </div>
+        <div class="col-md-6">
+        </div>
+    </div>
+</div>
