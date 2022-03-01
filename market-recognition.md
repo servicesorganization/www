@@ -21,7 +21,7 @@ permalink: market-recognition.html
    }
 
     .jumbotron-height-900 {
-        height: 600px;
+        height: 900px;
    }
 </style>
 
