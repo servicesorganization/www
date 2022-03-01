@@ -28,7 +28,7 @@ permalink: support.html
         width: 4%;
     }
     
-    .support1{
+    .support1 {
         text-align: center;
         border-radius: 15px;
         background-image: url('../images/support-bgarticles.jpg');
@@ -40,7 +40,7 @@ permalink: support.html
         width: 48%;
     }
 
-    .support2{
+    .support2 {
         text-align: center;
         border-radius: 15px;
         background-image: url('../images/support-bgdocuments.jpg');
