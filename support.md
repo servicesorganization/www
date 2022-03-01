@@ -146,7 +146,7 @@ permalink: support.html
 
 <div class="jumbotron jumbotron-color">
     <div class="container text-center">
-        <h9>Code repositories</h9>
+        <h10>Code repositories</h10>
         <p>You can find the latest services repositories here. Please note that you will need a valid Github account with the appropriate rights.</p>
         <br>
     </div>

@@ -1,7 +1,7 @@
 ---
 layout: firstpage
-title: Home
-permalink: index.html
+title: Solutions Overview
+permalink: solutions-overview.html
 ---
 
 <style type="text/css">
@@ -12,9 +12,9 @@ permalink: index.html
 
 <div class="jumbotron jumbotron-height">
     <div class="container">
-        <h1>Orange Workspace Services</h1>
-        <p>Orange Workspace Services is a unique workplace solution. The solution is based on existing workplace services and enriched with Orange's leading services delivered as a whole.</p>
-        <p><a class="btn btn-jumbotron btn-lg" href="{{ "/solutions_overview.html" | relative_url }}" role="button">Learn more</a></p>
+        <h1>Solution Overview</h1>
+        <p></p>        
+        <p>Discover what our Orange Workspace Services solution can do for you.</p>
     </div>
 </div>
 
