@@ -30,20 +30,22 @@ permalink: support.html
     }
     
     .support1 {
+        text-align: center;
         border-radius: 15px;
         background-image: url('../images/support-bgarticles.jpg');
         background-position:center;
-        background-size: 100%;
+        background-size: cover;
         background-repeat: no-repeat;
         line-height: 300px;
         height: 300px;
     }
 
     .support2 {
+        text-align: center;
         border-radius: 15px;
         background-image: url('../images/support-bgdocuments.jpg');
         background-position:center;
-        background-size: 100%;
+        background-size: cover;
         background-repeat: no-repeat;
         line-height: 300px;
         height: 300px;
