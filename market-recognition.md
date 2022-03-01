@@ -20,18 +20,21 @@ permalink: market-recognition.html
         height: 600px;
    }
 
+    .jumbotron-height-900 {
+        height: 600px;
+   }
 </style>
 
 <div class="jumbotron jumbotron-height-300 bgimg">
     <div class="container">
         <h1>Market Recognition</h1>
-        <p> </p>
-        <p> </p>
+        <br>
+        <br>
         <p>We're aiming for the highest standards of excellence in our mission. But don't just take our word for it. A quick look at our external recognition!</p>
     </div>
 </div>
 
-<div class="jumbotron jumbotron-height-600">
+<div class="jumbotron jumbotron-height-900">
     <div class="container">
         <div class="col-md-6">
             <h7 class="header-light regular-pad">What is Orange Workspace Services?</h7>

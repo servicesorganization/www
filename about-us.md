@@ -39,21 +39,3 @@ permalink: about-us.html
         </div>
     </div>
 </div>
-
-<div class="jumbotron jumbotron-height">
-    <div class="container">
-        <div class="col-md-6">
-        </div>
-        <div class="col-md-6">
-        </div>
-    </div>
-</div>
-
-<div class="jumbotron jumbotron-height">
-    <div class="container">
-        <div class="col-md-6">
-        </div>
-        <div class="col-md-6">
-        </div>
-    </div>
-</div>
