@@ -37,7 +37,6 @@ permalink: support.html
         background-repeat: no-repeat;
         line-height: 300px;
         height: 300px;
-        width: 48%;
     }
 
     .support2 {
@@ -49,7 +48,6 @@ permalink: support.html
         background-repeat: no-repeat;
         line-height: 300px;
         height: 300px;
-        width: 48%;
     }
 
     p {
