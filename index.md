@@ -30,9 +30,7 @@ permalink: index.html
                     companies applications and data.</p>
                 <p class="lead">2: Boost employee experience by delivering a unified employee experience across all devices, ensure the best possible digital workspace performance and 
                     include an adaptive workspace portal boosting the employee experience and productivity.</p>
-                <p class="lead">3: Simplify complexity by using market standard PaaS and SaaS cloud services as the foundation, supports a smooth transition from 
-                    legacy to SaaS applications without bothering the employees and supports continuous innovations within the Workspace Services.
-                </p>
+                <p class="lead">3: Simplify complexity by using market standard PaaS and SaaS cloud services as the foundation, supports a smooth transition from legacy to SaaS applications without bothering the employees and supports continuous innovations within the Workspace Services.</p>
         </div>
         <div class="col-md-6">
 			  <img src="{{ "/assets/images/illustration.png" | relative_url }}" alt="Orange Workspace Services" class="img-responsive">
