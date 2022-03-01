@@ -29,7 +29,7 @@ permalink: vendors-and-partners.html
         background-position:center;
         background-size: cover;
         background-repeat: no-repeat;
-        height: 280;
+        height: 280px;
     }
 
     .bg2 {
@@ -38,7 +38,7 @@ permalink: vendors-and-partners.html
         background-position:center;
         background-size: cover;
         background-repeat: no-repeat;
-        height: 280;
+        height: 280px;
     }
 
     .bg3 {
@@ -47,7 +47,7 @@ permalink: vendors-and-partners.html
         background-position:center;
         background-size: cover;
         background-repeat: no-repeat;
-        height: 280;
+        height: 280px;
     }
 
     .bg4 {
@@ -56,7 +56,7 @@ permalink: vendors-and-partners.html
         background-position:center;
         background-size: cover;
         background-repeat: no-repeat;
-        height: 280;
+        height: 280px;
     }
 
     .bg5 {
@@ -65,7 +65,7 @@ permalink: vendors-and-partners.html
         background-position:center;
         background-size: cover;
         background-repeat: no-repeat;
-        height: 280;
+        height: 280px;
     }
 
 </style>
@@ -87,7 +87,7 @@ permalink: vendors-and-partners.html
 </div>
 <div class="container">
     <div class="row">
-        <div class="col-sm-3 column-margins bg1"></div>
+        <div class="col-sm-3 column-margins bg1"><a href="{{ "https://www.microsoft.com" | relative_url }}" target="_blank" style="display:block; height:100%; width:100%;"></a></div>
         <div class="col-sm-3 column-margins bg2"></div>
         <div class="col-sm-3 column-margins bg3"></div>
         <div class="col-sm-3 column-margins bg4"></div>
