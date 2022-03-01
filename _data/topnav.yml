@@ -45,7 +45,7 @@ topnav_dropdowns:
         - title: Blogs
           url: /blogs.html
         - title: Reports & Whitepapers
-          url: /reports_and_whitepapers.html
+          url: /reports-and-whitepapers.html
         
     - title: About us
       folderitems:
