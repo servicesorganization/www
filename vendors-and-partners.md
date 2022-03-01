@@ -1,12 +1,12 @@
 ---
 layout: firstpage
 title: Vendors and Partners
-permalink: vendorsandpartners.html
+permalink: vendors-and-partners.html
 ---
 
 <style type="text/css">
     .bgimg {
-        background-image: url('../images/vendorsandpartners-bg.jpg');
+        background-image: url('../images/vendorsandpartners-bg.png');
         background-position:center;
         background-size: cover;
         background-repeat: no-repeat
@@ -47,13 +47,11 @@ permalink: vendorsandpartners.html
         float: right; /* add this */
         width: 48%;
     }
-
-
 </style>
 
 <div class="jumbotron jumbotron-height bgimg">
     <div class="container">
-        <h1>About Us</h1>
+        <h1>Vendors & Partners</h1>
         <p></p>
         <p></p>
     </div>
