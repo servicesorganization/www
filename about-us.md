@@ -53,6 +53,10 @@ permalink: about-us.html
             <h2 class="lead">A global presence for local services</h2>
             <p class="lead">Our teams are located in over 100 countries, ready to deploy and supervise your networks and digital solutions on a daily basis.</p>
         </div>
+    </div>
+</div>
+<div class="jumbotron jumbotron-height-600">
+    <div class="container">
         <div class="col-md-4 col-sm-12" style="height: auto;">
             <p><img alt="" src="../images/yellow-point.png" style="padding-right:10px; float:left" class="small-image" width="20" height="20"><span style="font-size:1.8rem;"><strong><span style="color:#ff7900;">11 CyberSOC facilities </span></strong></span><br><strong>providing top-tier expertise in threat analysis</strong></p>
             <p><img alt="" src="../images/pink-point.jpg" style="padding-right:10px; float:left" class="small-image" width="20" height="20"><span style="font-size:1.8rem;"><span style="color:#ff7900;"><strong>17 SOC facilities</strong></span></span><br><strong>located around the world, monitoring and reacting to events 24/7, 365 days a year </strong></p>
