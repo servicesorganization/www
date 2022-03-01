@@ -18,23 +18,23 @@ topnav_dropdowns:
       folderitems:
         - title: Solutions Overview
           url: /solutions-overview.html
+        - title: Solutions 1
+          url: /solutions-overview.html
+        - title: 
+          url: 
+        - title: Solutions 2
+          url: /solutions-overview.html
 
     - title: Services
       folderitems:
-        - title: Managed Cloud Foundation Services
-          url: /managed_cloud_foundation_services
-        - title: Managed Identity and Access
-          url: /managed_identity_and_access
-        - title: Cloud Managed Device
-          url: /cloud_managed_device
-        - title: Managed Office 365
-          url: /managed_office_365
-        - title: Managed Cloud Hosted Desktop & Apps
-          url: /managed_cloud_hosted_desktop_and_apps
-        - title: Managed Cloud Hosted Desktop & Apps (Hybrid)
-          url: /managed_cloud_hosted_desktop_and_apps_hybrid
-        - title: Managed Local & Office Lan/WiFi
-          url: /managed_local_and_office_lan_wifi
+        - title: Services Overview
+          url: /services-overview.html
+        - title: Asses and Advise
+          url: /asses-and-advise.html
+        - title: Design & Implement
+          url: /design-and-implement.html
+        - title: Operate & Support
+          url: /operate-and-support.html
 
     - title: Insights
       folderitems:

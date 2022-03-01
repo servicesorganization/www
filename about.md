@@ -50,7 +50,7 @@ permalink: about-us.html
         background-position:center;
         background-size: cover;
         background-repeat: no-repeat;
-        background-color: #0000000;
+        background-color: #000000;
         height: 200px;
     }
 
@@ -113,7 +113,7 @@ permalink: about-us.html
 <div class="jumbotron jumbotron-color">
     <div class="container">
         <div class="col-md-12">
-            <h2>A global presence for local services</h2>
+            <h7>A global presence for local services</h7>
             <p class="lead">Our teams are located in over 100 countries, ready to deploy and supervise your networks and digital solutions on a daily basis.</p>
         </div>
     </div>

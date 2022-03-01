@@ -57,6 +57,18 @@ permalink: support.html
         height: 300px;
     }
 
+    .bg4 {
+        text-align: center;
+        border-radius: 15px;
+        border: 10px solid white;
+        background-image: url('../images/support-bgoperate.jpg');
+        background-position:center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        line-height: 280px;
+        height: 300px;
+    }
+
     .bg1 > p {
         line-height: normal;
         display: inline-block;
@@ -70,6 +82,12 @@ permalink: support.html
     }
 
     .bg3 > p {
+        line-height: normal;
+        display: inline-block;
+        vertical-align: bottom;
+    }
+
+    .bg4 > p {
         line-height: normal;
         display: inline-block;
         vertical-align: bottom;
