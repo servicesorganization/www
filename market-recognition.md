@@ -33,10 +33,8 @@ permalink: market-recognition.html
 
 <div class="jumbotron">
     <div class="container">
-        <div class="col-md-6">
+        <div class="col-md-12">
             <p class="lead">We're aiming for the highest standards of excellence in our mission. But don't just take our word for it. A quick look at our external recognition!</p>
-        </div>
-        <div class="col-md-6">
         </div>
     </div>
 </div>
