@@ -7,7 +7,7 @@ permalink: solutions-overview.html
 <style type="text/css">
     
 .jumbotron-height {
-        height: 300px;
+        height: 500px;
     }
 
     .bgimg1 {
@@ -15,8 +15,6 @@ permalink: solutions-overview.html
         background-position: center;
         background-size: 100%;
         background-repeat: no-repeat;
-        background: rgb(0,0,0);
-        background: linear-gradient(90deg, rgba(0,0,0,1) 50%, rgba(255,255,255,0.0029239766081871066) 100%);
 
     }
 </style>
