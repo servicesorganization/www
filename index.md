@@ -26,11 +26,11 @@ permalink: index.html
                     empowers employees to do their work, anytime, anywhere, in the most productive, user-friendly 
                     and secure way.</p> 
                 <p class="lead">Our Workspace Services capabilities will:</p>
-                <p class="lead">1: <b>Support hybrid work scenarios</b> so you can consume your digital workspace anytime, anywhere and on any device, empower collaboration and productivity and provide secure access to your
+                <p class="lead"><b>1: Support hybrid work scenarios</b> so you can consume your digital workspace anytime, anywhere and on any device, empower collaboration and productivity and provide secure access to your
                     companies applications and data.</p>
-                <p class="lead">2: <b>Boost employee experience</b> by delivering a unified employee experience across all devices, ensure the best possible digital workspace performance and 
+                <p class="lead"><b>2: Boost employee experience</b> by delivering a unified employee experience across all devices, ensure the best possible digital workspace performance and 
                     include an adaptive workspace portal boosting the employee experience and productivity.</p>
-                <p class="lead">3: <b>Simplify complexity</b> by using market standard PaaS and SaaS cloud services as the foundation, supports a smooth transition from legacy to SaaS applications without bothering the employees and supports continuous innovations within the Workspace Services.</p>
+                <p class="lead"><b>3: Simplify complexity</b> by using market standard PaaS and SaaS cloud services as the foundation, supports a smooth transition from legacy to SaaS applications without bothering the employees and supports continuous innovations within the Workspace Services.</p>
         </div>
         <div class="col-md-6">
 			  <img src="{{ "/assets/images/illustration.png" | relative_url }}" alt="Orange Workspace Services" class="img-responsive">
