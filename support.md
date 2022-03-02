@@ -146,7 +146,7 @@ permalink: support.html
             <p><a class="btn btn-jumbotron btn-lg" href="{{ "https://docs.orangeworkspaceservices.com" | relative_url }}" target="_blank" role="button">Help & Support Articles</a></p>
         </div>
         <div class="col-sm-6 bg4">
-            <p><a class="btn btn-jumbotron btn-lg" href="{{ "https://docs.orangeworkspaceservices.com" | relative_url }}" target="_blank" role="button">Operate</a></p>
+            <p><a class="btn btn-jumbotron btn-lg" href="{{ "https://docs.orangeworkspaceservices.com" | relative_url }}" target="_blank" role="button">Operation</a></p>
         </div>
     </div>
 </div>
