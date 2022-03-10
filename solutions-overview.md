@@ -7,14 +7,15 @@ permalink: solutions-overview.html
 <style type="text/css">
     
 .jumbotron-height {
-        height: 300px;
+        height: 500px;
     }
 
     .bgimg1 {
         background-image: url('../images/managed-cloud-hosted-desktops-and-apps-bg.png');
         background-position: center;
-        background-size: 100%;
+        background-size: cover;
         background-repeat: no-repeat;
+
     }
 </style>
 
