@@ -15,6 +15,7 @@ permalink: solutions-overview.html
         background-position: center;
         background-size: cover;
         background-repeat: no-repeat;
+        height: 500px;
 
     }
 </style>
