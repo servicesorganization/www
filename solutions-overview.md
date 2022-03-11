@@ -11,28 +11,12 @@ permalink: solutions-overview.html
     }
 
     .bgimg1 {
-        background-image: url('../images/managed-cloud-hosted-desktops-and-apps-bg.png');
+        background-image: url('../images/managed-cloud-hosted-desktops-and-apps-bg.png'), linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));;
         background-position: center;
         background-size: cover;
         background-repeat: no-repeat;
         height: 500px;
 
-    }
-
-    .blur {
-        background-size:cover;
-        -webkit-filter: blur(4px);
-        -moz-filter: blur(4px);
-        -ms-filter: blur(4px);
-        -o-filter: blur(4px);
-        filter: blur(4px);
-        pointer-events: none;
-        -webkit-touch-callout: none;
-        -webkit-user-select: none;
-        -khtml-user-select: none;
-        -moz-user-select: none;
-        -ms-user-select: none;
-        user-select: none;
     }
 
 </style>
@@ -63,7 +47,7 @@ permalink: solutions-overview.html
     <div class="container">
         <div class="col-md-6">
         </div>
-        <div class="col-md-6 text-right blur">
+        <div class="col-md-6 text-right">
             <h7 class="header-light regular-pad">Managed Cloud Hosted Desktops and Apps</h7>
         </div>
     </div>
