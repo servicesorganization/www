@@ -16,6 +16,7 @@ permalink: solutions-overview.html
         background-size: cover;
         background-repeat: no-repeat;
         height: 500px;
+        margin-bottom: 20px;
 
     }
 
@@ -25,6 +26,7 @@ permalink: solutions-overview.html
         background-size: cover;
         background-repeat: no-repeat;
         height: 500px;
+        margin-bottom: 20px;
 
     }
     .bgimg2 {
@@ -33,6 +35,7 @@ permalink: solutions-overview.html
         background-size: cover;
         background-repeat: no-repeat;
         height: 500px;
+        margin-bottom: 20px;
 
     }
 
@@ -42,6 +45,7 @@ permalink: solutions-overview.html
         background-size: cover;
         background-repeat: no-repeat;
         height: 500px;
+        margin-bottom: 20px;
 
     }
     .bgimg4 {
@@ -50,6 +54,7 @@ permalink: solutions-overview.html
         background-size: cover;
         background-repeat: no-repeat;
         height: 500px;
+        margin-bottom: 20px;
 
     }
 
