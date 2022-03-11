@@ -8,7 +8,6 @@ permalink: solutions-overview.html
     
     .jumbotron-height {
         height: 200px;
-        margin-bottom: 20px;
 
     }
 
