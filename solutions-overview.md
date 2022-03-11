@@ -83,6 +83,8 @@ permalink: solutions-overview.html
     </div>
 </div>
 
+<div class="jumbotron jumbotron-height-20"></div>
+
 <!-- Managed Cloud Hosted Desktops and Apps -->
 
 <div class="jumbotron jumbotron-height bgimg1">
@@ -109,6 +111,8 @@ permalink: solutions-overview.html
     </div>
 </div>
 
+<div class="jumbotron jumbotron-height-20"></div>
+
 <!-- Managed Workspace Portal -->
 
 <div class="jumbotron jumbotron-height bgimg3">
@@ -121,6 +125,7 @@ permalink: solutions-overview.html
     </div>
 </div>
 
+<div class="jumbotron jumbotron-height-20"></div>
 
 <!-- Managed Application Delivery Service  -->
 
