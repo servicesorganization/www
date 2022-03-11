@@ -10,8 +10,42 @@ permalink: solutions-overview.html
         height: 500px;
     }
 
+    .bgimg0 {
+        background-image: linear-gradient(to left, rgba(0,0,0,0), rgba(0,0,0,1)), url('../images/cloud-managed-device-bg.png'), linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        height: 500px;
+
+    }
+
     .bgimg1 {
-        background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(0,0,0,1)), url('../images/managed-cloud-hosted-desktops-and-apps-bg.png'), linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));
+        background-image: linear-gradient(to right, rgba(0,0,0,0), rgba(0,0,0,1)), url('../images/managed-cloud-hosted-desktops-and-apps-bg.png'), linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        height: 500px;
+
+    }
+    .bgimg2 {
+        background-image: linear-gradient(to left, rgba(0,0,0,0), rgba(0,0,0,1)), url('../images/cloud-managed-device-bg.png'), linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        height: 500px;
+
+    }
+
+    .bgimg3 {
+        background-image: linear-gradient(to right, rgba(0,0,0,0), rgba(0,0,0,1)), url('../images/managed-cloud-hosted-desktops-and-apps-bg.png'), linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        height: 500px;
+
+    }
+    .bgimg4 {
+        background-image: linear-gradient(to left, rgba(0,0,0,0), rgba(0,0,0,1)), url('../images/cloud-managed-device-bg.png'), linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));
         background-position: center;
         background-size: cover;
         background-repeat: no-repeat;
@@ -31,7 +65,7 @@ permalink: solutions-overview.html
 
 <!-- Cloud Managed Device -->
 
-<div class="jumbotron jumbotron-height">
+<div class="jumbotron jumbotron-height bgimg0">
     <div class="container">
         <div class="col-md-6">
             <h7 class="header-light regular-pad">Cloud Managed Device</h7>
@@ -55,7 +89,7 @@ permalink: solutions-overview.html
 
 <!-- Managed Office 365  -->
 
-<div class="jumbotron jumbotron-height">
+<div class="jumbotron jumbotron-height bgimg2">
     <div class="container">
         <div class="col-md-6">
             <h7 class="header-light regular-pad">Managed Office 365</h7>
@@ -67,7 +101,7 @@ permalink: solutions-overview.html
 
 <!-- Managed Workspace Portal -->
 
-<div class="jumbotron jumbotron-height">
+<div class="jumbotron jumbotron-height bgimg3">
     <div class="container">
         <div class="col-md-6">
         </div>
@@ -80,7 +114,7 @@ permalink: solutions-overview.html
 
 <!-- Managed Application Delivery Service  -->
 
-<div class="jumbotron jumbotron-height">
+<div class="jumbotron jumbotron-height bgimg4">
     <div class="container">
         <div class="col-md-6">
             <h7 class="header-light regular-pad">Managed Application Delivery Service</h7>
