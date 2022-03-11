@@ -18,6 +18,23 @@ permalink: solutions-overview.html
         height: 500px;
 
     }
+
+    .blur {
+        background-size:cover;
+        -webkit-filter: blur(4px);
+        -moz-filter: blur(4px);
+        -ms-filter: blur(4px);
+        -o-filter: blur(4px);
+        filter: blur(4px);
+        pointer-events: none;
+        -webkit-touch-callout: none;
+        -webkit-user-select: none;
+        -khtml-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+    }
+
 </style>
 
 <div class="jumbotron jumbotron-height">
@@ -46,7 +63,7 @@ permalink: solutions-overview.html
     <div class="container">
         <div class="col-md-6">
         </div>
-        <div class="col-md-6 text-right">
+        <div class="col-md-6 text-right blur">
             <h7 class="header-light regular-pad">Managed Cloud Hosted Desktops and Apps</h7>
         </div>
     </div>
