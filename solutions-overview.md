@@ -11,6 +11,11 @@ permalink: solutions-overview.html
 
     }
 
+    .jumbotron-height-20 {
+        height: 20px;
+
+    }
+
     .bgimg0 {
         background-image: linear-gradient(to left, rgba(0,0,0,0), rgba(0,0,0,1)), url('../images/cloud-managed-device-bg.png');
         background-position: center;
@@ -89,6 +94,8 @@ permalink: solutions-overview.html
         </div>
     </div>
 </div>
+
+< div class="jumbotron jumbotron-height-20"></div>
 
 <!-- Managed Office 365  -->
 
