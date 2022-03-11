@@ -6,8 +6,10 @@ permalink: solutions-overview.html
 
 <style type="text/css">
     
-.jumbotron-height {
+    .jumbotron-height {
         height: 200px;
+        margin-bottom: 20px;
+
     }
 
     .bgimg0 {
@@ -16,7 +18,6 @@ permalink: solutions-overview.html
         background-size: cover;
         background-repeat: no-repeat;
         height: 500px;
-        margin-bottom: 20px;
 
     }
 
@@ -26,16 +27,15 @@ permalink: solutions-overview.html
         background-size: cover;
         background-repeat: no-repeat;
         height: 500px;
-        margin-bottom: 20px;
 
     }
+
     .bgimg2 {
         background-image: linear-gradient(to left, rgba(0,0,0,0), rgba(0,0,0,1)), url('../images/managed-office-365-bg.png');
         background-position: center;
         background-size: cover;
         background-repeat: no-repeat;
         height: 500px;
-        margin-bottom: 20px;
 
     }
 
@@ -45,16 +45,15 @@ permalink: solutions-overview.html
         background-size: cover;
         background-repeat: no-repeat;
         height: 500px;
-        margin-bottom: 20px;
 
     }
+
     .bgimg4 {
         background-image: linear-gradient(to left, rgba(0,0,0,0), rgba(0,0,0,1)), url('../images/managed-application-delivery-service-bg.png');
         background-position: center;
         background-size: cover;
         background-repeat: no-repeat;
         height: 500px;
-        margin-bottom: 20px;
 
     }
 
