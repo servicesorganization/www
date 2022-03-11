@@ -11,16 +11,12 @@ permalink: solutions-overview.html
     }
 
     .bgimg1 {
-        background-image: url('../images/managed-cloud-hosted-desktops-and-apps-bg.png'), linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));
+        background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(0,0,0,1)), url('../images/managed-cloud-hosted-desktops-and-apps-bg.png'), linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));
         background-position: center;
         background-size: cover;
         background-repeat: no-repeat;
         height: 500px;
 
-    }
-
-    .linear-gradient {
-        background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(0,0,0,1));
     }
 
 </style>
@@ -51,7 +47,7 @@ permalink: solutions-overview.html
     <div class="container">
         <div class="col-md-6">
         </div>
-        <div class="col-md-6 text-right linear-gradient">
+        <div class="col-md-6 text-right">
             <h7 class="header-light regular-pad">Managed Cloud Hosted Desktops and Apps</h7>
         </div>
     </div>
