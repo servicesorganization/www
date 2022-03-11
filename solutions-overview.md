@@ -7,11 +7,11 @@ permalink: solutions-overview.html
 <style type="text/css">
     
 .jumbotron-height {
-        height: 500px;
+        height: 200px;
     }
 
     .bgimg0 {
-        background-image: linear-gradient(to left, rgba(0,0,0,0), rgba(0,0,0,1)), url('../images/cloud-managed-device-bg.png'), linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));
+        background-image: linear-gradient(to left, rgba(0,0,0,0), rgba(0,0,0,1)), url('../images/cloud-managed-device-bg.png');
         background-position: center;
         background-size: cover;
         background-repeat: no-repeat;
@@ -20,7 +20,7 @@ permalink: solutions-overview.html
     }
 
     .bgimg1 {
-        background-image: linear-gradient(to right, rgba(0,0,0,0), rgba(0,0,0,1)), url('../images/managed-cloud-hosted-desktops-and-apps-bg.png'), linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));
+        background-image: linear-gradient(to right, rgba(0,0,0,0), rgba(0,0,0,1)), url('../images/managed-cloud-hosted-desktops-and-apps-bg.png');
         background-position: center;
         background-size: cover;
         background-repeat: no-repeat;
@@ -28,7 +28,7 @@ permalink: solutions-overview.html
 
     }
     .bgimg2 {
-        background-image: linear-gradient(to left, rgba(0,0,0,0), rgba(0,0,0,1)), url('../images/cloud-managed-device-bg.png'), linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));
+        background-image: linear-gradient(to left, rgba(0,0,0,0), rgba(0,0,0,1)), url('../images/managed-office-365-bg.png');
         background-position: center;
         background-size: cover;
         background-repeat: no-repeat;
@@ -37,7 +37,7 @@ permalink: solutions-overview.html
     }
 
     .bgimg3 {
-        background-image: linear-gradient(to right, rgba(0,0,0,0), rgba(0,0,0,1)), url('../images/managed-cloud-hosted-desktops-and-apps-bg.png'), linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));
+        background-image: linear-gradient(to right, rgba(0,0,0,0), rgba(0,0,0,1)), url('../images/managed-workspace-portal.png');
         background-position: center;
         background-size: cover;
         background-repeat: no-repeat;
@@ -45,7 +45,7 @@ permalink: solutions-overview.html
 
     }
     .bgimg4 {
-        background-image: linear-gradient(to left, rgba(0,0,0,0), rgba(0,0,0,1)), url('../images/cloud-managed-device-bg.png'), linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));
+        background-image: linear-gradient(to left, rgba(0,0,0,0), rgba(0,0,0,1)), url('../images/managed-application-delivery-service-bg.png');
         background-position: center;
         background-size: cover;
         background-repeat: no-repeat;
