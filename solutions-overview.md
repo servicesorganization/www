@@ -13,7 +13,7 @@ permalink: solutions-overview.html
 
     .jumbotron-height-20 {
         height: 5px;
-        background-color: #000000;
+        background-color: #FFFFFF;
 
     }
 
