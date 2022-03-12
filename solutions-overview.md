@@ -92,6 +92,7 @@ permalink: solutions-overview.html
     <div class="container">
         <div class="col-md-6">
             <h7 class="header-light regular-pad">Cloud Managed Device</h7>
+            <p><a class="btn btn-jumbotron btn-lg" href="{{ "/solutions-overview.html" | relative_url }}" role="button">Learn more</a></p>
         </div>
         <div class="col-md-6">
         </div>
@@ -110,6 +111,7 @@ permalink: solutions-overview.html
         </div>
         <div class="col-md-6 text-right">
             <h7 class="header-light regular-pad">Managed Cloud Hosted Desktops and Apps</h7>
+            <p><a class="btn btn-jumbotron btn-lg" href="{{ "/solutions-overview.html" | relative_url }}" role="button">Learn more</a></p>
         </div>
     </div>
 </div>
@@ -124,6 +126,7 @@ permalink: solutions-overview.html
     <div class="container">
         <div class="col-md-6">
             <h7 class="header-light regular-pad">Managed Office 365</h7>
+            <p><a class="btn btn-jumbotron btn-lg" href="{{ "/solutions-overview.html" | relative_url }}" role="button">Learn more</a></p>
         </div>
         <div class="col-md-6">
         </div>
@@ -142,6 +145,7 @@ permalink: solutions-overview.html
         </div>
         <div class="col-md-6 text-right">
             <h7 class="header-light regular-pad">Managed Workspace Portal</h7>
+            <p><a class="btn btn-jumbotron btn-lg" href="{{ "/solutions-overview.html" | relative_url }}" role="button">Learn more</a></p>
         </div>
     </div>
 </div>
@@ -156,6 +160,7 @@ permalink: solutions-overview.html
     <div class="container">
         <div class="col-md-6">
             <h7 class="header-light regular-pad">Managed Application Delivery Service</h7>
+            <p><a class="btn btn-jumbotron btn-lg" href="{{ "/solutions-overview.html" | relative_url }}" role="button">Learn more</a></p>
         </div>
         <div class="col-md-6">
         </div>
