@@ -96,6 +96,7 @@ permalink: solutions-overview.html
 <div class="jumbotron jumbotron-black"></div>
 
 <!-- Managed Cloud Hosted Desktops and Apps -->
+
 <div class="jumbotron jumbotron-white"></div>
 
 <div class="jumbotron jumbotron-height bgimg1">
@@ -108,11 +109,11 @@ permalink: solutions-overview.html
     </div>
 </div>
 
-<div class="jumbotron jumbotron-grey"></div>
+<div class="jumbotron jumbotron-white"></div>
 
 <!-- Managed Office 365  -->
 
-<div class="jumbotron jumbotron-white"></div>
+<div class="jumbotron jumbotron-grey"></div>
 
 <div class="jumbotron jumbotron-height bgimg2">
     <div class="container">
@@ -128,6 +129,8 @@ permalink: solutions-overview.html
 
 <!-- Managed Workspace Portal -->
 
+<div class="jumbotron jumbotron-black"></div>
+
 <div class="jumbotron jumbotron-height bgimg3">
     <div class="container">
         <div class="col-md-6">
@@ -138,9 +141,11 @@ permalink: solutions-overview.html
     </div>
 </div>
 
-<div class="jumbotron jumbotron-white"></div>
+<div class="jumbotron jumbotron-black"></div>
 
 <!-- Managed Application Delivery Service  -->
+
+<div class="jumbotron jumbotron-white"></div>
 
 <div class="jumbotron jumbotron-height bgimg4">
     <div class="container">
