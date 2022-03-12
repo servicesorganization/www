@@ -12,7 +12,8 @@ permalink: solutions-overview.html
     }
 
     .jumbotron-height-20 {
-        height: 10px;
+        height: 5px;
+        background-color: #000000;
 
     }
 
