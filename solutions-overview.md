@@ -50,7 +50,7 @@ permalink: solutions-overview.html
     }
 
     .bgimg2 {
-        background-image: linear-gradient(to left, rgba(0,0,0,0), rgba(221,221,221,1)), url('../images/managed-office-365-bg.png');
+        background-image: linear-gradient(to left, rgba(0,0,0,0), rgba(221,221,221,1)), url('../images/cloud-managed-device-bg.png');
         background-position: center;
         background-size: cover;
         background-repeat: no-repeat;
