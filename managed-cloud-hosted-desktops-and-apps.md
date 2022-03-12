@@ -69,7 +69,7 @@ permalink: managed-cloud-hosted-desktops-and-apps.html
 
 </style>
 
-<!-- Title -->
+<!-- Title row -->
 
 <div class="jumbotron bgimg0">
     <div class="container">
@@ -79,9 +79,9 @@ permalink: managed-cloud-hosted-desktops-and-apps.html
     </div>
 </div>
 
-<!-- Cloud Managed Device -->
+<!-- Row 2 -->
 
-<div class="jumbotron bgimg0">
+<div class="jumbotron">
     <div class="container">
         <div class="col-md-8">
             <h2 class="header-light regular-pad">Business enabled virtual apps and desktops, directly
@@ -96,14 +96,14 @@ device. For specific use cases, extra graphics capacity can be provided
 to complete the workspace.</p>
             <p><a class="btn btn-jumbotron btn-lg" href="{{ "/solutions-overview.html" | relative_url }}" role="button">Learn more</a></p>
         </div>
-        <div class="col-md-6">
+        <div class="col-md-4">
         </div>
     </div>
 </div>
 
 <div class="jumbotron jumbotron-black"></div>
 
-<!-- Managed Cloud Hosted Desktops and Apps -->
+<!-- Row 3 -->
 
 <div class="jumbotron jumbotron-white"></div>
 
