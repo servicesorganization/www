@@ -81,14 +81,14 @@ permalink: solutions-overview.html
 <div class="jumbotron jumbotron-height">
     <div class="container">
         <h1>Solution Overview</h1>
-        <p></p>        
+        <p></p>
         <p>Discover what our Orange Workspace Services solution stands for and what it can do for you.</p>
     </div>
 </div>
 
 <!-- Cloud Managed Device -->
 
-<div class="jumbotron jumbotron-height bgimg0">
+<div class="jumbotron bgimg0">
     <div class="container">
         <div class="col-md-6">
             <h7 class="header-light regular-pad">Cloud Managed Device</h7>
@@ -104,7 +104,7 @@ permalink: solutions-overview.html
 
 <div class="jumbotron jumbotron-white"></div>
 
-<div class="jumbotron jumbotron-height bgimg1">
+<div class="jumbotron bgimg1">
     <div class="container">
         <div class="col-md-6">
         </div>
@@ -120,7 +120,7 @@ permalink: solutions-overview.html
 
 <div class="jumbotron jumbotron-grey"></div>
 
-<div class="jumbotron jumbotron-height bgimg2">
+<div class="jumbotron bgimg2">
     <div class="container">
         <div class="col-md-6">
             <h7 class="header-light regular-pad">Managed Office 365</h7>
@@ -136,7 +136,7 @@ permalink: solutions-overview.html
 
 <div class="jumbotron jumbotron-black"></div>
 
-<div class="jumbotron jumbotron-height bgimg3">
+<div class="jumbotron bgimg3">
     <div class="container">
         <div class="col-md-6">
         </div>
@@ -152,7 +152,7 @@ permalink: solutions-overview.html
 
 <div class="jumbotron jumbotron-white"></div>
 
-<div class="jumbotron jumbotron-height bgimg4">
+<div class="jumbotron bgimg4">
     <div class="container">
         <div class="col-md-6">
             <h7 class="header-light regular-pad">Managed Application Delivery Service</h7>
