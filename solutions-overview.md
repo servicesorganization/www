@@ -110,7 +110,7 @@ permalink: solutions-overview.html
         <div class="col-md-6">
         </div>
         <div class="col-md-6 text-right">
-            <h7 class="header-light regular-pad">Managed Cloud Hosted Desktops and Apps</h7>
+            <h7 class="header-light regular-pad">Managed Cloud Hosted Desktops & Apps</h7>
             <p><a class="btn btn-jumbotron btn-lg" href="{{ "/managed-cloud-hosted-desktops-and-apps.html" | relative_url }}" role="button">Learn more</a></p>
         </div>
     </div>

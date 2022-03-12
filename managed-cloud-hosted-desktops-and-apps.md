@@ -78,8 +78,8 @@ permalink: managed-cloud-hosted-desktops-and-apps.html
 <div class="jumbotron jumbotron-height bgimg0">
     <div class="container">
         <h7 class="header-light regular-pad">Managed Cloud Hosted Desktops & Apps</h7>
-        <p></p>
-        <p class="lead p-black">Business enabled virtual desktops and applications running on Microsoft Azure Virtual Desktop.</p>
+        <p class="lead p-black">Business enabled virtual desktops and applications running on</p?>
+        <p class="lead p-black">Microsoft Azure Virtual Desktop.</p>
     </div>
 </div>
 
