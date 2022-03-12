@@ -50,7 +50,7 @@ permalink: solutions-overview.html
     }
 
     .bgimg2 {
-        background-image: linear-gradient(to left, rgba(0,0,0,0), rgba(221,221,221,1)), url('../images/cloud-managed-device-bg.png');
+        background-image: linear-gradient(to left, rgba(0,0,0,0), rgba(221,221,221,1)), url('../images/managed-office-365-bg.png');
         background-position: center;
         background-size: cover;
         background-repeat: no-repeat;
@@ -122,7 +122,7 @@ permalink: solutions-overview.html
 
 <div class="jumbotron jumbotron-grey"></div>
 
-<div class="jumbotron bgimg2">
+<div class="jumbotron bgimg1">
     <div class="container">
         <div class="col-md-6">
             <h7 class="header-light regular-pad">Managed Office 365</h7>
