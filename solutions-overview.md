@@ -7,7 +7,7 @@ permalink: solutions-overview.html
 <style type="text/css">
     
     .jumbotron-height {
-        height: 200px;
+        height: 300px;
 
     }
 
@@ -21,6 +21,11 @@ permalink: solutions-overview.html
 
     }
 
+    .jumbotron-grey {
+        background-color: #DDDDDD;
+
+    }
+
     .bgimg0 {
         background-image: linear-gradient(to left, rgba(0,0,0,0), rgba(0,0,0,1)), url('../images/cloud-managed-device-bg.png');
         background-position: center;
@@ -31,7 +36,7 @@ permalink: solutions-overview.html
     }
 
     .bgimg1 {
-        background-image: linear-gradient(to right, rgba(0,0,0,0), rgba(0,0,0,1)), url('../images/managed-cloud-hosted-desktops-and-apps-bg.png');
+        background-image: linear-gradient(to right, rgba(0,0,0,0), rgba(255,255,255,1)), url('../images/managed-cloud-hosted-desktops-and-apps-bg.png');
         background-position: center;
         background-size: cover;
         background-repeat: no-repeat;
@@ -40,7 +45,7 @@ permalink: solutions-overview.html
     }
 
     .bgimg2 {
-        background-image: linear-gradient(to left, rgba(0,0,0,0), rgba(0,0,0,1)), url('../images/managed-office-365-bg.png');
+        background-image: linear-gradient(to left, rgba(0,0,0,0), rgba(221,221,221,1)), url('../images/managed-office-365-bg.png');
         background-position: center;
         background-size: cover;
         background-repeat: no-repeat;
@@ -91,6 +96,7 @@ permalink: solutions-overview.html
 <div class="jumbotron jumbotron-black"></div>
 
 <!-- Managed Cloud Hosted Desktops and Apps -->
+<div class="jumbotron jumbotron-white"></div>
 
 <div class="jumbotron jumbotron-height bgimg1">
     <div class="container">
@@ -102,9 +108,11 @@ permalink: solutions-overview.html
     </div>
 </div>
 
-<div class="jumbotron jumbotron-height-20"></div>
+<div class="jumbotron jumbotron-grey"></div>
 
 <!-- Managed Office 365  -->
+
+<div class="jumbotron jumbotron-white"></div>
 
 <div class="jumbotron jumbotron-height bgimg2">
     <div class="container">
@@ -116,7 +124,7 @@ permalink: solutions-overview.html
     </div>
 </div>
 
-<div class="jumbotron jumbotron-height-20"></div>
+<div class="jumbotron jumbotron-grey"></div>
 
 <!-- Managed Workspace Portal -->
 
@@ -130,7 +138,7 @@ permalink: solutions-overview.html
     </div>
 </div>
 
-<div class="jumbotron jumbotron-white></div>
+<div class="jumbotron jumbotron-white"></div>
 
 <!-- Managed Application Delivery Service  -->
 
