@@ -130,7 +130,7 @@ permalink: solutions-overview.html
     </div>
 </div>
 
-<div class="jumbotron jumbotron-orange"></div>
+<div class="jumbotron jumbotron-grey"></div>
 
 <!-- Managed Workspace Portal -->
 
