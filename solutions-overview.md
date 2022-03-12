@@ -122,7 +122,7 @@ permalink: solutions-overview.html
 
 <div class="jumbotron jumbotron-grey"></div>
 
-<div class="jumbotron bgimg1">
+<div class="jumbotron bgimg2">
     <div class="container">
         <div class="col-md-6">
             <h7 class="header-light regular-pad">Managed Office 365</h7>
