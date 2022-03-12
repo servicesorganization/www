@@ -12,7 +12,7 @@ permalink: solutions-overview.html
     }
 
     .jumbotron-height-20 {
-        height: 20px;
+        height: 10px;
 
     }
 
