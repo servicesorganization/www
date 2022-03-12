@@ -11,9 +11,13 @@ permalink: solutions-overview.html
 
     }
 
-    .jumbotron-height-20 {
-        height: 5px;
+    .jumbotron-white {
         background-color: #FFFFFF;
+
+    }
+
+    .jumbotron-black {
+        background-color: #000000;
 
     }
 
@@ -54,7 +58,7 @@ permalink: solutions-overview.html
     }
 
     .bgimg4 {
-        background-image: linear-gradient(to left, rgba(0,0,0,0), rgba(0,0,0,1)), url('../images/managed-application-delivery-service-bg.png');
+        background-image: linear-gradient(to left, rgba(0,0,0,0), rgba(255,255,255,1)), url('../images/managed-application-delivery-service-bg.png');
         background-position: center;
         background-size: cover;
         background-repeat: no-repeat;
@@ -68,7 +72,7 @@ permalink: solutions-overview.html
     <div class="container">
         <h1>Solution Overview</h1>
         <p></p>        
-        <p>Discover what our Orange Workspace Services solution can do for you.</p>
+        <p>Discover what our Orange Workspace Services solution stands for and what it can do for you.</p>
     </div>
 </div>
 
@@ -84,7 +88,7 @@ permalink: solutions-overview.html
     </div>
 </div>
 
-<div class="jumbotron jumbotron-height-20"></div>
+<div class="jumbotron jumbotron-black"></div>
 
 <!-- Managed Cloud Hosted Desktops and Apps -->
 
@@ -126,7 +130,7 @@ permalink: solutions-overview.html
     </div>
 </div>
 
-<div class="jumbotron jumbotron-height-20"></div>
+<div class="jumbotron jumbotron-white></div>
 
 <!-- Managed Application Delivery Service  -->
 
