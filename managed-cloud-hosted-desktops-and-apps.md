@@ -1,7 +1,7 @@
 ---
 layout: firstpage
-title: Solutions Overview
-permalink: solutions-overview.html
+title: Managed Cloud Hosted Desktops and Apps
+permalink: managed-cloud-hosted-desktops-and-apps.html
 ---
 
 <style type="text/css">
@@ -32,16 +32,7 @@ permalink: solutions-overview.html
     }
 
     .bgimg0 {
-        background-image: linear-gradient(to left, rgba(0,0,0,0), rgba(0,0,0,1)), url('../images/cloud-managed-device-bg.png');
-        background-position: center;
-        background-size: cover;
-        background-repeat: no-repeat;
-        height: 500px;
-
-    }
-
-    .bgimg1 {
-        background-image: linear-gradient(to right, rgba(0,0,0,0), rgba(255,255,255,1)), url('../images/managed-cloud-hosted-desktops-and-apps-bg.png');
+        background-image: linear-gradient(to left, rgba(0,0,0,0), rgba(255,255,255,1)), url('../images/managed-cloud-hosted-desktops-and-apps-right-bg.png');
         background-position: center;
         background-size: cover;
         background-repeat: no-repeat;
@@ -78,11 +69,11 @@ permalink: solutions-overview.html
 
 </style>
 
-<div class="jumbotron jumbotron-height">
+<div class="jumbotron bgimg0">
     <div class="container">
-        <h1>Solution Overview</h1>
+        <h7 class="header-light regular-pad">Managed Cloud Hosted Desktops & Apps</h7>
         <p></p>
-        <p>Discover what our Orange Workspace Services solution stands for and what it can do for you.</p>
+        <p>Business enabled virtual desktops and applications running on Microsoft Azure Virtual Desktop.</p>
     </div>
 </div>
 
@@ -111,7 +102,7 @@ permalink: solutions-overview.html
         </div>
         <div class="col-md-6 text-right">
             <h7 class="header-light regular-pad">Managed Cloud Hosted Desktops and Apps</h7>
-            <p><a class="btn btn-jumbotron btn-lg" href="{{ "/managed-cloud-hosted-desktops-and-apps.html" | relative_url }}" role="button">Learn more</a></p>
+            <p><a class="btn btn-jumbotron btn-lg" href="{{ "/solutions-overview.html" | relative_url }}" role="button">Learn more</a></p>
         </div>
     </div>
 </div>
