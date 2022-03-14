@@ -99,6 +99,15 @@ design, pay per use and available worldwide).</p>
             device. For specific use cases, extra graphics capacity can be provided to complete the workspace.</p>
         </div>
         <div class="col-md-4">
+        <p>Why customers use Managed Cloud Hosted Desktop & Apps</p>
+        <p>At-a-glance</p>
+        <p>
+            <ul>
+                <li>Business enabled managed workspace for apps and desktops running in Azure</li>
+                <li>Remote application launcher for Win32 business applications, to complete the Modern Workplace</li>
+                <li>When needed AVD can be enriched with Citrix or VMware features running on Azure</li>
+            </ul>
+        </p> 
         </div>
     </div>
 </div>
