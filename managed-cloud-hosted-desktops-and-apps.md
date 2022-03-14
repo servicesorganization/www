@@ -79,8 +79,8 @@ permalink: managed-cloud-hosted-desktops-and-apps.html
     <div class="container">
         <h7 class="header-light regular-pad">Managed Cloud Hosted Desktops & Apps</h7>
         <p></p>
-        <p class="lead p-black">Business enabled virtual desktops and applications running on</p>
-        <p class="lead p-black">Microsoft Azure Virtual Desktop.</p>
+        <p class="lead p-black">Business enabled virtual desktops and applications running on<br>
+        Microsoft Azure Virtual Desktop.</p>
     </div>
 </div>
 
@@ -89,19 +89,19 @@ permalink: managed-cloud-hosted-desktops-and-apps.html
 <div class="jumbotron">
     <div class="container">
         <div class="col-md-8">
-            <p class="header-light regular-pad">Business enabled virtual apps and desktops, directly
+            <p class="lead"><b>Business enabled virtual apps and desktops, directly
 consumable within your organization by using the
 benefits of the cloud (scalable and flexible, secure by
-design, pay per use and available worldwide).</p>
+design, pay per use and available worldwide).</b></p>
             <p class="lead"></p>
             <p class="lead">Managed Cloud Hosted Desktop & Apps is a fully-fledged virtual Windows workspace running on Microsoft Azure
             Virtual Desktop (AVD), that delivers virtual apps and desktops in Azure accessible from any location and any
             device. For specific use cases, extra graphics capacity can be provided to complete the workspace.</p>
         </div>
         <div class="col-md-4">
-        <p>Why customers use Managed Cloud Hosted Desktop & Apps</p>
-        <p>At-a-glance</p>
-        <p>
+        <h3>Why customers use Managed Cloud Hosted Desktop & Apps</h3>
+        <p class="lead">At-a-glance</p>
+        <p class="lead">
             <ul>
                 <li>Business enabled managed workspace for apps and desktops running in Azure</li>
                 <li>Remote application launcher for Win32 business applications, to complete the Modern Workplace</li>
