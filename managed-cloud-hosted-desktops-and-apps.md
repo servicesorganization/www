@@ -100,7 +100,7 @@ design, pay per use and available worldwide).</b></p>
             <p class="text-center"><img src="../images/managed-cloud-hosted-desktops-and-apps-01.png"></P>
         </div>
         <div class="col-md-4">
-        <h1>Why customers use Managed Cloud Hosted Desktop & Apps</h1>
+        <p class="lead"><b>Why customers use Managed Cloud Hosted Desktop & Apps</b></p>
         <p class="lead">At-a-glance</p>
         <p class="lead">
             <ul>
