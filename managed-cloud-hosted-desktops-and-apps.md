@@ -97,15 +97,16 @@ design, pay per use and available worldwide).</b></p>
             <p class="lead">Managed Cloud Hosted Desktop & Apps is a fully-fledged virtual Windows workspace running on Microsoft Azure
             Virtual Desktop (AVD), that delivers virtual apps and desktops in Azure accessible from any location and any
             device. For specific use cases, extra graphics capacity can be provided to complete the workspace.</p>
+            <p class="text-center"><img src="../images/managed-cloud-hosted-desktops-and-apps-01.png"></P>
         </div>
         <div class="col-md-4">
-        <h3>Why customers use Managed Cloud Hosted Desktop & Apps</h3>
+        <h1>Why customers use Managed Cloud Hosted Desktop & Apps</h1>
         <p class="lead">At-a-glance</p>
         <p class="lead">
             <ul>
-                <li>Business enabled managed workspace for apps and desktops running in Azure</li>
-                <li>Remote application launcher for Win32 business applications, to complete the Modern Workplace</li>
-                <li>When needed AVD can be enriched with Citrix or VMware features running on Azure</li>
+                <li class="lead">Business enabled managed workspace for apps and desktops running in Azure</li>
+                <li class="lead">Remote application launcher for Win32 business applications, to complete the Modern Workplace</li>
+                <li class="lead">When needed AVD can be enriched with Citrix or VMware features running on Azure</li>
             </ul>
         </p> 
         </div>
