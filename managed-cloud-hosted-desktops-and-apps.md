@@ -39,8 +39,8 @@ permalink: managed-cloud-hosted-desktops-and-apps.html
     .col-md-4-grey {
         background-color: #DDDDDD;
         color: #000000;
-        padding-top: 25px;
-        padding-bottom: 25px;
+        padding-top: 10px;
+        padding-bottom: 45px;
 
     }
 
