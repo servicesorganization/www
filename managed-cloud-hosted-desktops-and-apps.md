@@ -126,21 +126,23 @@ design, pay per use and available worldwide).</b></p>
                 <li class="lead">When needed AVD can be enriched with Citrix or VMware features running on Azure</li>
             </ul>
         </p>
-        <P></p>
         </div>
     </div>
 </div>
 
-<div class="jumbotron jumbotron-black"></div>
-
 <!-- Row 3 -->
-
-<div class="jumbotron jumbotron-white"></div>
 
 <div class="jumbotron bgimg1">
     <div class="container">
         <div class="col-md-4">
             <h3>Business Enabled virtual apps & desktops</h3>
+            <p class="lead">
+            <ul>
+                <li class="lead">Cloud based desktops and applications</li>
+                <li class="lead">Directly consumable within your organization</li>
+                <li class="lead">Deploy desktops and applications first time right</li>
+            </ul>
+        </p>
         </div>
         <div class="col-md-4">
             <h3>Secure access to data and applications</h3>
