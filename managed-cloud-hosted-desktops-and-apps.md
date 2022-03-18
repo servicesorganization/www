@@ -195,7 +195,7 @@ design, pay per use and available worldwide).</b></p>
     <div class="container">
         <div class="col-md-8">
             <h3>Proof & Statistics</h3>
-            <p class="lead">
+            <p class="lead p-black">
                 <ul>
                     <li class="lead">Future proof workspace</li>
                     <li class="lead">Cost efficient</li>
@@ -203,7 +203,7 @@ design, pay per use and available worldwide).</b></p>
                 </ul>
             </p>
             <h3>Proof & Statistics of Joint Solution</h3>
-            <p class="lead">
+            <p class="lead p-black">
                 <ul>
                     <li class="lead">Deploy virtual desktops and applications first time right</li>
                     <li class="lead">We eat, breath and sleep End User Computing</li>
@@ -212,7 +212,7 @@ design, pay per use and available worldwide).</b></p>
                 </ul>
             </p>
             <h3>Proof & Statistics of Managed solution</h3>
-            <p class="lead">
+            <p class="lead p-black">
                 <ul>
                     <li class="lead">FBusiness enabled managed workspace</li>
                     <li class="lead">Over 15 years experience in managing virtual apps & desktop environments</li>
