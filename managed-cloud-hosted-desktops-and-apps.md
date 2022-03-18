@@ -39,6 +39,8 @@ permalink: managed-cloud-hosted-desktops-and-apps.html
     .col-md-4-grey {
         background-color: #DDDDDD;
         color: #000000;
+        margin-top: 25px;
+        margin-bottom: 25px;
 
     }
 
@@ -82,7 +84,6 @@ permalink: managed-cloud-hosted-desktops-and-apps.html
         background-position: center;
         background-size: contain;
         background-repeat: no-repeat;
-        height: 200px;
 
     }
 
