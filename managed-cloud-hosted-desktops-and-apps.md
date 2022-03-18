@@ -36,6 +36,11 @@ permalink: managed-cloud-hosted-desktops-and-apps.html
 
     }
 
+    .col-md-4-grey {
+        color: #DDDDDD;
+
+    }
+
     .bgimg0 {
         background-image: linear-gradient(to left, rgba(0,0,0,0), rgba(255,255,255,1)), url('../images/managed-cloud-hosted-desktops-and-apps-right-bg.png');
         background-position: center;
@@ -108,7 +113,7 @@ design, pay per use and available worldwide).</b></p>
             device. For specific use cases, extra graphics capacity can be provided to complete the workspace.</p>
             <div class="img1"></div>
         </div>
-        <div class="col-md-4" style="background-color: #DDDDDDD;">
+        <div class="col-md-4 col-md-4-grey">
         <p class="lead"><b>Why customers use Managed Cloud Hosted Desktop & Apps</b></p>
         <p class="lead">At-a-glance</p>
         <p class="lead">
