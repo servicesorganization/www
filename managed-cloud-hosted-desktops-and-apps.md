@@ -135,13 +135,13 @@ design, pay per use and available worldwide).</b></p>
 <div class="jumbotron bgimg1">
     <div class="container">
         <div class="col-md-4">
-            <p class="lead text-center"><b>Empower your employees</b></p>
+            <p class="lead"><b>Empower your employees</b></p>
         </div>
         <div class="col-md-4">
-            <p class="lead text-center"><b>Secured company data</b></p>
+            <p class="lead"><b>Secured company data</b></p>
         </div>
         <div class="col-md-4">
-            <div class="lead text-center"><b>Desktop as a Service</b></div>
+            <div class="lead"><b>Desktop as a Service</b></div>
         </div>
     </div>
     <div class="container">
