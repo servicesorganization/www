@@ -135,6 +135,17 @@ design, pay per use and available worldwide).</b></p>
 <div class="jumbotron bgimg1">
     <div class="container">
         <div class="col-md-4">
+            <p class="lead text-center"><b>Empower your employees</b></p>
+        </div>
+        <div class="col-md-4">
+            <p class="lead text-center"><b>Secured company data</b></p>
+        </div>
+        <div class="col-md-4">
+            <div class="lead text-center"><b>Desktop as a Service</b></div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="col-md-4">
             <h3>Business Enabled virtual apps & desktops</h3>
             <p class="lead">
             <ul>
@@ -143,7 +154,6 @@ design, pay per use and available worldwide).</b></p>
                 <li class="lead">Deploy desktops and applications first time right</li>
             </ul>
             </p>
-            <p class="lead"><b>Empower your employees</b></p>
         </div>
         <div class="col-md-4">
             <h3>Secure access to data and applications</h3>
@@ -154,7 +164,6 @@ design, pay per use and available worldwide).</b></p>
                 <li class="lead">Protection against data leaks and malware infection since no local client data</li>
             </ul>
             </p>
-            <p class="lead"><b>Secured company data</b></p>
         </div>
         <div class="col-md-4">
             <h3>Scalability and flexibility</h3>
@@ -165,7 +174,6 @@ design, pay per use and available worldwide).</b></p>
                 <li class="lead">Pay per use</li>
             </ul>
             </p>
-            <span class="lead align-text-bottom">text-bottom<b>Desktop as a Service</b></span>
         </div>
     </div>
 </div>
@@ -176,10 +184,9 @@ design, pay per use and available worldwide).</b></p>
 
 <div class="jumbotron jumbotron-grey"></div>
 
-<div class="jumbotron jumbotron-height bgimg0">
+<div class="jumbotron jumbotron-height">
     <div class="container">
-        <h7 class="header-light regular-pad">Managed Cloud Hosted Desktop & Apps is a business
-enabled workspace service build on Microsoft AVD</h7>
+        <h7 class="header-light regular-pad">Managed Cloud Hosted Desktop & Apps is a business enabled workspace service build on Microsoft AVD</h7>
         <p></p>
     </div>
 </div>
@@ -189,46 +196,44 @@ enabled workspace service build on Microsoft AVD</h7>
 <div class="jumbotron jumbotron-grey">
     <div class="container">
         <div class="col-md-8">
-            <p class="lead">
             <h3>Proof & Statistics</h3>
             <p class="lead">
-            <ul>
-                <li class="lead">Future proof workspace</li>
-                <li class="lead">Cost efficient</li>
-                <li class="lead">Available 24/7</li>
-            </ul>
-        </p>
-        <h3>Proof & Statistics of Joint Solution</h3>
+                <ul>
+                    <li class="lead">Future proof workspace</li>
+                    <li class="lead">Cost efficient</li>
+                    <li class="lead">Available 24/7</li>
+                </ul>
+            </p>
+            <h3>Proof & Statistics of Joint Solution</h3>
             <p class="lead">
-            <ul>
-                <li class="lead">Deploy virtual desktops and applications first time right</li>
-                <li class="lead">We eat, breath and sleep End User Computing</li>
-                <li class="lead">Orange earned the Advanced Specialization for (Azure) Windows Virtual Desktop</li>
-                <li class="lead">By using our service, you ensure that employees have a great experience the first time they use their new Azure Virtual Desktop.</li>
-            </ul>
-        </p>
-        <h3>Proof & Statistics of Managed solution</h3>
+                <ul>
+                    <li class="lead">Deploy virtual desktops and applications first time right</li>
+                    <li class="lead">We eat, breath and sleep End User Computing</li>
+                    <li class="lead">Orange earned the Advanced Specialization for (Azure) Windows Virtual Desktop</li>
+                    <li class="lead">By using our service, you ensure that employees have a great experience the first time they use their new Azure Virtual Desktop.</li>
+                </ul>
+            </p>
+            <h3>Proof & Statistics of Managed solution</h3>
             <p class="lead">
-            <ul>
-                <li class="lead">FBusiness enabled managed workspace</li>
-                <li class="lead">Over 15 years experience in managing virtual apps & desktop environments</li>
-            </ul>
-        </p>
+                <ul>
+                    <li class="lead">FBusiness enabled managed workspace</li>
+                    <li class="lead">Over 15 years experience in managing virtual apps & desktop environments</li>
+                </ul>
+            </p>
         </div>
         <div class="col-md-4 col-md-4-grey">
-        <p class="lead"><b>Our promise to you</b></p>
-        <p class="lead">A business enabled managed workspace service focused on flexibility, security and end user experience.</p>
-        <p class="lead"><b>An offer to get you started</b></p>
-        <p class="lead">
-            <ul>
-                <li class="lead">Managed workspace build on Microsoft AVD as part of Microsoft 365</li>
-                <li class="lead">Managed Cloud Hosted Desktop & Apps is a fully-fledged virtual Windows workspace running in Azure, that delivers virtual apps and desktops which are accessible from any location and any device.</li>
-                <li class="lead">Managed workspace for a price per user per month</li>
-            </ul>
-        </p>
+            <p class="lead"><b>Our promise to you</b></p>
+            <p class="lead">A business enabled managed workspace service focused on flexibility, security and end user experience.</p>
+            <p class="lead"><b>An offer to get you started</b></p>
+            <p class="lead">
+                <ul>
+                    <li class="lead">Managed workspace build on Microsoft AVD as part of Microsoft 365</li>
+                    <li class="lead">Managed Cloud Hosted Desktop & Apps is a fully-fledged virtual Windows workspace running in Azure, that delivers virtual apps and desktops which are accessible from any location and any device.</li>
+                    <li class="lead">Managed workspace for a price per user per month</li>
+                </ul>
+            </p>
         </div>
     </div>
 </div>
-
 
 <div class="jumbotron jumbotron-grey"></div>
