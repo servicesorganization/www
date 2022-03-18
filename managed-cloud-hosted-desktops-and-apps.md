@@ -38,6 +38,7 @@ permalink: managed-cloud-hosted-desktops-and-apps.html
 
     .col-md-4-grey {
         background-color: #DDDDDD;
+        color: #000000;
 
     }
 
@@ -122,7 +123,8 @@ design, pay per use and available worldwide).</b></p>
                 <li class="lead">Remote application launcher for Win32 business applications, to complete the Modern Workplace</li>
                 <li class="lead">When needed AVD can be enriched with Citrix or VMware features running on Azure</li>
             </ul>
-        </p> 
+        </p>
+        <P></p>
         </div>
     </div>
 </div>
