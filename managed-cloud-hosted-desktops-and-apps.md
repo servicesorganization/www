@@ -102,7 +102,7 @@ permalink: managed-cloud-hosted-desktops-and-apps.html
 consumable within your organization by using the
 benefits of the cloud (scalable and flexible, secure by
 design, pay per use and available worldwide).</b></p>
-            <p class="lead"></p>
+            <h3>What is Managed Cloud Hosted Desktop & Apps</h3>
             <p class="lead">Managed Cloud Hosted Desktop & Apps is a fully-fledged virtual Windows workspace running on Microsoft Azure
             Virtual Desktop (AVD), that delivers virtual apps and desktops in Azure accessible from any location and any
             device. For specific use cases, extra graphics capacity can be provided to complete the workspace.</p>
