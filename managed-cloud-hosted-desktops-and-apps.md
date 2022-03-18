@@ -74,8 +74,9 @@ permalink: managed-cloud-hosted-desktops-and-apps.html
     .img1 {
         background-image: url('../images/managed-cloud-hosted-desktops-and-apps-01.png');
         background-position: center;
-        background-size: cover;
+        background-size: contain;
         background-repeat: no-repeat;
+        height: 200px;
 
     }
 
