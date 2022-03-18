@@ -143,16 +143,18 @@ design, pay per use and available worldwide).</b></p>
                 <li class="lead">Deploy desktops and applications first time right</li>
             </ul>
             </p>
+            <p class="lead"><b>Empower your employees</b></p>
         </div>
         <div class="col-md-4">
             <h3>Secure access to data and applications</h3>
             <p class="lead">
             <ul>
-                <li>Accessible from anywhere on any device</li>
+                <li class="lead">Accessible from anywhere on any device</li>
                 <li class="lead">Secure by design</li>
                 <li class="lead">Protection against data leaks and malware infection since no local client data</li>
             </ul>
             </p>
+            <p class="lead"><b>Secured company data</b></p>
         </div>
         <div class="col-md-4">
             <h3>Scalability and flexibility</h3>
@@ -163,16 +165,6 @@ design, pay per use and available worldwide).</b></p>
                 <li class="lead">Pay per use</li>
             </ul>
             </p>
-        </div>
-    </div>
-    <div class="container">
-        <div class="col-md-4">
-            <p class="lead"><b>Empower your employees</b></p>
-        </div>
-        <div class="col-md-4">
-            <p class="lead"><b>Secured company data</b></p>
-        </div>
-        <div class="col-md-4">
             <p class="lead"><b>Desktop as a Service</b></p>
         </div>
     </div>
