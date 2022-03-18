@@ -108,7 +108,7 @@ design, pay per use and available worldwide).</b></p>
             device. For specific use cases, extra graphics capacity can be provided to complete the workspace.</p>
             <div class="img1"></div>
         </div>
-        <div class="col-md-4">
+        <div class="col-md-4" style="background-color: #DDDDDDD;">
         <p class="lead"><b>Why customers use Managed Cloud Hosted Desktop & Apps</b></p>
         <p class="lead">At-a-glance</p>
         <p class="lead">
