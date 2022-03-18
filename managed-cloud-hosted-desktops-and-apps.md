@@ -142,14 +142,30 @@ design, pay per use and available worldwide).</b></p>
                 <li class="lead">Directly consumable within your organization</li>
                 <li class="lead">Deploy desktops and applications first time right</li>
             </ul>
-        </p>
+            </p>
+            <p class="lead"><b>Empower your employees</b></p>
         </div>
         <div class="col-md-4">
             <h3>Secure access to data and applications</h3>
-            <p><a class="btn btn-jumbotron btn-lg" href="{{ "/solutions-overview.html" | relative_url }}" role="button">Learn more</a></p>
+            <p class="lead">
+            <ul>
+                <li class="lead">Accessible from anywhere on any device</li>
+                <li class="lead">Secure by design</li>
+                <li class="lead">Protection against data leaks and malware infection since no local client data</li>
+            </ul>
+            </p>
+            <p class="lead"><b>Secured company data</b></p>
         </div>
         <div class="col-md-4">
             <h3>Scalability and flexibility</h3>
+            <p class="lead">
+            <ul>
+                <li class="lead">Easy scale AVD capacity up and down</li>
+                <li class="lead">No Capex but Opex</li>
+                <li class="lead">Pay per use</li>
+            </ul>
+            </p>
+            <p class="lead"><b>Desktop as a Service</b></p>
         </div>
     </div>
 </div>
