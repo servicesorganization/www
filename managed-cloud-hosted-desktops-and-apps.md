@@ -182,9 +182,7 @@ design, pay per use and available worldwide).</b></p>
 
 <!-- Title Row 2 -->
 
-<div class="jumbotron jumbotron-grey"></div>
-
-<div class="jumbotron jumbotron-height">
+<div class="jumbotron jumbotron-height jumbotron-white">
     <div class="container">
         <h7 class="header-light regular-pad">Managed Cloud Hosted Desktop & Apps is a business enabled workspace service build on Microsoft AVD</h7>
         <p></p>
