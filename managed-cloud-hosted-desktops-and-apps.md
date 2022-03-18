@@ -139,11 +139,15 @@ design, pay per use and available worldwide).</b></p>
 
 <div class="jumbotron bgimg1">
     <div class="container">
-        <div class="col-md-6">
+        <div class="col-md-4">
+            <h3>Business Enabled virtual apps & desktops</h3>
         </div>
-        <div class="col-md-6 text-right">
-            <h7 class="header-light regular-pad">Managed Cloud Hosted Desktops and Apps</h7>
+        <div class="col-md-4">
+            <h3>Secure access to data and applications</h3>
             <p><a class="btn btn-jumbotron btn-lg" href="{{ "/solutions-overview.html" | relative_url }}" role="button">Learn more</a></p>
+        </div>
+        <div class="col-md-4">
+            <h3>Scalability and flexibility</h3>
         </div>
     </div>
 </div>
