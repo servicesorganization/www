@@ -178,7 +178,6 @@ design, pay per use and available worldwide).</b></p>
     </div>
 </div>
 
-<div class="jumbotron jumbotron-white"></div>
 
 <!-- Title Row 2 -->
 
