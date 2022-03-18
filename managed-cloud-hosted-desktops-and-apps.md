@@ -90,7 +90,7 @@ permalink: managed-cloud-hosted-desktops-and-apps.html
 
 </style>
 
-<!-- Title row -->
+<!-- Title Row -->
 
 <div class="jumbotron jumbotron-height bgimg0">
     <div class="container">
@@ -172,51 +172,63 @@ design, pay per use and available worldwide).</b></p>
 
 <div class="jumbotron jumbotron-white"></div>
 
-<!-- Managed Office 365  -->
+<!-- Title Row 2 -->
 
 <div class="jumbotron jumbotron-grey"></div>
 
-<div class="jumbotron bgimg2">
+<div class="jumbotron jumbotron-height bgimg0">
     <div class="container">
-        <div class="col-md-6">
-            <h7 class="header-light regular-pad">Managed Office 365</h7>
-            <p><a class="btn btn-jumbotron btn-lg" href="{{ "/solutions-overview.html" | relative_url }}" role="button">Learn more</a></p>
+        <h7 class="header-light regular-pad">Managed Cloud Hosted Desktop & Apps is a business
+enabled workspace service build on Microsoft AVD</h7>
+        <p></p>
+    </div>
+</div>
+
+<!-- Row 4 -->
+
+<div class="jumbotron jumbotron-grey">
+    <div class="container">
+        <div class="col-md-8">
+            <p class="lead">
+            <h3>Proof & Statistics</h3>
+            <p class="lead">
+            <ul>
+                <li class="lead">Future proof workspace</li>
+                <li class="lead">Cost efficient</li>
+                <li class="lead">Available 24/7</li>
+            </ul>
+        </p>
+        <h3>Proof & Statistics of Joint Solution</h3>
+            <p class="lead">
+            <ul>
+                <li class="lead">Deploy virtual desktops and applications first time right</li>
+                <li class="lead">We eat, breath and sleep End User Computing</li>
+                <li class="lead">Orange earned the Advanced Specialization for (Azure) Windows Virtual Desktop</li>
+                <li class="lead">By using our service, you ensure that employees have a great experience the first time they use their new Azure Virtual Desktop.</li>
+            </ul>
+        </p>
+        <h3>Proof & Statistics of Managed solution</h3>
+            <p class="lead">
+            <ul>
+                <li class="lead">FBusiness enabled managed workspace</li>
+                <li class="lead">Over 15 years experience in managing virtual apps & desktop environments</li>
+            </ul>
+        </p>
         </div>
-        <div class="col-md-6">
+        <div class="col-md-4 col-md-4-grey">
+        <p class="lead"><b>Our promise to you</b></p>
+        <p class="lead">A business enabled managed workspace service focused on flexibility, security and end user experience.</p>
+        <p class="lead"><b>An offer to get you started</b></p>
+        <p class="lead">
+            <ul>
+                <li class="lead">Managed workspace build on Microsoft AVD as part of Microsoft 365</li>
+                <li class="lead">Managed Cloud Hosted Desktop & Apps is a fully-fledged virtual Windows workspace running in Azure, that delivers virtual apps and desktops which are accessible from any location and any device.</li>
+                <li class="lead">Managed workspace for a price per user per month</li>
+            </ul>
+        </p>
         </div>
     </div>
 </div>
+
 
 <div class="jumbotron jumbotron-grey"></div>
-
-<!-- Managed Workspace Portal -->
-
-<div class="jumbotron jumbotron-black"></div>
-
-<div class="jumbotron bgimg3">
-    <div class="container">
-        <div class="col-md-6">
-        </div>
-        <div class="col-md-6 text-right">
-            <h7 class="header-light regular-pad">Managed Workspace Portal</h7>
-            <p><a class="btn btn-jumbotron btn-lg" href="{{ "/solutions-overview.html" | relative_url }}" role="button">Learn more</a></p>
-        </div>
-    </div>
-</div>
-
-<div class="jumbotron jumbotron-black"></div>
-
-<!-- Managed Application Delivery Service  -->
-
-<div class="jumbotron jumbotron-white"></div>
-
-<div class="jumbotron bgimg4">
-    <div class="container">
-        <div class="col-md-6">
-            <h7 class="header-light regular-pad">Managed Application Delivery Service</h7>
-            <p><a class="btn btn-jumbotron btn-lg" href="{{ "/solutions-overview.html" | relative_url }}" role="button">Learn more</a></p>
-        </div>
-        <div class="col-md-6">
-        </div>
-    </div>
-</div>
