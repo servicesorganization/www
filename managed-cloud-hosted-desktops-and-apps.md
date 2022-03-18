@@ -84,7 +84,7 @@ permalink: managed-cloud-hosted-desktops-and-apps.html
         background-position: center;
         background-size: contain;
         background-repeat: no-repeat;
-        height: auto;
+        height: 200px;
 
     }
 
