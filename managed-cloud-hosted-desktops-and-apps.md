@@ -165,7 +165,7 @@ design, pay per use and available worldwide).</b></p>
                 <li class="lead">Pay per use</li>
             </ul>
             </p>
-            <p class="lead"><b>Desktop as a Service</b></p>
+            <span class="lead align-text-bottom">text-bottom<b>Desktop as a Service</b></span>
         </div>
     </div>
 </div>
