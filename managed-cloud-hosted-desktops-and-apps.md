@@ -218,7 +218,7 @@ design, pay per use and available worldwide).</b></p>
             <h7>Proof & Statistics of Managed solution</h7>
             <p class="lead">
                 <ul>
-                    <li class="lead">FBusiness enabled managed workspace</li>
+                    <li class="lead">Business enabled managed workspace</li>
                     <li class="lead">Over 15 years experience in managing virtual apps & desktop environments</li>
                 </ul>
             </p>
@@ -238,4 +238,23 @@ design, pay per use and available worldwide).</b></p>
     </div>
 </div>
 
-<div class="jumbotron jumbotron-grey"></div>
+<!-- Row 5 -->
+
+<div class="jumbotron">
+    <div class="container">
+        <div class="col-md-12">
+            <p class="lead"></p>
+        </div>
+    </div>
+</div>
+
+<!-- Row 6 -->
+
+<div class="jumbotron">
+    <div class="container">
+        <div class="col-md-12">
+            <h7>Why Orange</h7>
+            <p class="lead">We help our customers across the globe transform their industries, reimagine their services, create a positive impact and unleash the power of their data into an amazing and trusted resource that gives our customers positive business impact. The right technology deployed in the right way to support your workforce is vital to keep up with the pace. We empower your workforce to collaborate, communicate, connect and provide an excellent customer experience from anywhere, anytime, using any device in a secured environment.</p>
+        </div>
+    </div>
+</div>
