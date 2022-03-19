@@ -115,7 +115,7 @@ permalink: managed-cloud-hosted-desktops-and-apps.html
 consumable within your organization by using the
 benefits of the cloud (scalable and flexible, secure by
 design, pay per use and available worldwide).</b></p>
-            <h3>What is Managed Cloud Hosted Desktop & Apps</h3>
+            <h7>What is Managed Cloud Hosted Desktop & Apps</h7>
             <p class="lead">Managed Cloud Hosted Desktop & Apps is a fully-fledged virtual Windows workspace running on Microsoft Azure
             Virtual Desktop (AVD), that delivers virtual apps and desktops in Azure accessible from any location and any
             device. For specific use cases, extra graphics capacity can be provided to complete the workspace.</p>
@@ -151,7 +151,7 @@ design, pay per use and available worldwide).</b></p>
     </div>
     <div class="container">
         <div class="col-md-4">
-            <h3>Business Enabled virtual apps & desktops</h3>
+            <h7>Business Enabled virtual apps & desktops</h7>
             <p class="lead">
             <ul>
                 <li class="lead">Cloud based desktops and applications</li>
@@ -161,7 +161,7 @@ design, pay per use and available worldwide).</b></p>
             </p>
         </div>
         <div class="col-md-4">
-            <h3>Secure access to data and applications</h3>
+            <h7>Secure access to data and applications</h7>
             <p class="lead">
             <ul>
                 <li class="lead">Accessible from anywhere on any device</li>
@@ -171,7 +171,7 @@ design, pay per use and available worldwide).</b></p>
             </p>
         </div>
         <div class="col-md-4">
-            <h3>Scalability and flexibility</h3>
+            <h7>Scalability and flexibility</h7>
             <p class="lead">
             <ul>
                 <li class="lead">Easy scale AVD capacity up and down</li>
@@ -198,7 +198,7 @@ design, pay per use and available worldwide).</b></p>
 <div class="jumbotron jumbotron-white">
     <div class="container">
         <div class="col-md-8 div-black">
-            <h3>Proof & Statistics</h3>
+            <h7>Proof & Statistics</h7>
             <p class="lead">
                 <ul>
                     <li class="lead">Future proof workspace</li>
@@ -206,7 +206,7 @@ design, pay per use and available worldwide).</b></p>
                     <li class="lead">Available 24/7</li>
                 </ul>
             </p>
-            <h3>Proof & Statistics of Joint Solution</h3>
+            <h7>Proof & Statistics of Joint Solution</h7>
             <p class="lead">
                 <ul>
                     <li class="lead">Deploy virtual desktops and applications first time right</li>
@@ -215,7 +215,7 @@ design, pay per use and available worldwide).</b></p>
                     <li class="lead">By using our service, you ensure that employees have a great experience the first time they use their new Azure Virtual Desktop.</li>
                 </ul>
             </p>
-            <h3>Proof & Statistics of Managed solution</h3>
+            <h7>Proof & Statistics of Managed solution</h7>
             <p class="lead">
                 <ul>
                     <li class="lead">FBusiness enabled managed workspace</li>
