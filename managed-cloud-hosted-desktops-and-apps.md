@@ -57,7 +57,7 @@ permalink: managed-cloud-hosted-desktops-and-apps.html
 
     .bgimg0 {
         background-image: linear-gradient(to left, rgba(0,0,0,0), rgba(255,255,255,1)), url('../images/managed-cloud-hosted-desktops-and-apps-right-bg.png');
-        background-position: center;
+        background-position: center top 20%;
         background-size: cover;
         background-repeat: no-repeat;
 
@@ -249,7 +249,7 @@ design, pay per use and available worldwide).</b></p>
 <div class="jumbotron jumbotron-white">
     <div class="container div-black div-border">
         <div class="col-md-3 text-center">
-            <p class="lead"><br><img src="{{ "/images/azure-logo.png" | relative_url }}" height="100"><br><b>Azure Virtual Desktop</b></p>
+            <p class="lead"><br><img src="{{ "/images/azure-logo.png" | relative_url }}" height="100"><br><br><b>Azure Virtual Desktop</b></p>
         </div>
         <div class="col-md-1 text-center">
             <p class="lead" style="font-size: 40px;"><br><b>+</b></p>
