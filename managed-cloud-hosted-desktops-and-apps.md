@@ -89,7 +89,6 @@ permalink: managed-cloud-hosted-desktops-and-apps.html
         background-position: center;
         background-size: contain;
         background-repeat: no-repeat;
-        border: #000000;  
         height: 200px;
 
     }
@@ -199,7 +198,7 @@ design, pay per use and available worldwide).</b></p>
 <div class="jumbotron jumbotron-white">
     <div class="container">
         <div class="col-md-8 div-black">
-            <h7>Proof & Statistics</h7>
+            <i class="bi bi-list-check"></i><h7>Proof & Statistics</h7>
             <p class="lead">
                 <ul>
                     <li class="lead">Future proof workspace</li>
@@ -207,7 +206,7 @@ design, pay per use and available worldwide).</b></p>
                     <li class="lead">Available 24/7</li>
                 </ul>
             </p>
-            <h7>Proof & Statistics of Joint Solution</h7>
+            <i class="bi bi-wrench-adjustable-circle-fill"></i><h7>Proof & Statistics of Joint Solution</h7>
             <p class="lead">
                 <ul>
                     <li class="lead">Deploy virtual desktops and applications first time right</li>
@@ -216,7 +215,7 @@ design, pay per use and available worldwide).</b></p>
                     <li class="lead">By using our service, you ensure that employees have a great experience the first time they use their new Azure Virtual Desktop.</li>
                 </ul>
             </p>
-            <h7>Proof & Statistics of Managed solution</h7>
+            <i class="bi bi-grid-3x3-gap-fill"></i><h7>Proof & Statistics of Managed solution</h7>
             <p class="lead">
                 <ul>
                     <li class="lead">Business enabled managed workspace</li>
