@@ -42,7 +42,7 @@ permalink: solutions-overview.html
 
     .bgimg1 {
         background-image: linear-gradient(to right, rgba(0,0,0,0), rgba(255,255,255,1)), url('../images/managed-cloud-hosted-desktops-and-apps-bg.png');
-        background-position: center top 20%;
+        background-position: center top 30%;
         background-size: cover;
         background-repeat: no-repeat;
         height: 500px;
