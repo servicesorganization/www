@@ -249,19 +249,19 @@ design, pay per use and available worldwide).</b></p>
 <div class="jumbotron jumbotron-white">
     <div class="container div-black div-border">
         <div class="col-md-3 text-center">
-            <p class="lead"><img src="{{ "/images/azure-logo.png" | relative_url }}" height="100"><br><b>Azure Virtual Desktop</b></p>
+            <p class="lead"><br><img src="{{ "/images/azure-logo.png" | relative_url }}" height="100"><br><b>Azure Virtual Desktop</b></p>
         </div>
         <div class="col-md-1 text-center">
             <p class="lead" style="font-size: 40px;"><br><b>+</b></p>
         </div>
         <div class="col-md-3 text-center">
-            <p class="lead"><i class="bi bi-ui-checks" style="font-size: 8rem; color: #4472C4;"></i><br><b>Business Enablement</b></p>
+            <p class="lead"><br><i class="bi bi-ui-checks" style="font-size: 8rem; color: #4472C4;"></i><br><b>Business Enablement</b></p>
         </div>
         <div class="col-md-1 text-center">
             <p class="lead" style="font-size: 40px;"><br><b>=</b></p>
         </div>
         <div class="col-md-4 text-center">
-            <div class="lead"><img src="{{ "/images/company_logo.png" | relative_url }}"><br><b>Managed Cloud Hosted Desktop & Apps</b></div>
+            <div class="lead"><br><img src="{{ "/images/company_logo.png" | relative_url }}"><br><br><b>Managed Cloud Hosted Desktop & Apps</b></div>
         </div>
     </div>
 </div>
