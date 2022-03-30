@@ -252,13 +252,13 @@ design, pay per use and available worldwide).</b></p>
             <p class="lead"><b>Azure Virtual Desktop</b></p>
         </div>
         <div class="col-md-1">
-            <p class="lead" style="font-size: 30px;"><b>+</b></p>
+            <p class="lead" style="font-size: 40px;"><b>+</b></p>
         </div>
         <div class="col-md-3">
-            <p class="lead"><b>Business Enablement</b></p>
+            <p class="lead"><i class="bi bi-ui-checks" style="font-size: 8rem; color: #4472C4;"></i><b>Business Enablement</b></p>
         </div>
         <div class="col-md-1">
-            <p class="lead" style="font-size: 30px;"><b>=</b></p>
+            <p class="lead" style="font-size: 40px;"><b>=</b></p>
         </div>
         <div class="col-md-4">
             <div class="lead">&nbsp;<b>Managed Cloud Hosted Desktop & Apps</b></div>
