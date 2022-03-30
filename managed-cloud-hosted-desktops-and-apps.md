@@ -240,17 +240,17 @@ design, pay per use and available worldwide).</b></p>
 
 <!-- Row 5 -->
 
-<div class="jumbotron jumbotron-white">
+<div class="jumbotron">
     <div class="container">
         <div class="col-md-12">
-            <div class="col-md-3">
+            <div class="col-md-4">
                 <p class="lead"><b>Azure Virtual Desktop</b></p>
             </div>
             <div class="col-md-auto">
                 <p class="lead"><i class="fa fa-plus" aria-hidden="true"></i></p>
             </div>
-            <div class="col-md-3">
-                <p class="lead"><b>Business Enablement</b></p>
+            <div class="col-md-4">
+                <p class="lead"><i class="fa fa-plus fa-3x" aria-hidden="true">&nbsp;<b>Business Enablement</b></p>
             </div>
             <div class="col-md-4">
                 <div class="lead">&nbsp; <b>Managed Cloud Hosted Desktop & Apps</b></div>
