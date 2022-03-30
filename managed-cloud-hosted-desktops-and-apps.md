@@ -198,7 +198,7 @@ design, pay per use and available worldwide).</b></p>
 <div class="jumbotron jumbotron-white">
     <div class="container">
         <div class="col-md-8 div-black">
-            <i class="bi bi-list-check" style="font-size: 2rem; color: #4472C4;"></i>&nbsp;<h7>Proof & Statistics</h7>
+            <i class="bi bi-list-check" style="font-size: 8rem; color: #4472C4;"></i>&nbsp;<h7>Proof & Statistics</h7>
             <p class="lead">
                 <ul>
                     <li class="lead">Future proof workspace</li>
@@ -206,7 +206,7 @@ design, pay per use and available worldwide).</b></p>
                     <li class="lead">Available 24/7</li>
                 </ul>
             </p>
-            <i class="bi bi-wrench-adjustable-circle-fill" style="font-size: 2rem; color: #4472C4;"></i>&nbsp;<h7>Proof & Statistics of Joint Solution</h7>
+            <i class="bi bi-wrench-adjustable-circle-fill" style="font-size: 6rem; color: #4472C4;"></i>&nbsp;<h7>Proof & Statistics of Joint Solution</h7>
             <p class="lead">
                 <ul>
                     <li class="lead">Deploy virtual desktops and applications first time right</li>
@@ -215,7 +215,7 @@ design, pay per use and available worldwide).</b></p>
                     <li class="lead">By using our service, you ensure that employees have a great experience the first time they use their new Azure Virtual Desktop.</li>
                 </ul>
             </p>
-            <i class="bi bi-grid-3x3-gap-fill" style="font-size: 2rem; color: #4472C4;"></i>&nbsp;<h7>Proof & Statistics of Managed solution</h7>
+            <i class="bi bi-grid-3x3-gap-fill" style="font-size: 4rem; color: #4472C4;"></i>&nbsp;<h7>Proof & Statistics of Managed solution</h7>
             <p class="lead">
                 <ul>
                     <li class="lead">Business enabled managed workspace</li>
@@ -246,14 +246,11 @@ design, pay per use and available worldwide).</b></p>
             <div class="col-md-4">
                 <p class="lead"><b>Azure Virtual Desktop</b></p>
             </div>
-            <div class="col-md-auto">
-                <p class="lead"><i class="fa fa-plus" aria-hidden="true"></i></p>
-            </div>
             <div class="col-md-4">
                 <p class="lead"><i class="fa fa-plus fa-3x" aria-hidden="true">&nbsp;<b>Business Enablement</b></p>
             </div>
             <div class="col-md-4">
-                <div class="lead">&nbsp; <b>Managed Cloud Hosted Desktop & Apps</b></div>
+                <div class="lead">&nbsp;<b>Managed Cloud Hosted Desktop & Apps</b></div>
             </div>
         </div>
     </div>
