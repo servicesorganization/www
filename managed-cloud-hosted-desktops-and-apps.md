@@ -41,6 +41,12 @@ permalink: managed-cloud-hosted-desktops-and-apps.html
 
     }
 
+    .div-border {
+        border-style: solid;
+        border-color: #DDDDDD;
+
+    }
+
     .col-md-4-grey {
         background-color: #DDDDDD;
         color: #000000;
@@ -241,7 +247,7 @@ design, pay per use and available worldwide).</b></p>
 <!-- Row 5 -->
 
 <div class="jumbotron jumbotron-white">
-    <div class="container .div-black">
+    <div class="container div-black div-border">
         <div class="col-md-4">
             <p class="lead"><b>Azure Virtual Desktop</b></p>
         </div>
