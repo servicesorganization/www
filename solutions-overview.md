@@ -109,6 +109,9 @@ permalink: solutions-overview.html
         </div>
         <div class="col-md-6 text-right">
             <h7 class="header-light regular-pad">Managed Cloud Hosted Desktops & Apps</h7>
+            <p class="lead"><i class="fa fa-circle" aria-hidden="true" style="color: #FF7900;"></i>&nbsp;&nbsp;<b>Business enabled virtual apps & desktops</b></p>
+            <p class="lead"><i class="fa fa-circle" aria-hidden="true" style="color: #FF7900;"></i>&nbsp;&nbsp;<b>Secure access to data and applications</b></p>
+            <p class="lead"><i class="fa fa-circle" aria-hidden="true" style="color: #FF7900;"></i>&nbsp;&nbsp;<b>Scalability and flexibility</b></p>
             <p><a class="btn btn-jumbotron btn-lg" href="{{ "/managed-cloud-hosted-desktops-and-apps.html" | relative_url }}" role="button">Learn more</a></p>
         </div>
     </div>

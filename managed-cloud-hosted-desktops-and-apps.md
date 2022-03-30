@@ -157,7 +157,7 @@ design, pay per use and available worldwide).</b></p>
     </div>
     <div class="container">
         <div class="col-md-4">
-            <h7>Business Enabled virtual apps & desktops</h7>
+            <h7>Business enabled virtual apps & desktops</h7>
             <p class="lead">
             <ul>
                 <li class="lead">Cloud based desktops and applications</li>
