@@ -249,7 +249,7 @@ design, pay per use and available worldwide).</b></p>
 <div class="jumbotron jumbotron-white">
     <div class="container div-black div-border">
         <div class="col-md-3 text-center">
-            <p class="lead"><b>Azure Virtual Desktop</b></p>
+            <p class="lead"><img src="{{ "/images/azure-logo.png" | relative_url }}" class="img-responsive"><br><b>Azure Virtual Desktop</b></p>
         </div>
         <div class="col-md-1 text-center">
             <p class="lead" style="font-size: 40px;"><br><b>+</b></p>
