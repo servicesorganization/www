@@ -261,7 +261,7 @@ design, pay per use and available worldwide).</b></p>
             <p class="lead" style="font-size: 40px;"><br><b>=</b></p>
         </div>
         <div class="col-md-4 text-center">
-            <div class="lead">&nbsp;<b>Managed Cloud Hosted Desktop & Apps</b></div>
+            <div class="lead"><img src="{{ "/images/company_logo.png" | relative_url }}" class="img-responsive"><br><b>Managed Cloud Hosted Desktop & Apps</b></div>
         </div>
     </div>
 </div>
