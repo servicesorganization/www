@@ -135,7 +135,7 @@ permalink: solutions-overview.html
 
 <div class="jumbotron bgimg2">
     <div class="container">
-        <div class="col-md-6">
+        <div class="col-md-6 div-black">
             <h7 class="header-light regular-pad">Managed Office 365</h7>
             <br>
             <p class="lead"><i class="fa fa-circle" aria-hidden="true" style="color: #FF7900;"></i>&nbsp;&nbsp;<b>Business enabled virtual apps & desktops</b></p>
@@ -175,7 +175,7 @@ permalink: solutions-overview.html
 
 <div class="jumbotron bgimg4">
     <div class="container">
-        <div class="col-md-6">
+        <div class="col-md-6 div-black">
             <h7 class="header-light regular-pad">Managed Application Delivery Service</h7>
             <br>
             <p class="lead"><i class="fa fa-circle" aria-hidden="true" style="color: #FF7900;"></i>&nbsp;&nbsp;<b>Business enabled virtual apps & desktops</b></p>
