@@ -98,6 +98,7 @@ permalink: solutions-overview.html
         <div class="col-md-6">
             <h7 class="header-light regular-pad">Cloud Managed Device</h7>
             <br>
+            <br>
             <p class="lead"><i class="fa fa-circle" aria-hidden="true" style="color: #FF7900;"></i>&nbsp;&nbsp;<b>Business enabled virtual apps & desktops</b></p>
             <p class="lead"><i class="fa fa-circle" aria-hidden="true" style="color: #FF7900;"></i>&nbsp;&nbsp;<b>Secure access to data and applications</b></p>
             <p class="lead"><i class="fa fa-circle" aria-hidden="true" style="color: #FF7900;"></i>&nbsp;&nbsp;<b>Scalability and flexibility</b></p>
@@ -120,6 +121,7 @@ permalink: solutions-overview.html
         <div class="col-md-6 text-right div-black">
             <h7 class="header-light regular-pad">Managed Cloud Hosted Desktops & Apps</h7>
             <br>
+            
             <p class="lead"><i class="fa fa-circle" aria-hidden="true" style="color: #FF7900;"></i>&nbsp;&nbsp;<b>Business enabled virtual apps & desktops</b></p>
             <p class="lead"><i class="fa fa-circle" aria-hidden="true" style="color: #FF7900;"></i>&nbsp;&nbsp;<b>Secure access to data and applications</b></p>
             <p class="lead"><i class="fa fa-circle" aria-hidden="true" style="color: #FF7900;"></i>&nbsp;&nbsp;<b>Scalability and flexibility</b></p>
@@ -137,6 +139,7 @@ permalink: solutions-overview.html
     <div class="container">
         <div class="col-md-6 div-black">
             <h7 class="header-light regular-pad">Managed Office 365</h7>
+            <br>
             <br>
             <p class="lead"><i class="fa fa-circle" aria-hidden="true" style="color: #FF7900;"></i>&nbsp;&nbsp;<b>Business enabled virtual apps & desktops</b></p>
             <p class="lead"><i class="fa fa-circle" aria-hidden="true" style="color: #FF7900;"></i>&nbsp;&nbsp;<b>Secure access to data and applications</b></p>
@@ -160,6 +163,7 @@ permalink: solutions-overview.html
         <div class="col-md-6 text-right">
             <h7 class="header-light regular-pad">Managed Workspace Portal</h7>
             <br>
+            <br>
             <p class="lead"><i class="fa fa-circle" aria-hidden="true" style="color: #FF7900;"></i>&nbsp;&nbsp;<b>Business enabled virtual apps & desktops</b></p>
             <p class="lead"><i class="fa fa-circle" aria-hidden="true" style="color: #FF7900;"></i>&nbsp;&nbsp;<b>Secure access to data and applications</b></p>
             <p class="lead"><i class="fa fa-circle" aria-hidden="true" style="color: #FF7900;"></i>&nbsp;&nbsp;<b>Scalability and flexibility</b></p>
@@ -177,6 +181,7 @@ permalink: solutions-overview.html
     <div class="container">
         <div class="col-md-6 div-black">
             <h7 class="header-light regular-pad">Managed Application Delivery Service</h7>
+            <br>
             <br>
             <p class="lead"><i class="fa fa-circle" aria-hidden="true" style="color: #FF7900;"></i>&nbsp;&nbsp;<b>Business enabled virtual apps & desktops</b></p>
             <p class="lead"><i class="fa fa-circle" aria-hidden="true" style="color: #FF7900;"></i>&nbsp;&nbsp;<b>Secure access to data and applications</b></p>
