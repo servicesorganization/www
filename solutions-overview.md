@@ -87,7 +87,7 @@ permalink: solutions-overview.html
     <div class="container">
         <h1>Solution Overview</h1>
         <p></p>
-        <p>Discover what our Orange Workspace Services consist of and what they can do for you.cm</p>
+        <p>Discover what our Orange Workspace Services consist of and what they can do for you.</p>
     </div>
 </div>
 
