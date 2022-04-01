@@ -1,7 +1,7 @@
 ---
 layout: firstpage
-title: Solutions Overview
-permalink: solutions-overview.html
+title: Core Workspace Solutions
+permalink: core-workspace-solutions.html
 ---
 
 <style type="text/css">

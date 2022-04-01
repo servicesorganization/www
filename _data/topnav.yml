@@ -16,14 +16,10 @@ topnav_dropdowns:
 
     - title: Solutions
       folderitems:
-        - title: Solutions Overview
-          url: /solutions-overview.html
-        - title: Solutions 1
-          url: /solutions-overview.html
-        - title: 
-          url: 
-        - title: Solutions 2
-          url: /solutions-overview.html
+        - title: Core Workspace Solutions
+          url: /core-workspace-solutions.html
+        - title: Orange Workspace Solutions
+          url: /orange-workspace-solutions.html
 
     - title: Services
       folderitems:
