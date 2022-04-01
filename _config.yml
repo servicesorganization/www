@@ -27,7 +27,7 @@ github_editme_path: servicesorganization/www/blob/gh-pages/
 exclude:
   - .idea/
   - .gitignore
-  - vendor
+  
 # these are the files and directories that jekyll will exclude from the build
 
 feedback_subject_line: Workspace Services
