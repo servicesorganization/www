@@ -97,6 +97,8 @@ permalink: workspace-solutions.html
     <div class="container">
         <div class="col-md-6">
             <h7 class="header-light regular-pad">Cloud Managed Device</h7>
+            <br>
+            <br>
             <p class="lead"><i class="fa fa-circle" aria-hidden="true" style="color: #FF7900;"></i>&nbsp;&nbsp;<b>Fully managed employee’s devices</b></p>
             <p class="lead"><i class="fa fa-circle" aria-hidden="true" style="color: #FF7900;"></i>&nbsp;&nbsp;<b>Manage, monitor and secure corporate assets</b></p>
             <p class="lead"><i class="fa fa-circle" aria-hidden="true" style="color: #FF7900;"></i>&nbsp;&nbsp;<b>Deploy security controls on employee’s devices</b></p>
@@ -115,14 +117,14 @@ permalink: workspace-solutions.html
     <div class="container">
         <div class="col-md-6">
         </div>
-        <div class="col-md-6 div-black">
+        <div class="col-md-6 text-right div-black">
             <h7 class="header-light regular-pad">Managed Cloud Hosted Desktops & Apps</h7>
+            <br>
+            <br>
             <p class="lead"><i class="fa fa-circle" aria-hidden="true" style="color: #FF7900;"></i>&nbsp;&nbsp;<b>Fully managed cloud hosted desktops and apps</b></p>
             <p class="lead"><i class="fa fa-circle" aria-hidden="true" style="color: #FF7900;"></i>&nbsp;&nbsp;<b>Easy scalable up and down</b></p>
             <p class="lead"><i class="fa fa-circle" aria-hidden="true" style="color: #FF7900;"></i>&nbsp;&nbsp;<b>Accessible from anywhere on any device</b></p>
-        <div class="col-md-6 text-right div-black">
             <p><a class="btn btn-jumbotron btn-lg" href="{{ "/managed-cloud-hosted-desktops-and-apps.html" | relative_url }}" role="button">Learn more</a></p>
-        </div>
         </div>
     </div>
 </div>
@@ -157,6 +159,8 @@ permalink: workspace-solutions.html
         </div>
         <div class="col-md-6 text-right">
             <h7 class="header-light regular-pad">Managed Workspace Portal</h7>
+            <br>
+            <br>
             <p class="lead"><i class="fa fa-circle" aria-hidden="true" style="color: #FF7900;"></i>&nbsp;&nbsp;<b>One single personalized digital starting point</b></p>
             <p class="lead"><i class="fa fa-circle" aria-hidden="true" style="color: #FF7900;"></i>&nbsp;&nbsp;<b>Secure access to applications and data</b></p>
             <p class="lead"><i class="fa fa-circle" aria-hidden="true" style="color: #FF7900;"></i>&nbsp;&nbsp;<b>Single sign-on to access applications</b></p>
@@ -173,6 +177,8 @@ permalink: workspace-solutions.html
     <div class="container">
         <div class="col-md-6 div-black">
             <h7 class="header-light regular-pad">Managed Application Delivery Service</h7>
+            <br>
+            <br>
             <p class="lead"><i class="fa fa-circle" aria-hidden="true" style="color: #FF7900;"></i>&nbsp;&nbsp;<b>Dynamic application management</b></p>
             <p class="lead"><i class="fa fa-circle" aria-hidden="true" style="color: #FF7900;"></i>&nbsp;&nbsp;<b>One unified user experience across any device</b></p>
             <p class="lead"><i class="fa fa-circle" aria-hidden="true" style="color: #FF7900;"></i>&nbsp;&nbsp;<b>Easy-to-access applications and services catalog</b></p>
