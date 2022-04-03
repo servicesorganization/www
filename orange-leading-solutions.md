@@ -85,9 +85,9 @@ permalink: additional-workspace-solutions.html
 
 <div class="jumbotron jumbotron-height">
     <div class="container">
-        <h1>Solution Overview</h1>
+        <h1>Additional Workspace Solutions</h1>
         <p></p>
-        <p>Discover what our Orange Workspace Services consist of and what they can do for you.</p>
+        <p>Discover what our Additional Orange Workspace Services solutions consist of and what they can do for you.</p>
     </div>
 </div>
 

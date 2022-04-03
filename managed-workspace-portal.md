@@ -271,8 +271,8 @@ design, pay per use and available worldwide).</b></p>
 <div class="jumbotron">
     <div class="container">
         <div class="col-md-12">
-            <h7>Why Orange</h7>
-            <p class="lead">We help our customers across the globe transform their industries, reimagine their services, create a positive impact and unleash the power of their data into an amazing and trusted resource that gives our customers positive business impact. The right technology deployed in the right way to support your workforce is vital to keep up with the pace. We empower your workforce to collaborate, communicate, connect and provide an excellent customer experience from anywhere, anytime, using any device in a secured environment.</p>
+            <h7>Why Orange Workspace Services</h7>
+            <p class="lead">We help you to define, onboard and manage your digital workspace. We have the breadth of experience across different technologies and industries. We can guide you on defining a digital workspace strategy, help you implement digital workspace solutions and onboard you to our workspace services.</p>
         </div>
     </div>
 </div>

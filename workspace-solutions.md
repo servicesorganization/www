@@ -87,7 +87,7 @@ permalink: workspace-solutions.html
     <div class="container">
         <h1>Workspace Solutions</h1>
         <p></p>
-        <p>Discover what our Orange Workspace Services solution consist of and what they can do for you.</p>
+        <p>Discover what our Orange Workspace Services solutions consist of and what they can do for you.</p>
     </div>
 </div>
 
