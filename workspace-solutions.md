@@ -85,9 +85,9 @@ permalink: workspace-solutions.html
 
 <div class="jumbotron jumbotron-height">
     <div class="container">
-        <h1>Solution Overview</h1>
+        <h1>Workspace Solutions</h1>
         <p></p>
-        <p>Discover what our Orange Workspace Services consist of and what they can do for you.</p>
+        <p>Discover what our Orange Workspace Services solution consist of and what they can do for you.</p>
     </div>
 </div>
 
@@ -102,7 +102,7 @@ permalink: workspace-solutions.html
             <p class="lead"><i class="fa fa-circle" aria-hidden="true" style="color: #FF7900;"></i>&nbsp;&nbsp;<b>Fully managed employee’s devices</b></p>
             <p class="lead"><i class="fa fa-circle" aria-hidden="true" style="color: #FF7900;"></i>&nbsp;&nbsp;<b>Manage, monitor and secure corporate assets</b></p>
             <p class="lead"><i class="fa fa-circle" aria-hidden="true" style="color: #FF7900;"></i>&nbsp;&nbsp;<b>Deploy security controls on employee’s devices</b></p>
-            <p><a class="btn btn-jumbotron btn-lg" href="{{ "/solutions-overview.html" | relative_url }}" role="button">Learn more</a></p>
+            <p><a class="btn btn-jumbotron btn-lg" href="{{ "/cloud-managed-device.html" | relative_url }}" role="button">Learn more</a></p>
         </div>
         <div class="col-md-6">
         </div>
@@ -142,7 +142,7 @@ permalink: workspace-solutions.html
             <p class="lead"><i class="fa fa-circle" aria-hidden="true" style="color: #FF7900;"></i>&nbsp;&nbsp;<b>Full managed service including Microsoft Office subscriptions</b></p>
             <p class="lead"><i class="fa fa-circle" aria-hidden="true" style="color: #FF7900;"></i>&nbsp;&nbsp;<b>Office 365 environment optimized for your employees</b></p>
             <p class="lead"><i class="fa fa-circle" aria-hidden="true" style="color: #FF7900;"></i>&nbsp;&nbsp;<b>Proactive monitoring</b></p>
-            <p><a class="btn btn-jumbotron btn-lg" href="{{ "/solutions-overview.html" | relative_url }}" role="button">Learn more</a></p>
+            <p><a class="btn btn-jumbotron btn-lg" href="{{ "/managed-office-365.html" | relative_url }}" role="button">Learn more</a></p>
         </div>
         <div class="col-md-6">
         </div>
@@ -164,7 +164,7 @@ permalink: workspace-solutions.html
             <p class="lead"><i class="fa fa-circle" aria-hidden="true" style="color: #FF7900;"></i>&nbsp;&nbsp;<b>One single personalized digital starting point</b></p>
             <p class="lead"><i class="fa fa-circle" aria-hidden="true" style="color: #FF7900;"></i>&nbsp;&nbsp;<b>Secure access to applications and data</b></p>
             <p class="lead"><i class="fa fa-circle" aria-hidden="true" style="color: #FF7900;"></i>&nbsp;&nbsp;<b>Single sign-on to access applications</b></p>
-            <p><a class="btn btn-jumbotron btn-lg" href="{{ "/solutions-overview.html" | relative_url }}" role="button">Learn more</a></p>
+            <p><a class="btn btn-jumbotron btn-lg" href="{{ "/managed-workspace-portal.html" | relative_url }}" role="button">Learn more</a></p>
         </div>
     </div>
 </div>
@@ -182,7 +182,7 @@ permalink: workspace-solutions.html
             <p class="lead"><i class="fa fa-circle" aria-hidden="true" style="color: #FF7900;"></i>&nbsp;&nbsp;<b>Dynamic application management</b></p>
             <p class="lead"><i class="fa fa-circle" aria-hidden="true" style="color: #FF7900;"></i>&nbsp;&nbsp;<b>One unified user experience across any device</b></p>
             <p class="lead"><i class="fa fa-circle" aria-hidden="true" style="color: #FF7900;"></i>&nbsp;&nbsp;<b>Easy-to-access applications and services catalog</b></p>
-            <p><a class="btn btn-jumbotron btn-lg" href="{{ "/solutions-overview.html" | relative_url }}" role="button">Learn more</a></p>
+            <p><a class="btn btn-jumbotron btn-lg" href="{{ "/managed-application-delivery-service.html" | relative_url }}" role="button">Learn more</a></p>
         </div>
         <div class="col-md-6">
         </div>
