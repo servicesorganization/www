@@ -105,10 +105,10 @@ permalink: managed-workspace-portal.html
 
 <div class="jumbotron jumbotron-height bgimg0">
     <div class="container">
-        <h7 class="header-light regular-pad">Managed Cloud Hosted Desktops & Apps</h7>
+        <h7 class="header-light regular-pad">Managed Workspace Portal</h7>
         <p></p>
-        <p class="lead p-black">Business enabled virtual desktops and applications running on<br>
-        Microsoft Azure Virtual Desktop.</p>
+        <p class="lead p-black">Business enabled workspace portal delivered and managed by<br>
+        Orange.</p>
     </div>
 </div>
 

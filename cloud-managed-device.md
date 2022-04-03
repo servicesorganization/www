@@ -107,8 +107,8 @@ permalink: cloud-managed-device.html
     <div class="container">
         <h7 class="header-light regular-pad">Cloud Managed Device</h7>
         <p></p>
-        <p class="lead p-black">Business enabled cloud managed device<br>
-        Microsoft Azure Virtual Desktop.</p>
+        <p class="lead p-black">Business enabled cloud managed device managed by<br>
+        Microsoft Endpoint Manager and Microsoft Devops.</p>
     </div>
 </div>
 
