@@ -130,6 +130,7 @@ permalink: cloud-managed-device.html
                 <li class="lead">Modernize your employee experience</li>
                 <li class="lead">Boost employee productivity and lower costs</li>
                 <li class="lead">Streamline and strengthen your security</li>
+                <li class="lead">Help employees make smart decisions faster</li>
             </ul>
         </p>
         </div>
@@ -141,18 +142,7 @@ permalink: cloud-managed-device.html
 <div class="jumbotron bgimg1">
     <div class="container">
         <div class="col-md-4">
-            <p class="lead"><b>Empower your employees</b></p>
-        </div>
-        <div class="col-md-4">
-            <p class="lead"><b>Secured company data</b></p>
-        </div>
-        <div class="col-md-4">
-            <div class="lead"><b>Desktop as a Service</b></div>
-        </div>
-    </div>
-    <div class="container">
-        <div class="col-md-4">
-            <h7>Business enabled virtual apps & desktops</h7>
+            <h7>Fully managed employee’s devices</h7>
             <p class="lead">
             <ul>
                 <li class="lead">Cloud based desktops and applications</li>
@@ -162,7 +152,7 @@ permalink: cloud-managed-device.html
             </p>
         </div>
         <div class="col-md-4">
-            <h7>Secure access to data and applications</h7>
+            <h7>Manage, monitor and secure corporate assets</h7>
             <p class="lead">
             <ul>
                 <li class="lead">Accessible from anywhere on any device</li>
@@ -172,7 +162,7 @@ permalink: cloud-managed-device.html
             </p>
         </div>
         <div class="col-md-4">
-            <h7>Scalability and flexibility</h7>
+            <h7>Deploy security controls on employee’s devices</h7>
             <p class="lead">
             <ul>
                 <li class="lead">Easy scale AVD capacity up and down</li>
