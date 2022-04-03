@@ -64,7 +64,7 @@ permalink: workspace-solutions.html
     }
 
     .bgimg3 {
-        background-image: linear-gradient(to right, rgba(0,0,0,0), rgba(0,0,0,1)), url('../images/managed-workspace-portal.png');
+        background-image: linear-gradient(to right, rgba(0,0,0,0), rgba(0,0,0,1)), url('../images/managed-workspace-portal-bg.png');
         background-position: center;
         background-size: cover;
         background-repeat: no-repeat;

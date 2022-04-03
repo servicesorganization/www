@@ -56,8 +56,8 @@ permalink: managed-application-delivery-service.html
     }
 
     .bgimg0 {
-        background-image: linear-gradient(to left, rgba(0,0,0,0), rgba(255,255,255,1)), url('../images/managed-cloud-hosted-desktops-and-apps-right-bg.png');
-        background-position: center top 20%;
+        background-image: linear-gradient(to left, rgba(0,0,0,0), rgba(255,255,255,1)), url('../images/managed-application-delivery-service-bg.png');
+        background-position: center;
         background-size: cover;
         background-repeat: no-repeat;
 
