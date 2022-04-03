@@ -1,7 +1,7 @@
 ---
 layout: firstpage
-title: Additional Workspace Solutions
-permalink: additional-workspace-solutions.html
+title: Orange Leading Solutions
+permalink: orange-leading-solutions.html
 ---
 
 <style type="text/css">
