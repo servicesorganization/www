@@ -23,8 +23,6 @@ topnav_dropdowns:
 
     - title: Services
       folderitems:
-        - title: Services Overview
-          url: /services-overview.html
         - title: Asses and Advise
           url: /asses-and-advise.html
         - title: Design & Implement
