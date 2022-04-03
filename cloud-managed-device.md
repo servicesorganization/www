@@ -56,8 +56,8 @@ permalink: cloud-managed-device.html
     }
 
     .bgimg0 {
-        background-image: linear-gradient(to left, rgba(0,0,0,0), rgba(255,255,255,1)), url('../images/managed-cloud-hosted-desktops-and-apps-right-bg.png');
-        background-position: center top 20%;
+        background-image: linear-gradient(to left, rgba(0,0,0,0), rgba(255,255,255,1)), url('../images/cloud-managed-device-bg.png');
+        background-position: center;
         background-size: cover;
         background-repeat: no-repeat;
 
@@ -105,9 +105,9 @@ permalink: cloud-managed-device.html
 
 <div class="jumbotron jumbotron-height bgimg0">
     <div class="container">
-        <h7 class="header-light regular-pad">Managed Cloud Hosted Desktops & Apps</h7>
+        <h7 class="header-light regular-pad">Cloud Managed Device</h7>
         <p></p>
-        <p class="lead p-black">Business enabled virtual desktops and applications running on<br>
+        <p class="lead p-black">Business enabled cloud managed device<br>
         Microsoft Azure Virtual Desktop.</p>
     </div>
 </div>
