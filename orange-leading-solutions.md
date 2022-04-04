@@ -85,18 +85,18 @@ permalink: orange-leading-solutions.html
 
 <div class="jumbotron jumbotron-height">
     <div class="container">
-        <h1>Additional Workspace Solutions</h1>
+        <h1>Orange Leading Solutions</h1>
         <p></p>
-        <p>Discover what our Additional Orange Workspace Services solutions consist of and what they can do for you.</p>
+        <p>Discover what our Orange Leading Solutions consist of and how they can extend your workspace.</p>
     </div>
 </div>
 
-<!-- Cloud Managed Device -->
+<!-- Teams Operator Connect -->
 
 <div class="jumbotron bgimg0">
     <div class="container">
         <div class="col-md-6">
-            <h7 class="header-light regular-pad">Cloud Managed Device</h7>
+            <h7 class="header-light regular-pad">Teams Operator Connect</h7>
             <br>
             <br>
             <p class="lead"><i class="fa fa-circle" aria-hidden="true" style="color: #FF7900;"></i>&nbsp;&nbsp;<b>Business enabled virtual apps & desktops</b></p>
@@ -120,7 +120,7 @@ permalink: orange-leading-solutions.html
         <div class="col-md-6">
         </div>
         <div class="col-md-6 text-right div-black">
-            <h7 class="header-light regular-pad">Managed Cloud Hosted Desktops & Apps</h7>
+            <h7 class="header-light regular-pad">Digital Employee Experience Monitoring</h7>
             <br>
             <br>
             <p class="lead"><i class="fa fa-circle" aria-hidden="true" style="color: #FF7900;"></i>&nbsp;&nbsp;<b>Business enabled virtual apps & desktops</b></p>
@@ -140,7 +140,7 @@ permalink: orange-leading-solutions.html
 <div class="jumbotron bgimg2">
     <div class="container">
         <div class="col-md-6 div-black">
-            <h7 class="header-light regular-pad">Managed Office 365</h7>
+            <h7 class="header-light regular-pad">Managed Cloud Hosted Desktop and Apps Hybrid</h7>
             <br>
             <br>
             <p class="lead"><i class="fa fa-circle" aria-hidden="true" style="color: #FF7900;"></i>&nbsp;&nbsp;<b>Business enabled virtual apps & desktops</b></p>
@@ -164,7 +164,7 @@ permalink: orange-leading-solutions.html
         <div class="col-md-6">
         </div>
         <div class="col-md-6 text-right">
-            <h7 class="header-light regular-pad">Managed Workspace Portal</h7>
+            <h7 class="header-light regular-pad">Managed Detection and Response</h7>
             <br>
             <br>
             <p class="lead"><i class="fa fa-circle" aria-hidden="true" style="color: #FF7900;"></i>&nbsp;&nbsp;<b>Business enabled virtual apps & desktops</b></p>
@@ -184,7 +184,7 @@ permalink: orange-leading-solutions.html
 <div class="jumbotron bgimg4">
     <div class="container">
         <div class="col-md-6 div-black">
-            <h7 class="header-light regular-pad">Managed Application Delivery Service</h7>
+            <h7 class="header-light regular-pad">Cloud Managed Printing</h7>
             <br>
             <br>
             <p class="lead"><i class="fa fa-circle" aria-hidden="true" style="color: #FF7900;"></i>&nbsp;&nbsp;<b>Business enabled virtual apps & desktops</b></p>
