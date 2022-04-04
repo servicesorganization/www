@@ -128,7 +128,7 @@ permalink: teams-operator-connect.html
                 <li class="lead">Managed local voice gateways and SBC’s provided where restrictions exist on service availability or to interoperate with legacy telephony  systems</li>
             </ul>
             </p>
-            <div><img src="{{ "/images/company-logo.png" | relative_url }}"></div>
+            <div><img src="{{ "/images/orange-business-services-logo_200px-500px.png" | relative_url }}"></div>
         </div>
         <div class="col-md-4 col-md-4-grey">
         <p class="lead"><b>Business Talk SIP Voice</b></p>
@@ -143,9 +143,18 @@ permalink: teams-operator-connect.html
     </div>
 </div>
 
+<!-- Title Row 2 -->
+
+<div class="jumbotron jumbotron-white">
+    <div class="container">
+        <h7 class="header-light regular-pad">One provider for local and global needs</h7>
+        <p></p>
+    </div>
+</div>
+
 <!-- Row 3 -->
 
-<div class="jumbotron bgimg1">
+<div class="jumbotron jumbotron-white">
     <div class="container">
         <div class="col-md-4">
             <p class="lead"><b>Empower your employees</b></p>
@@ -192,14 +201,7 @@ permalink: teams-operator-connect.html
 </div>
 
 
-<!-- Title Row 2 -->
 
-<div class="jumbotron jumbotron-white">
-    <div class="container">
-        <h7 class="header-light regular-pad">Managed Cloud Hosted Desktop & Apps is a business enabled workspace service build on Microsoft AVD</h7>
-        <p></p>
-    </div>
-</div>
 
 <!-- Row 4 -->
 
