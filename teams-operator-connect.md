@@ -96,7 +96,7 @@ permalink: teams-operator-connect.html
 
 <div class="jumbotron jumbotron-height bgimg0">
     <div class="container">
-        <h1>Teams Operator Connect</h1>
+        <h12>Teams Operator Connect</h12>
         <p></p>
         <p>An optimal voice experience<br>
         with Microsoft Teams.</p>
