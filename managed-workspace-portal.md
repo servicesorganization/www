@@ -56,39 +56,10 @@ permalink: managed-workspace-portal.html
     }
 
     .bgimg0 {
-        background-image: linear-gradient(to left, rgba(0,0,0,0), rgba(255,255,255,1)), url('../images/managed-workspace-portal-bg.png');
+        background-image: url('../images/managed-workspace-portal-bg.png');
         background-position: center top 20%;
         background-size: cover;
         background-repeat: no-repeat;
-
-    }
-
-    .bgimg2 {
-        background-image: linear-gradient(to left, rgba(0,0,0,0), rgba(221,221,221,1)), url('../images/managed-office-365-bg.png');
-        background-position: center;
-        background-size: cover;
-        background-repeat: no-repeat;
-        height: 500px;
-
-    }
-
-    .bgimg3 {
-        background-image: linear-gradient(to right, rgba(0,0,0,0), rgba(0,0,0,1)), url('../images/managed-workspace-portal.png');
-        background-position: center;
-        background-size: cover;
-        background-repeat: no-repeat;
-        height: 500px;
-
-    }
-
-    .bgimg4 {
-        background-image: linear-gradient(to left, rgba(0,0,0,0), rgba(255,255,255,1)), url('../images/managed-application-delivery-service-bg.png');
-        background-position: center;
-        background-size: cover;
-        background-repeat: no-repeat;
-        height: 500px;
-
-    }
 
     .img1 {
         background-image: url('../images/managed-cloud-hosted-desktops-and-apps-01.png');
