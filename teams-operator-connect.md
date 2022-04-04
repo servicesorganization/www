@@ -215,77 +215,7 @@ permalink: teams-operator-connect.html
     </div>
 </div>
 
-
-
-
 <!-- Row 4 -->
-
-<div class="jumbotron jumbotron-white">
-    <div class="container">
-        <div class="col-md-8 div-black">
-            <i class="bi bi-ui-checks" style="font-size: 4rem; color: #4472C4;"></i>&nbsp;&nbsp;&nbsp;<h7>Proof & Statistics</h7>
-            <p class="lead">
-                <ul>
-                    <li class="lead">Future proof workspace</li>
-                    <li class="lead">Cost efficient</li>
-                    <li class="lead">Available 24/7</li>
-                </ul>
-            </p>
-            <i class="bi bi-wrench-adjustable-circle-fill" style="font-size: 4rem; color: #4472C4;"></i>&nbsp;&nbsp;&nbsp;<h7>Proof & Statistics of Joint Solution</h7>
-            <p class="lead">
-                <ul>
-                    <li class="lead">Deploy virtual desktops and applications first time right</li>
-                    <li class="lead">We eat, breath and sleep End User Computing</li>
-                    <li class="lead">Orange earned the Advanced Specialization for (Azure) Windows Virtual Desktop</li>
-                    <li class="lead">By using our service, you ensure that employees have a great experience the first time they use their new Azure Virtual Desktop.</li>
-                </ul>
-            </p>
-            <i class="bi bi-grid-3x3-gap-fill" style="font-size: 4rem; color: #4472C4;"></i>&nbsp;&nbsp;&nbsp;<h7>Proof & Statistics of Managed solution</h7>
-            <p class="lead">
-                <ul>
-                    <li class="lead">Business enabled managed workspace</li>
-                    <li class="lead">Over 15 years experience in managing virtual apps & desktop environments</li>
-                </ul>
-            </p>
-        </div>
-        <div class="col-md-4 col-md-4-grey">
-            <p class="lead"><b>Our promise to you</b></p>
-            <p class="lead">A business enabled managed workspace service focused on flexibility, security and end user experience.</p>
-            <p class="lead"><b>An offer to get you started</b></p>
-            <p class="lead">
-                <ul>
-                    <li class="lead">Managed workspace build on Microsoft AVD as part of Microsoft 365</li>
-                    <li class="lead">Managed Cloud Hosted Desktop & Apps is a fully-fledged virtual Windows workspace running in Azure, that delivers virtual apps and desktops which are accessible from any location and any device.</li>
-                    <li class="lead">Managed workspace for a price per user per month</li>
-                </ul>
-            </p>
-        </div>
-    </div>
-</div>
-
-<!-- Row 5 -->
-
-<div class="jumbotron jumbotron-white">
-    <div class="container div-black div-border">
-        <div class="col-md-3 text-center">
-            <p class="lead"><br><img src="{{ "/images/avd-logo.png" | relative_url }}" height="100"><br><br><b>Azure Virtual Desktop</b></p>
-        </div>
-        <div class="col-md-1 text-center">
-            <p class="lead" style="font-size: 40px;"><br><b>+</b></p>
-        </div>
-        <div class="col-md-3 text-center">
-            <p class="lead"><br><i class="bi bi-ui-checks" style="font-size: 8rem; color: #4472C4;"></i><br><b>Business Enablement</b></p>
-        </div>
-        <div class="col-md-1 text-center">
-            <p class="lead" style="font-size: 40px;"><br><b>=</b></p>
-        </div>
-        <div class="col-md-4 text-center">
-            <div class="lead"><br><img src="{{ "/images/company-logo.png" | relative_url }}"><br><br><b>Managed Cloud Hosted Desktop & Apps</b></div>
-        </div>
-    </div>
-</div>
-
-<!-- Row 6 -->
 
 <div class="jumbotron">
     <div class="container">
