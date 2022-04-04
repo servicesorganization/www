@@ -68,6 +68,8 @@ permalink: teams-operator-connect.html
         color: #000000;
         padding-top: 10px;
         padding-bottom: 50px;
+        margin-top: 5px;
+        margin-bottom: 5px;
 
     }
 
@@ -164,7 +166,7 @@ permalink: teams-operator-connect.html
 <div class="jumbotron jumbotron-white">
     <div class="container">
         <h7 class="header-light regular-pad">One provider for local and global needs</h7>
-        <p class="lead"><b>Centralization & standardization of your voice solution. Simple and quickly executed.</b></p>
+        <p class="lead p-black"><b>Centralization & standardization of your voice solution. Simple and quickly executed.</b></p>
     </div>
 </div>
 
@@ -186,7 +188,7 @@ permalink: teams-operator-connect.html
             </p>
         </div>
         <div class="col-md-4 col-md-4-orange">
-            <h7>Simple</h7>
+            <h11>Simple</h11>
             <p class="lead">
             <ul>
                 <li class="lead">Eliminate equipment on site</li>
@@ -204,6 +206,11 @@ permalink: teams-operator-connect.html
                 <li class="lead">Leverage our expertise to smooth transformation</li>
             </ul>
             </p>
+        </div>
+    </div>
+    <div class="container">
+        <div class="col-md-12 col-md-12-grey">
+            <p class="lead"><b>Digital Customer Journey (Order, Manage and Control)</b></p>
         </div>
     </div>
 </div>
