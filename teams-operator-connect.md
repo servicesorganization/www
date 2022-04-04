@@ -107,8 +107,8 @@ permalink: teams-operator-connect.html
     <div class="container">
         <h7 class="header-light regular-pad">Teams Operator Connect</h7>
         <p></p>
-        <p class="lead p-black">Business enabled workspace portal delivered and managed by<br>
-        Orange.</p>
+        <p class="lead p-black">An optimal voice experience<br>
+        with Microsoft Teams.</p>
     </div>
 </div>
 
@@ -117,24 +117,26 @@ permalink: teams-operator-connect.html
 <div class="jumbotron">
     <div class="container">
         <div class="col-md-8">
-            <p class="lead"><b>Business enabled virtual apps and desktops, directly
-consumable within your organization by using the
-benefits of the cloud (scalable and flexible, secure by
-design, pay per use and available worldwide).</b></p>
-            <h7>What is Managed Cloud Hosted Desktop & Apps</h7>
-            <p class="lead">Managed Cloud Hosted Desktop & Apps is a fully-fledged virtual Windows workspace running on Microsoft Azure
-            Virtual Desktop (AVD), that delivers virtual apps and desktops in Azure accessible from any location and any
-            device. For specific use cases, extra graphics capacity can be provided to complete the workspace.</p>
-            <div class="img1"></div>
+            <h7>Direct Routing for Microsoft Teams</h7>
+            <p class="lead">You chose Microsoft Teams as your hub for teamwork, now you want your users to have the best experience possible.</p>
+            <p class="lead">
+            <ul>
+                <li class="lead">Orange Direct Routing service with Business Talk enables PSTN calling direct from Teams</li>
+                <li class="lead">Simplify your operations and reduce cost with one worldwide voice provider</li>
+                <li class="lead">Eliminate onsite equipment by leveraging our cloud-based architecture</li>
+                <li class="lead">Digital voice enables you to order, configure and manage your voice service in real time for maximum flexibility and control</li>
+                <li class="lead">Managed local voice gateways and SBC’s provided where restrictions exist on service availability or to interoperate with legacy telephony  systems</li>
+            </ul>
+            </p>
+            <div><img src="{{ "/images/company-logo.png" | relative_url }}"></div>
         </div>
         <div class="col-md-4 col-md-4-grey">
-        <p class="lead"><b>Why customers use Managed Cloud Hosted Desktop & Apps</b></p>
-        <p class="lead">At-a-glance</p>
+        <p class="lead"><b>Business Talk SIP Voice</b></p>
+        <p class="lead">Orange Business Talk SIP trunking enables your Teams Phone System users to:</p>
         <p class="lead">
             <ul>
-                <li class="lead">Business enabled managed workspace for apps and desktops running in Azure</li>
-                <li class="lead">Remote application launcher for Win32 business applications, to complete the Modern Workplace</li>
-                <li class="lead">When needed AVD can be enriched with Citrix or VMware features running on Azure</li>
+                <li class="lead">Make domestic and international calls outside your company in 80 countries</li>
+                <li class="lead">Make or receive local voice calls in 45 countries (DID), with emergency services in 23 countries – centralized SIP trunking (no Gateway needed)</li>
             </ul>
         </p>
         </div>
