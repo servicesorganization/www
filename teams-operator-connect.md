@@ -179,7 +179,7 @@ permalink: teams-operator-connect.html
         </div>
     </div>
     <div class="container">
-        <div class="col-md-4 col-md-4-grey">
+        <div class="col-md-4 col-md-4-grey" style="height = 200px;">
             <h7>Global</h7>
             <p class="lead">
             <ul> 
@@ -187,7 +187,7 @@ permalink: teams-operator-connect.html
             </ul>
             </p>
         </div>
-        <div class="col-md-4 col-md-4-orange">
+        <div class="col-md-4 col-md-4-orange" style="height = 200px;">
             <h11>Simple</h11>
             <p class="lead">
             <ul>
@@ -197,7 +197,7 @@ permalink: teams-operator-connect.html
             </ul>
             </p>
         </div>
-        <div class="col-md-4 col-md-4-grey">
+        <div class="col-md-4 col-md-4-grey" style="height = 200px;">
             <h7>Quality of Service</h7>
             <p class="lead">
             <ul>
