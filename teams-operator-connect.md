@@ -193,8 +193,9 @@ permalink: teams-operator-connect.html
 <div class="jumbotron jumbotron-white">
     <div class="container">
         <h7 class="header-light regular-pad">Ready to choose the right solution for your company?</h7>
-            <div class="img1"></div>
+        <p></p>
     </div>
+    <div class="img1"></div>
 </div>
 
 <!-- Row 5 -->

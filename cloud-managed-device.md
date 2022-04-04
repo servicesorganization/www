@@ -81,7 +81,7 @@ permalink: cloud-managed-device.html
     <div class="container">
         <h1>Cloud Managed Device</h1>
         <p></p>
-        <p>Business enabled cloud device management deliverd by<br>
+        <p class="p-black">Business enabled cloud device management deliverd by<br>
         Microsoft Endpoint Manager and Microsoft Devops.</p>
     </div>
 </div>

@@ -105,9 +105,9 @@ permalink: managed-workspace-portal.html
 
 <div class="jumbotron jumbotron-height bgimg0">
     <div class="container">
-        <h7 class="header-light regular-pad">Managed Workspace Portal</h7>
+        <h1>Managed Workspace Portal</h1>
         <p></p>
-        <p class="lead p-black">Business enabled workspace portal delivered and managed by<br>
+        <p class="p-black">Business enabled workspace portal delivered and managed by<br>
         Orange.</p>
     </div>
 </div>

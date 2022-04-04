@@ -105,9 +105,9 @@ permalink: managed-office-365.html
 
 <div class="jumbotron jumbotron-height bgimg0">
     <div class="container">
-        <h7 class="header-light regular-pad">Managed Office 365</h7>
+        <h1>Managed Office 365</h1>
         <p></p>
-        <p class="lead p-black">Business enabled Office 365 managed via<br>
+        <p class="p-black">Business enabled Office 365 managed via<br>
         Microsoft Devops.</p>
     </div>
 </div>
