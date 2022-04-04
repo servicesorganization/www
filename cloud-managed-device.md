@@ -79,7 +79,7 @@ permalink: cloud-managed-device.html
 
 <div class="jumbotron jumbotron-height bgimg0">
     <div class="container">
-        <h1>Cloud Managed Device</h1>
+        <h12>Cloud Managed Device</h12>
         <p></p>
         <p class="p-black">Business enabled cloud device management deliverd by<br>
         Microsoft Endpoint Manager and Microsoft Devops.</p>
