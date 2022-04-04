@@ -82,10 +82,11 @@ permalink: teams-operator-connect.html
     }
 
     .img1 {
-        background-image: url('../images/managed-cloud-hosted-desktops-and-apps-01.png');
+        background-image: url('../images/microsoftteams-image_no1.png');
         background-position: center;
         background-size: contain;
         background-repeat: no-repeat;
+        height: 500px;
 
     }
 
@@ -95,9 +96,9 @@ permalink: teams-operator-connect.html
 
 <div class="jumbotron jumbotron-height bgimg0">
     <div class="container">
-        <h7 class="header-light regular-pad">Teams Operator Connect</h7>
+        <h1>Teams Operator Connect</h1>
         <p></p>
-        <p class="lead p-black">An optimal voice experience<br>
+        <p>An optimal voice experience<br>
         with Microsoft Teams.</p>
     </div>
 </div>
@@ -151,7 +152,7 @@ permalink: teams-operator-connect.html
         </div>
     </div>
     <div class="container">
-        <div class="col-md-4 col-md-4-grey" style="height = 300px;">
+        <div class="col-md-4 col-md-4-grey" style="height: 300px;">
             <h7>Global</h7>
             <p class="lead">
             <ul> 
@@ -159,7 +160,7 @@ permalink: teams-operator-connect.html
             </ul>
             </p>
         </div>
-        <div class="col-md-4 col-md-4-orange" style="height = 300px;">
+        <div class="col-md-4 col-md-4-orange" style="height: 300px;">
             <h11>Simple</h11>
             <p class="lead">
             <ul>
@@ -169,7 +170,7 @@ permalink: teams-operator-connect.html
             </ul>
             </p>
         </div>
-        <div class="col-md-4 col-md-4-grey" style="height = 300px;">
+        <div class="col-md-4 col-md-4-grey" style="height: 300px;">
             <h7>Quality of Service</h7>
             <p class="lead">
             <ul>

@@ -56,37 +56,12 @@ permalink: managed-cloud-hosted-desktops-and-apps.html
     }
 
     .bgimg0 {
-        background-image: linear-gradient(to left, rgba(0,0,0,0), rgba(255,255,255,1)), url('../images/managed-cloud-hosted-desktops-and-apps-right-bg.png');
+        background-image: url('../images/managed-cloud-hosted-desktops-and-apps-right-bg.png');
         background-position: center top 20%;
         background-size: cover;
         background-repeat: no-repeat;
 
     }
-
-    .bgimg2 {
-        background-image: linear-gradient(to left, rgba(0,0,0,0), rgba(221,221,221,1)), url('../images/managed-office-365-bg.png');
-        background-position: center;
-        background-size: cover;
-        background-repeat: no-repeat;
-        height: 500px;
-
-    }
-
-    .bgimg3 {
-        background-image: linear-gradient(to right, rgba(0,0,0,0), rgba(0,0,0,1)), url('../images/managed-workspace-portal.png');
-        background-position: center;
-        background-size: cover;
-        background-repeat: no-repeat;
-        height: 500px;
-
-    }
-
-    .bgimg4 {
-        background-image: linear-gradient(to left, rgba(0,0,0,0), rgba(255,255,255,1)), url('../images/managed-application-delivery-service-bg.png');
-        background-position: center;
-        background-size: cover;
-        background-repeat: no-repeat;
-        height: 500px;
 
     }
 
@@ -105,9 +80,9 @@ permalink: managed-cloud-hosted-desktops-and-apps.html
 
 <div class="jumbotron jumbotron-height bgimg0">
     <div class="container">
-        <h7 class="header-light regular-pad">Managed Cloud Hosted Desktops & Apps</h7>
+        <h7>Managed Cloud Hosted Desktops & Apps</h7>
         <p></p>
-        <p class="lead p-black">Business enabled virtual desktops and applications running on<br>
+        <p>Business enabled virtual desktops and applications running on<br>
         Microsoft Azure Virtual Desktop.</p>
     </div>
 </div>
