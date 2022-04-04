@@ -37,7 +37,7 @@ permalink: orange-leading-solutions.html
     }
 
     .bgimg0 {
-        background-image: linear-gradient(to left, rgba(0,0,0,0), rgba(0,0,0,1)), url('../images/cloud-managed-device-bg.png');
+        background-image: linear-gradient(to left, rgba(0,0,0,0), rgba(0,0,0,1)), url('../images/teams-operator-connect-bg.png');
         background-position: center;
         background-size: cover;
         background-repeat: no-repeat;
@@ -102,7 +102,7 @@ permalink: orange-leading-solutions.html
             <p class="lead"><i class="fa fa-circle" aria-hidden="true" style="color: #FF7900;"></i>&nbsp;&nbsp;<b>Business enabled virtual apps & desktops</b></p>
             <p class="lead"><i class="fa fa-circle" aria-hidden="true" style="color: #FF7900;"></i>&nbsp;&nbsp;<b>Secure access to data and applications</b></p>
             <p class="lead"><i class="fa fa-circle" aria-hidden="true" style="color: #FF7900;"></i>&nbsp;&nbsp;<b>Scalability and flexibility</b></p>
-            <p><a class="btn btn-jumbotron btn-lg" href="{{ "/solutions-overview.html" | relative_url }}" role="button">Learn more</a></p>
+            <p><a class="btn btn-jumbotron btn-lg" href="{{ "/teams-operator-connect.html" | relative_url }}" role="button">Learn more</a></p>
             <br>
             <br>
         </div>
