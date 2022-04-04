@@ -37,7 +37,7 @@ permalink: orange-leading-solutions.html
     }
 
     .bgimg0 {
-        background-image: linear-gradient(to left, rgba(0,0,0,0), rgba(0,0,0,1)), url('../images/teams-operator-connect-bg.png');
+        background-image: url('../images/teams-operator-connect-bg.png');
         background-position: center;
         background-size: cover;
         background-repeat: no-repeat;
