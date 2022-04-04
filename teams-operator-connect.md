@@ -55,6 +55,14 @@ permalink: teams-operator-connect.html
 
     }
 
+    .col-md-4-orange {
+        background-color: #FF7900;
+        color: #000000;
+        padding-top: 10px;
+        padding-bottom: 50px;
+
+    }
+
     .col-md-12-grey {
         background-color: #DDDDDD;
         color: #000000;
@@ -167,33 +175,31 @@ permalink: teams-operator-connect.html
         </div>
     </div>
     <div class="container">
-        <div class="col-md-4">
-            <h7>Business enabled virtual apps & desktops</h7>
+        <div class="col-md-4 md-4-grey">
+            <h7>Global</h7>
             <p class="lead">
-            <ul>
-                <li class="lead">Cloud based desktops and applications</li>
-                <li class="lead">Directly consumable within your organization</li>
-                <li class="lead">Deploy desktops and applications first time right</li>
+            <ul> 
+                <li class="lead">Benefit from Orange’s global voice presence to support a smooth transition to cloud voice with Teams</li>
             </ul>
             </p>
         </div>
-        <div class="col-md-4">
-            <h7>Secure access to data and applications</h7>
+        <div class="col-md-4 col-md-4-orange">
+            <h7>Simple</h7>
             <p class="lead">
             <ul>
-                <li class="lead">Accessible from anywhere on any device</li>
-                <li class="lead">Secure by design</li>
-                <li class="lead">Protection against data leaks and malware infection since no local client data</li>
+                <li class="lead">Eliminate equipment on site</li>
+                <li class="lead">Ease vendor management through a single partner for cloud voice</li>
+                <li class="lead">Self-care tool for provisioning, change management, audit</li>
             </ul>
             </p>
         </div>
-        <div class="col-md-4">
-            <h7>Scalability and flexibility</h7>
+        <div class="col-md-4 md-4-grey">
+            <h7>Quality of Service</h7>
             <p class="lead">
             <ul>
-                <li class="lead">Easy scale AVD capacity up and down</li>
-                <li class="lead">No Capex but Opex</li>
-                <li class="lead">Pay per use</li>
+                <li class="lead">Orange Business Talk SIP trunking voice QoS</li>
+                <li class="lead">Media bypass and local media optimization</li>
+                <li class="lead">Leverage our expertise to smooth transformation</li>
             </ul>
             </p>
         </div>
