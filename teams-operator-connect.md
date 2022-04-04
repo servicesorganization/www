@@ -55,6 +55,12 @@ permalink: teams-operator-connect.html
 
     }
 
+    .col-md-12-grey {
+        background-color: #DDDDDD;
+        color: #000000;
+
+    }
+
     .bgimg0 {
         background-image: linear-gradient(to left, rgba(0,0,0,0), rgba(255,255,255,1)), url('../images/teams-operator-connect-bg.png');
         background-position: center top 20%;
@@ -148,7 +154,7 @@ permalink: teams-operator-connect.html
 <div class="jumbotron jumbotron-white">
     <div class="container">
         <h7 class="header-light regular-pad">One provider for local and global needs</h7>
-        <p></p>
+        <p class="lead"><b>Centralization & standardization of your voice solution. Simple and quickly executed.</b></p>
     </div>
 </div>
 
@@ -156,14 +162,8 @@ permalink: teams-operator-connect.html
 
 <div class="jumbotron jumbotron-white">
     <div class="container">
-        <div class="col-md-4">
-            <p class="lead"><b>Empower your employees</b></p>
-        </div>
-        <div class="col-md-4">
-            <p class="lead"><b>Secured company data</b></p>
-        </div>
-        <div class="col-md-4">
-            <div class="lead"><b>Desktop as a Service</b></div>
+        <div class="col-md-12 col-md-12-grey">
+            <p class="lead"><b>One solution for Microsoft Cloud Voice</b></p>
         </div>
     </div>
     <div class="container">
