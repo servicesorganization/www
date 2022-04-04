@@ -78,7 +78,7 @@ permalink: managed-application-delivery-service.html
 
 <div class="jumbotron jumbotron-height bgimg0">
     <div class="container">
-        <h1>Managed Application Delivery Service</h1>
+        <h12>Managed Application Delivery Service</h12>
         <p></p>
         <p class="p-black">Business enabled application delivery services managed via<br>
         Liquit Workspace.</p>
