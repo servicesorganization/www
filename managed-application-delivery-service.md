@@ -56,7 +56,7 @@ permalink: managed-application-delivery-service.html
     }
 
     .bgimg0 {
-        background-image: linear-gradient(to left, rgba(0,0,0,0), rgba(255,255,255,1)), url('../images/managed-application-delivery-service-bg.png');
+        background-image: linear-gradient(to left, rgba(0,0,0,0), rgba(0,0,0,1)), url('../images/managed-application-delivery-service-bg.png');
         background-position: center;
         background-size: cover;
         background-repeat: no-repeat;
@@ -80,7 +80,7 @@ permalink: managed-application-delivery-service.html
     <div class="container">
         <h12>Managed Application Delivery Service</h12>
         <p></p>
-        <p class="p-black">Business enabled application delivery services managed via<br>
+        <p>Business enabled application delivery services managed via<br>
         Liquit Workspace.</p>
     </div>
 </div>

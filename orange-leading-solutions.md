@@ -164,7 +164,7 @@ permalink: orange-leading-solutions.html
         <div class="col-md-6">
         </div>
         <div class="col-md-6 text-right">
-            <h7 class="header-light regular-pad">Cloud Managed Printing    </h7>
+            <h7 class="header-light regular-pad">Cloud Managed Printing</h7>
             <br>
             <br>
             <p class="lead"><i class="fa fa-circle" aria-hidden="true" style="color: #FF7900;"></i>&nbsp;&nbsp;<b>Business enabled virtual apps & desktops</b></p>

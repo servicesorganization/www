@@ -56,7 +56,7 @@ permalink: managed-workspace-portal.html
     }
 
     .bgimg0 {
-        background-image: linear-gradient(to left, rgba(0,0,0,0), rgba(255,255,255,1)), url('../images/managed-workspace-portal-bg.png');
+        background-image: linear-gradient(to left, rgba(0,0,0,0), rgba(0,0,0,1)), url('../images/managed-workspace-portal-bg.png');
         background-position: center top 20%;
         background-size: cover;
         background-repeat: no-repeat;
