@@ -46,7 +46,7 @@ permalink: orange-leading-solutions.html
     }
 
     .bgimg1 {
-        background-image: linear-gradient(to right, rgba(0,0,0,0), rgba(255,255,255,1)), url('../images/managed-dectection-and-response-bg.png');
+        background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.2) 10%, rgba(0, 0, 0, 0.7) 70%, rgba(0, 0, 0, 1) 100%), url('../images/managed-dectection-and-response-bg.png');
         background-position: center top 30%;
         background-size: cover;
         background-repeat: no-repeat;
@@ -55,7 +55,7 @@ permalink: orange-leading-solutions.html
     }
 
     .bgimg2 {
-        background-image: linear-gradient(to left, rgba(0,0,0,0), rgba(221,221,221,1)), url('../images/managed-office-365-bg.png');
+        background-image: linear-gradient(to left, rgba(0,0,0,0), rgba(221,221,221,1)), url('../images/managed-cloud-hosted-desktop-and-apps-hybrid.png');
         background-position: center;
         background-size: cover;
         background-repeat: no-repeat;
