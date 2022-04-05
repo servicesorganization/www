@@ -56,7 +56,7 @@ permalink: managed-office-365.html
     }
 
     .bgimg0 {
-        background-image: url('../images/managed-office-365-bg.png');
+        background-image: linear-gradient(to left, rgba(0,0,0,0), rgba(255,255,255,1)), url('../images/managed-office-365-bg.png');
         background-position: center top 20%;
         background-size: cover;
         background-repeat: no-repeat;
