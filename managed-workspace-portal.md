@@ -78,7 +78,7 @@ permalink: managed-workspace-portal.html
     <div class="container">
         <h12>Managed Workspace Portal</h12>
         <p></p>
-        <p class="p-black">Business enabled workspace portal delivered and managed by<br>
+        <p>Business enabled workspace portal delivered and managed by<br>
         Orange.</p>
     </div>
 </div>

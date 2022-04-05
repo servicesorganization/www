@@ -80,7 +80,7 @@ permalink: managed-office-365.html
     <div class="container">
         <h12>Managed Office 365</h12>
         <p></p>
-        <p class="p-black">Business enabled Office 365 managed via<br>
+        <p>Business enabled Office 365 managed via<br>
         Microsoft Devops.</p>
     </div>
 </div>

@@ -82,7 +82,7 @@ permalink: managed-cloud-hosted-desktops-and-apps.html
     <div class="container">
         <h12>Managed Cloud Hosted Desktops & Apps</h12>
         <p></p>
-        <p class="p-black">Business enabled virtual desktops and applications running on<br>
+        <p>Business enabled virtual desktops and applications running on<br>
         Microsoft Azure Virtual Desktop.</p>
     </div>
 </div>
