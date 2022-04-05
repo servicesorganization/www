@@ -55,7 +55,7 @@ permalink: orange-leading-solutions.html
     }
 
     .bgimg2 {
-        background-image: linear-gradient(to left, rgba(0,0,0,0), rgba(221,221,221,1)), url('../images/managed-cloud-hosted-desktop-and-apps-hybrid.png');
+        background-image: linear-gradient(to left, rgba(0,0,0,0), rgba(221,221,221,1)), url('../images/managed-cloud-hosted-desktop-and-apps-hybrid-bg.png');
         background-position: center;
         background-size: cover;
         background-repeat: no-repeat;
@@ -64,7 +64,7 @@ permalink: orange-leading-solutions.html
     }
 
     .bgimg3 {
-        background-image: linear-gradient(to right, rgba(0,0,0,0), rgba(0,0,0,1)), url('../images/managed-workspace-portal.png');
+        background-image: linear-gradient(to right, rgba(0,0,0,0), rgba(0,0,0,1)), url('../images/cloud-managed-printing-bg.png');
         background-position: center;
         background-size: cover;
         background-repeat: no-repeat;
@@ -73,7 +73,7 @@ permalink: orange-leading-solutions.html
     }
 
     .bgimg4 {
-        background-image: linear-gradient(to left, rgba(0,0,0,0), rgba(255,255,255,1)), url('../images/managed-application-delivery-service-bg.png');
+        background-image: linear-gradient(to left, rgba(0,0,0,0), rgba(255,255,255,1)), url('../images/digital-employee-experience-monitoring-bg.png');
         background-position: center;
         background-size: cover;
         background-repeat: no-repeat;
@@ -113,13 +113,13 @@ permalink: orange-leading-solutions.html
 
 <div class="jumbotron jumbotron-black"></div>
 
-<!-- Managed Cloud Hosted Desktops and Apps -->
+<!-- Managed Detection and Response -->
 
 <div class="jumbotron bgimg1">
     <div class="container">
         <div class="col-md-6">
         </div>
-        <div class="col-md-6 text-right div-black">
+        <div class="col-md-6 text-right">
             <h7 class="header-light regular-pad">Managed Detection and Response</h7>
             <br>
             <br>
@@ -135,7 +135,7 @@ permalink: orange-leading-solutions.html
 
 <div class="jumbotron jumbotron-black"></div>
 
-<!-- Managed Office 365  -->
+<!-- Managed Cloud Hosted Desktop and Apps Hybrid -->
 
 <div class="jumbotron bgimg2">
     <div class="container">
@@ -157,7 +157,7 @@ permalink: orange-leading-solutions.html
 
 <div class="jumbotron jumbotron-black"></div>
 
-<!-- Managed Workspace Portal -->
+<!-- Cloud Managed Printing -->
 
 <div class="jumbotron bgimg3">
     <div class="container">
@@ -179,7 +179,7 @@ permalink: orange-leading-solutions.html
 
 <div class="jumbotron jumbotron-black"></div>
 
-<!-- Managed Application Delivery Service  -->
+<!-- Digital Employee Experience Monitoring  -->
 
 <div class="jumbotron bgimg4">
     <div class="container">
