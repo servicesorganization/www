@@ -25,7 +25,7 @@ permalink: index.html
                 <p class="lead">Orange Workspace Services is an managed ecosystem of combined devices and services that 
                     empowers employees to do their work, anytime, anywhere, in the most productive, user-friendly 
                     and secure way.</p> 
-                <p class="lead">Our Workspace Services capabilities will::</p>
+                <p class="lead">Our Workspace Services capabilities will:</p>
                 <p class="lead"><b>1: Support hybrid work scenarios</b> so you can consume your digital workspace anytime, anywhere and on any device, empower collaboration and productivity and provide secure access to your
                     companies applications and data.</p>
                 <p class="lead"><b>2: Boost employee experience</b> by delivering a unified employee experience across all devices, ensure the best possible digital workspace performance and 
