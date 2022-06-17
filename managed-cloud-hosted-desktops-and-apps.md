@@ -1,7 +1,7 @@
 ---
 layout: firstpage
 title: Managed Cloud Hosted Desktops and Apps
-permalink: managed-cloud-hosted-desktops-and-apps
+permalink: managed-cloud-hosted-desktops-and-apps.html
 ---
 
 <style type="text/css">
